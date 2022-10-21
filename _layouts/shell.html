@@ -9,7 +9,7 @@
 			@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400&display=swap');
 			body {
 				font-family: 'Poppins', sans-serif;
-				width: 90%;
+				width: 80%;
 				max-width: 750px;
 				margin: auto;
 			}
@@ -18,13 +18,22 @@
 				height: 3em;
 				margin: 2em 0 2em auto;
 			}
-			h1, h2, img { text-align: center; }
+			h1, h2, img, abs { text-align: center; }
 			p { text-align: justify; }
 			abs {
 				color: #851830;
-				transform: translate(-2em,1em);
 				display: block;
-				height: 0;
+			}
+			@media (max-width:500px) {
+				h1, h2 { font-size: 1.2em; }
+				body { width: 90% }
+			}
+			@media (min-width:500px) {
+				abs {
+					text-align: left;
+					transform: translate(-2em,1em);
+					height: 0;
+				}
 			}
 			h1:nth-of-type(5n+1) par { color: #AB1F3D; }
 			h1:nth-of-type(5n+2) par { color: #409CD6; }
