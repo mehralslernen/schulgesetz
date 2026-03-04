@@ -41,10 +41,10 @@ currentpar = 0
 padict = {}
 
 for line in cleanmd.splitlines():
-	par = re.match(r'# § (\d+[abcdef]?)', line)
+	par = re.match(r'§ (\d+[abcdef]?)', line)
 	if par:
 		print('\n§', par.group(1))
-		line = re.sub(r'§ (\d+[abcdef]?)', r'<par id="P\1">§ \1</par>', line)
+		line = re.sub(r'§ (\d+[abcdef]?)', r'# <par id="P\1">§ \1</par>', line)
 		currentpar = par.group(1)
 		padict[currentpar] = set()
 	abs = re.match(r'^\\\((\d+)\\\)', line)
@@ -65,7 +65,7 @@ for ref in re.finditer(r'§\s{1,3}(\d+[abcdef]?)\s{1,3}Absatz\s{1,3}(\d+)', md):
 	p = ref.group(1)
 	a = ref.group(2)
 	exists = p in padict and a in padict[p]
-	print(ref, ref.group(1), ref.group(2), "exists" if exists else "fake")
+	print(ref.group(0), '->', ref.group(1), ref.group(2), "exists" if exists else "fake")
 	if exists and not (p, a) in linked:
 		md = re.sub(r'§\s{{1,3}}{0}\s{{1,3}}Absatz\s{{1,3}}{1}'.format(p, a),
 			r'<a href="#P{0}A{1}">§ {0} Absatz {1}</a>'.format(p, a),
