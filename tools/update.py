@@ -16,6 +16,9 @@ soup = BeautifulSoup(fullhtml, "lxml")
 
 content = soup.find(id="inhalt")
 
+for match in content.find_all("h1", class_="zeile1"):
+    match.replace_with('')
+
 for match in content.find_all(["sup", "span", "br"]):
     match.replace_with('')
 
@@ -71,8 +74,6 @@ for ref in re.finditer(r'§\s{1,3}(\d+[abcdef]?)\s{1,3}Absatz\s{1,3}(\d+)', md):
 			r'<a href="#P{0}A{1}">§ {0} Absatz {1}</a>'.format(p, a),
 			md)
 		linked.add((p,a))
-
-md = md[3:]
 
 of = open('schulgesetz.md', 'w+')
 of.write(md)

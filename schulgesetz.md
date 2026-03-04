@@ -1,5 +1,3 @@
-esamtansicht Schulgesetz
-
 ## Schulgesetz für das Land Berlin (SchulG)
 
 Vom 26. Januar 2004 (GVBl. S. 26)
