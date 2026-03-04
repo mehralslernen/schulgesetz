@@ -1,15 +1,15 @@
-## Schulgesetz für das Land Berlin
+esamtansicht Schulgesetz
 
-## (Schulgesetz – SchulG)
+## Schulgesetz für das Land Berlin (SchulG)
 
-Vom 26. Januar 2004
+Vom 26. Januar 2004 (GVBl. S. 26)
 
-Zuletzt geändert durch das Gesetz zur Wiederherstellung der Parität in
-der Schulkonferenz vom 5. Juli 2022 (GVBl. Berlin 2022 S. 452)
+Zuletzt geändert durch das Gesetz zur Änderung des
+Kindertagesförderungsgesetzes und weiterer Rechtsvorschriften vom 23.
+Dezember 2025 (GVBl. S. 629)
 
-
-
-## Teil I - Auftrag der Schule und Recht auf Bildung und Erziehung, Anwendungsbereich
+Teil I Auftrag der Schule und Recht auf Bildung und Erziehung,
+Anwendungsbereich
 
 # <par id="P1">§ 1</par> Auftrag der Schule
 
@@ -32,7 +32,7 @@ vor jeder ehrlichen Überzeugung und von der Anerkennung der
 Notwendigkeit einer fortschrittlichen Gestaltung der gesellschaftlichen
 Verhältnisse sowie einer friedlichen Verständigung der Völker.
 
-Dabei sollen die Antike, das Christentum, sowie weitere Weltreligionen
+Dabei sollen die Antike, das Christentum sowie weitere Weltreligionen
 und Weltanschauungen und die für die Entwicklung zum Humanismus, zur
 Freiheit und zur Demokratie wesentlichen gesellschaftlichen Bewegungen
 ihren Platz finden.
@@ -71,52 +71,87 @@ teilzunehmen und die Zukunft der Gesellschaft mitzuformen.
 
 <abs id="P3A2">(2)</abs> Die Schülerinnen und Schüler sollen insbesondere lernen,
 
-1\. für sich und gemeinsam mit anderen zu lernen und Leistungen zu
-erbringen sowie ein aktives soziales Handeln zu entwickeln, 2. sich
-Informationen selbständig zu verschaffen und sich ihrer kritisch zu
+1\.
+für sich und gemeinsam mit anderen zu lernen und Leistungen zu erbringen
+sowie ein aktives soziales Handeln zu entwickeln,
+
+2\.
+sich Informationen selbständig zu verschaffen und sich ihrer kritisch zu
 bedienen, eine eigenständige Meinung zu vertreten und sich mit den
-Meinungen anderer vorurteilsfrei auseinander zu setzen, 3. aufrichtig
-und selbstkritisch zu sein und das als richtig und notwendig Erkannte
-selbstbewusst zu tun, 4. die eigenen Wahrnehmungs-, Empfindungs- und
-Ausdrucksfähigkeiten sowie musisch-künstlerischen Fähigkeiten zu
-entfalten und mit Medien sachgerecht, kritisch und produktiv umzugehen,
-5. logisches Denken, Kreativität und Eigeninitiative zu entwickeln, 6.
+Meinungen anderer vorurteilsfrei auseinander zu setzen,
+
+3\.
+aufrichtig und selbstkritisch zu sein und das als richtig und notwendig
+Erkannte selbstbewusst zu tun,
+
+4\.
+die eigenen Wahrnehmungs-, Empfindungs- und Ausdrucksfähigkeiten sowie
+musisch-künstlerischen Fähigkeiten zu entfalten und mit Medien
+sachgerecht, kritisch und produktiv umzugehen,
+
+5\.
+logisches Denken, Kreativität und Eigeninitiative zu entwickeln,
+
+6\.
 Konflikte zu erkennen, vernünftig und gewaltfrei zu lösen, sie aber auch
-zu ertragen, 7. Freude an der Bewegung und am gemeinsamen Sporttreiben
-zu entwickeln.
+zu ertragen,
+
+7\.
+Freude an der Bewegung und am gemeinsamen Sporttreiben zu entwickeln.
 
 <abs id="P3A3">(3)</abs> Schulische Bildung und Erziehung sollen die Schülerinnen und
 Schüler insbesondere befähigen,
 
-1\. die Beziehungen zu anderen Menschen in Respekt, Gleichberechtigung
-und gewaltfreier Verständigung zu gestalten sowie allen Menschen
-Gerechtigkeit widerfahren zu lassen, 2. die Gleichstellung aller
-Geschlechter auch über die Anerkennung der Leistungen der Frauen in
-Geschichte, Wissenschaft, Wirtschaft, Technik, Kultur und Gesellschaft
-zu erfahren, 3. die eigene Kultur sowie andere Kulturen und Sprachen
-kennen zu lernen und zu verstehen, Menschen anderer Herkunft, Religion
-und Weltanschauung vorurteilsfrei zu begegnen, zum friedlichen
-Zusammenleben der Kulturen durch die Entwicklung von interkultureller
-Kompetenz beizutragen und für das Lebensrecht und die Würde aller
-Menschen einzutreten, 4. ihre Aufgaben als Bürgerinnen und Bürger in
-einem gemeinsamen Europa wahrzunehmen, 5. die Auswirkungen des eigenen
-und gesellschaftlichen Handelns auf die natürlichen lokalen und globalen
-Lebensgrundlagen zu erkennen, für ihren Schutz Mitverantwortung zu
-übernehmen und sie für die folgenden Generationen zu erhalten, 6. ein
-Verständnis für Ursachen und Auswirkungen des Klimawandels sowie die
+1\.
+die Beziehungen zu anderen Menschen in Respekt, Gleichberechtigung und
+gewaltfreier Verständigung zu gestalten sowie allen Menschen
+Gerechtigkeit widerfahren zu lassen,
+
+2\.
+die Gleichstellung aller Geschlechter auch über die Anerkennung der
+Leistungen der Frauen in Geschichte, Wissenschaft, Wirtschaft, Technik,
+Kultur und Gesellschaft zu erfahren,
+
+3\.
+die eigene Kultur sowie andere Kulturen und Sprachen kennen zu lernen
+und zu verstehen, Menschen anderer Herkunft, Religion und Weltanschauung
+vorurteilsfrei zu begegnen, zum friedlichen Zusammenleben der Kulturen
+durch die Entwicklung von interkultureller Kompetenz beizutragen und für
+das Lebensrecht und die Würde aller Menschen einzutreten,
+
+4\.
+ihre Aufgaben als Bürgerinnen und Bürger in einem gemeinsamen Europa
+wahrzunehmen,
+
+5\.
+die Auswirkungen des eigenen und gesellschaftlichen Handelns auf die
+natürlichen lokalen und globalen Lebensgrundlagen zu erkennen, für ihren
+Schutz Mitverantwortung zu übernehmen und sie für die folgenden
+Generationen zu erhalten,
+
+6\.
+ein Verständnis für Ursachen und Auswirkungen des Klimawandels sowie die
 notwendigen Anpassungen an dessen Folgen zu entwickeln, Maßnahmen zum
 Klimaschutz zu erfahren und die eigenständige und verantwortungsbewusste
-Umsetzung solcher Maßnahmen im Alltag zu erlernen, 7. die Folgen
-technischer, rechtlicher, politischer und ökonomischer Entwicklungen
-abzuschätzen sowie die wachsenden Anforderungen des gesellschaftlichen
-Wandels und der internationalen Dimension aller Lebensbezüge zu
-bewältigen, 8. ihre körperliche, soziale und geistige Entwicklung durch
+Umsetzung solcher Maßnahmen im Alltag zu erlernen,
+
+7\.
+die Folgen technischer, rechtlicher, politischer und ökonomischer
+Entwicklungen abzuschätzen sowie die wachsenden Anforderungen des
+gesellschaftlichen Wandels und der internationalen Dimension aller
+Lebensbezüge zu bewältigen,
+
+8\.
+ihre körperliche, soziale und geistige Entwicklung durch
 kontinuierliches Sporttreiben und eine gesunde Lebensführung positiv zu
 gestalten sowie Fairness, Toleranz, Teamgeist und Leistungsbereitschaft
-zu entwickeln, 9. ihr zukünftiges privates, berufliches und öffentliches
-Leben in Verantwortung für die eigene Gesundheit und die ihrer
-Mitmenschen auszugestalten, Freude am Leben und am Lernen zu entwickeln
-sowie die Freizeit sinnvoll zu nutzen.
+zu entwickeln,
+
+9\.
+ihr zukünftiges privates, berufliches und öffentliches Leben in
+Verantwortung für die eigene Gesundheit und die ihrer Mitmenschen
+auszugestalten, Freude am Leben und am Lernen zu entwickeln sowie die
+Freizeit sinnvoll zu nutzen.
 
 # <par id="P4">§ 4</par> Grundsätze für die Verwirklichung
 
@@ -293,11 +328,20 @@ Sie arbeitet hierzu mit den zuständigen Stellen der Bezirke zusammen.
 # <par id="P5b">§ 5b</par> Schulbezogene Jugendsozialarbeit
 
 <abs id="P5bA1">(1)</abs> Schulbezogene Jugendsozialarbeit gehört zum schulischen Angebot.
-Sie wird in eigener Verantwortung der Jugendhilfe bereitgestellt. Sie
-kann von anerkannten Trägern der Jugendhilfe auf der Basis von
-Kooperationsvereinbarungen zwischen dem die Leistung erbringenden
-Jugendhilfeträger und der jeweiligen Schule am Schulstandort erbracht
-werden.
+
+Sie soll von anerkannten Trägern der freien Jugendhilfe auf der Basis
+von Kooperationsvereinbarungen zwischen der Schule und dem Träger der
+freien Jugendhilfe am Schulstandort erbracht werden.
+
+Die Kooperationsvereinbarungen werden im Einvernehmen mit dem
+bezirklichen Jugendamt, der zuständigen Schulbehörde und der
+Schulaufsichtsbehörde geschlossen.
+
+Weitere Vorgaben zur Umsetzung der schulbezogenen Jugendsozialarbeit
+werden von der für das Schulwesen zuständigen Senatsverwaltung im
+Einvernehmen mit der für Jugend zuständigen Senatsverwaltung festgelegt.
+
+Absatz 4 bleibt unberührt.
 
 <abs id="P5bA2">(2)</abs> Schulbezogene Jugendsozialarbeit ist ein lebensweltorientiertes,
 niedrigschwelliges Angebot zur ganzheitlichen Förderung und
@@ -317,8 +361,9 @@ andere Angebote der Jugendarbeit oder Jugendsozialarbeit oder andere
 Angebote der Kinder- und Jugendhilfe gemäß dem Achten Buch
 Sozialgesetzbuch.
 
-<abs id="P5bA4">(4)</abs> Die für Jugend und Bildung zuständigen Senatsverwaltungen werden
-ermächtigt, nach Maßgabe des Haushaltsplanes das Nähere zur
+<abs id="P5bA4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+ermächtigt, im Einvernehmen mit der für Jugend zuständigen
+Senatsverwaltung, nach Maßgabe des Haushaltsplanes das Nähere zur
 Ausgestaltung der schulbezogenen Jugendsozialarbeit, insbesondere zu
 verbindlichen Kooperationsregelungen, zur inhaltlich-fachlichen
 Ausgestaltung und Steuerung sowie Qualitätssicherung durch
@@ -341,9 +386,14 @@ Anwendung, soweit es ausdrücklich bestimmt ist.
 
 <abs id="P6A3">(3)</abs> Dieses Gesetz gilt nicht für
 
-1\. die Einrichtungen der Weiterbildung, 2. die Ausbildungseinrichtungen
-der öffentlichen Verwaltung und 3. die Ausbildungseinrichtungen für
-Gesundheitsfachberufe,
+1\.
+die Einrichtungen der Weiterbildung,
+
+2\.
+die Ausbildungseinrichtungen der öffentlichen Verwaltung und
+
+3\.
+die Ausbildungseinrichtungen für Gesundheitsfachberufe,
 
 soweit nicht gesetzlich etwas anderes bestimmt ist.
 
@@ -353,11 +403,9 @@ Gesetz Anwendung, soweit dies ausdrücklich bestimmt ist.
 Schulen in freier Trägerschaft sind Schulen, deren Träger natürliche
 oder juristische Personen des privaten oder öffentlichen Rechts sind.
 
+Teil II Schulgestaltung
 
-
-## Teil II - Schulgestaltung
-
-## Abschnitt I - Selbständigkeit, Eigenverantwortung, Qualitätssicherung
+Abschnitt I Selbständigkeit, Eigenverantwortung, Qualitätssicherung
 
 # <par id="P7">§ 7</par> Schulische Selbständigkeit und Eigenverantwortung
 
@@ -425,9 +473,23 @@ Lehrbedingungen sowie für außerschulische Kooperationen.
 
 Insbesondere erhält sie die erforderlichen Sachmittel für:
 
-1\. Lernmittel, 2. Lehrmittel und Unterrichtsmaterial einschließlich der
-Informations- und Kommunikationstechnik, 3. schulische Veranstaltungen,
-4. Geschäftsbedarf, 5. die Ausstattung mit Schul- und Hausgeräten, 6.
+1\.
+Lernmittel,
+
+2\.
+Lehrmittel und Unterrichtsmaterial einschließlich der Informations- und
+Kommunikationstechnik,
+
+3\.
+schulische Veranstaltungen,
+
+4\.
+Geschäftsbedarf,
+
+5\.
+die Ausstattung mit Schul- und Hausgeräten,
+
+6\.
 kleine bauliche Unterhaltungsmaßnahmen.
 
 Für die Mittel nach Satz 2 Nr. 1 und 2 werden Mindeststandards durch die
@@ -473,42 +535,73 @@ Personen koordinieren.
 
 <abs id="P8A2">(2)</abs> Die Schule legt im Schulprogramm insbesondere fest:
 
-1\. ihre besonderen pädagogischen Ziele, Schwerpunkte und
-Organisationsformen in Unterricht, Erziehung, Beratung und Betreuung 2.
+1\.
+ihre besonderen pädagogischen Ziele, Schwerpunkte und
+Organisationsformen in Unterricht, Erziehung, Beratung und Betreuung
+einschließlich des schulischen Ganztagskonzepts sowie die Form der
+Leistungsbeurteilung und die Formen der Leistungsdifferenzierung,
+
+2\.
 ihre Umsetzung der Rahmenlehrplanvorgaben in ein schuleigenes
-pädagogisches Handlungskonzept (schulinternes Curriculum), 3. die
-Ausgestaltung der pädagogischen Schwerpunkte und besonderen
-Organisationsformen durch die Stundentafel (<a href="#P14A4">§ 14 Absatz 4</a>), 4. die
-Evaluationskriterien, mit denen sie die Qualität ihrer Arbeit beurteilt
-und die Annäherung an die gesetzten und vereinbarten Ziele misst, 5. ein
-Kinder- und Jugendschutzkonzept, das der Vermeidung von
+pädagogisches Handlungskonzept (schulinternes Curriculum),
+
+3\.
+die Ausgestaltung der pädagogischen Schwerpunkte und besonderen
+Organisationsformen durch die Stundentafel (<a href="#P14A4">§ 14 Absatz 4</a>),
+
+4\.
+die Evaluationskriterien, mit denen sie die Qualität ihrer Arbeit
+beurteilt und die Annäherung an die gesetzten und vereinbarten Ziele
+misst,
+
+5\.
+ein Kinder- und Jugendschutzkonzept, das der Vermeidung von
 Kindeswohlgefährdungen, insbesondere durch sexuellen Missbrauch, Gewalt
-und Mobbing dient, 6. die Zusammenarbeit mit dem zuständigen Jugendamt
-zur Gewährleistung des Kinderschutzes und die Ausgestaltung der
-schulbezogenen Jugendsozialarbeit gemäß § 5b, 7. die Ziele und
-besonderen Formen der Zusammenarbeit mit den Erziehungsberechtigten
-hinsichtlich der Ausübung der gemeinsamen Verantwortung für die Bildung
-und Erziehung ihrer Kinder, 8. die Ziele, Inhalte und Rahmenbedingungen
-der Zusammenarbeit mit außerschulischen Kooperationspartnern, 9. die
-Kooperationsformen der Lehrkräfte, der schulischen Mitarbeiterinnen und
-Mitarbeiter und anderer an der Verwirklichung des Bildungs- und
-Erziehungsauftrags beteiligten Personen, 10. den Beratungs- und
-Fortbildungsbedarf sowie die erforderlichen Maßnahmen zur
-Organisationsentwicklung und zur Personalentwicklung, 11. die
-finanzielle Absicherung der besonderen pädagogischen Schwerpunkte und
-Aktivitäten durch das Schulbudget, 12. die Grundsätze der
-Demokratiebildung und der konkreten Beteiligung von Schülerinnen und
-Schülern an der Gestaltung des Schulalltags, einschließlich der
-Beteiligung der Schülerinnen und Schüler bei der finanziellen
-Absicherung der besonderen Pädagogischen Schwerpunkte und Aktivitäten,
-auch durch ein eigenes Budget der Schülerinnen und Schüler
-(Schülerinnen- und Schülerhaushalt), 13. die übergreifende Bildungs- und
-Erziehungsaufgabe der Mobilitätsbildung und Verkehrserziehung, die
-schulischen Maßnahmen der Schulwegsicherheit und die Elternarbeit zur
-Verkehrsunfallprävention in einem schulspezifischen Mobilitätskonzept.
+und Mobbing dient,
+
+6\.
+die Zusammenarbeit mit dem zuständigen Jugendamt zur Gewährleistung des
+Kinderschutzes und die Ausgestaltung der schulbezogenen
+Jugendsozialarbeit gemäß § 5b,
+
+7\.
+die Ziele und besonderen Formen der Zusammenarbeit mit den
+Erziehungsberechtigten hinsichtlich der Ausübung der gemeinsamen
+Verantwortung für die Bildung und Erziehung ihrer Kinder,
+
+8\.
+die Ziele, Inhalte und Rahmenbedingungen der Zusammenarbeit mit
+außerschulischen Kooperationspartnern,
+
+9\.
+die Kooperationsformen der Lehrkräfte, der schulischen Mitarbeiterinnen
+und Mitarbeiter und anderer an der Verwirklichung des Bildungs- und
+Erziehungsauftrags beteiligten Personen,
+
+10\.
+den Beratungs- und Fortbildungsbedarf sowie die erforderlichen Maßnahmen
+zur Organisationsentwicklung und zur Personalentwicklung,
+
+11\.
+die finanzielle Absicherung der besonderen pädagogischen Schwerpunkte
+und Aktivitäten durch das Schulbudget,
+
+12\.
+die Grundsätze der Demokratiebildung und der konkreten Beteiligung von
+Schülerinnen und Schülern an der Gestaltung des Schulalltags,
+einschließlich der Beteiligung der Schülerinnen und Schüler bei der
+finanziellen Absicherung der besonderen Pädagogischen Schwerpunkte und
+Aktivitäten, auch durch ein eigenes Budget der Schülerinnen und Schüler
+(Schülerinnen- und Schülerhaushalt),
+
+13\.
+die übergreifende Bildungs- und Erziehungsaufgabe der Mobilitätsbildung
+und Verkehrserziehung, die schulischen Maßnahmen der Schulwegsicherheit
+und die Elternarbeit zur Verkehrsunfallprävention in einem
+schulspezifischen Mobilitätskonzept.
 
 <abs id="P8A3">(3)</abs> Die Schule soll bei der Entwicklung ihres Programms die
-Unterstützung in Anspruch nehmen.
+Unterstützung des Berliner Landesinstituts (§ 108) in Anspruch nehmen.
 
 Sie ist verpflichtet, ihr Schulprogramm den Schulen und Einrichtungen
 der Jugendhilfe, mit denen sie zusammenarbeitet, zur Kenntnis zu bringen
@@ -520,9 +613,15 @@ Schulaufsichtsbehörde.
 
 Die Genehmigung darf nur versagt werden, wenn das Schulprogramm
 
-1\. gegen Rechts- oder Verwaltungsvorschriften verstößt, 2. nicht mit
-dem Bildungs- und Erziehungsauftrag der Schule vereinbar ist oder 3. die
-Gleichwertigkeit des schulischen Angebots in den Bereichen des
+1\.
+gegen Rechts- oder Verwaltungsvorschriften verstößt,
+
+2\.
+nicht mit dem Bildungs- und Erziehungsauftrag der Schule vereinbar ist
+oder
+
+3\.
+die Gleichwertigkeit des schulischen Angebots in den Bereichen des
 Unterrichts, der Betreuung und Erziehung nicht gewährleistet,
 insbesondere die nach den Anforderungen der Bildungsgänge notwendigen
 Standards nicht sichergestellt werden können.
@@ -542,8 +641,10 @@ Schulprogramms zu berücksichtigen.
 Qualitätssicherung verpflichtet.
 
 Die Qualitätssicherung schulischer Arbeit erstreckt sich auf die gesamte
-Unterrichts- und Erziehungstätigkeit, die Organisation der Schule, das
-Schulleben sowie die außerschulischen Kooperationsbeziehungen.
+Unterrichts- und Erziehungstätigkeit, inklusive der pädagogischen
+Tätigkeit in der außerunterrichtlichen und ergänzenden Förderung und
+Betreuung, die Organisation der Schule, das Schulleben sowie die
+außerschulischen Kooperationsbeziehungen.
 
 Das Maß und die Art und Weise, wie Klassen, Kurse, Jahrgangsstufen und
 Schulen den Bildungs- und Erziehungsauftrag der Schule erfüllen, soll
@@ -607,13 +708,17 @@ ermächtigt, das Nähere zur Qualitätssicherung und Evaluation durch
 Rechtsverordnung zu regeln, insbesondere Verfahren, Konzeption,
 Durchführung, Auswertung und Berichtslegung
 
-1\. der internen Evaluation, 2. der externen Evaluation einschließlich
-schulübergreifender und schulartübergreifender Vergleiche, 3. zentraler
-Schulleistungsuntersuchungen.
+1\.
+der internen Evaluation,
 
+2\.
+der externen Evaluation einschließlich schulübergreifender und
+schulartübergreifender Vergleiche,
 
+3\.
+zentraler Schulleistungsuntersuchungen.
 
-## Abschnitt II - Gestaltung von Unterricht und Erziehung
+Abschnitt II Gestaltung von Unterricht und Erziehung
 
 # <par id="P10">§ 10</par> Rahmenlehrpläne für Unterricht und Erziehung
 
@@ -666,9 +771,9 @@ Interessen berührt sind.
 Die Mitglieder werden von dem für das Schulwesen zuständigen Mitglied
 des Senats berufen.
 
-Das Landesinstitut für Schule und Medien Berlin-Brandenburg koordiniert
-nach den Vorgaben der Schulaufsichtsbehörde die Rahmenlehrplanarbeit;
-dies gilt nicht für Kommissionen nach Absatz 2.
+Das Berliner Landesinstitut koordiniert nach den Vorgaben der
+Schulaufsichtsbehörde die Rahmenlehrplanarbeit; dies gilt nicht für
+Kommissionen nach Absatz 2.
 
 <abs id="P11A2">(2)</abs> Den Rahmenlehrplänen für die Berufsschulen werden die
 Rahmenlehrpläne der Kultusministerkonferenz zugrunde gelegt.
@@ -683,7 +788,8 @@ spätestens nach jeweils zehn Jahren, zu überarbeiten.
 werden, in gemeinsamen Rahmenlehrplan-Kommissionen einheitliche
 Rahmenlehrpläne für diese Länder zu entwickeln.
 
-# <par id="P12">§ 12</par> Unterrichtsfächer, Lernbereiche und Querschnittsaufgaben, Lernfelder, Ethik
+# <par id="P12">§ 12</par> Unterrichtsfächer, Lernbereiche und Querschnittsaufgaben,
+Lernfelder, Ethik
 
 <abs id="P12A1">(1)</abs> In den Unterrichtsfächern sind die für jedes Fach geltenden
 spezifischen Didaktiken und Methoden sowie die das Fach kennzeichnenden
@@ -707,9 +813,10 @@ mehreren beteiligten Lehrkräften unterrichtet werden.
 Dabei ist auf die angemessene Berücksichtigung des Anteils der
 jeweiligen Lerninhalte zu achten.
 
-Wird ein Lernbereich fachübergreifend unterrichtet, so soll die
-Bewertung zusammengefasst und in einer Leistungsbewertung ausgedrückt
-werden.
+Wird ein Lernbereich fachübergreifend unterrichtet, muss für die
+einzelnen Unterrichtsfächer jeweils eine gesonderte Bewertung
+vorgenommen werden; für den Lernbereich soll zusätzlich eine
+zusammenfassende Bewertung vorgenommen werden.
 
 <abs id="P12A3">(3)</abs> Die Schulkonferenz entscheidet im Rahmen des Schulprogramms auf
 der Grundlage einer Konzeption der betroffenen Fachkonferenzen, ob die
@@ -783,8 +890,8 @@ obliegt der einzelnen Schule.
 Die Schule hat die Erziehungsberechtigten rechtzeitig und in geeigneter
 Weise über Ziel, Inhalt und Form des Ethikunterrichts zu informieren.
 
-Die schulische Sexualerziehung ergänzt die Sexualerziehung durch die
-Erziehungsberechtigten.
+<abs id="P12A7">(7)</abs> Die schulische Sexualerziehung ergänzt die Sexualerziehung durch
+die Erziehungsberechtigten.
 
 Ihr Ziel ist es, den Schülerinnen und Schülern das ihrem Alter und ihrer
 Reife angemessene Wissen über biologische und gesellschaftliche
@@ -850,11 +957,14 @@ Schulleiterin oder dem Schulleiter.
 Nach Vollendung des 14. Lebensjahres steht dieses Recht den Schülerinnen
 und Schülern zu.
 
-<abs id="P13A5">(5)</abs> Die Schule hat für die Erteilung des Religionsunterrichts an die
-nach Absatz 4 ordnungsgemäß angemeldeten Schülerinnen und Schüler
-wöchentlich zwei Unterrichtsstunden im Stundenplan der Klassen
-freizuhalten und unentgeltlich Unterrichtsräume zur Verfügung zu
-stellen.
+<abs id="P13A5">(5)</abs> Die Schule ermöglicht es den Religionsgemeinschaften,
+Religionsunterricht anzubieten, wenn die Religionsgemeinschaften dies
+wünschen.
+
+Sie hat für die Erteilung des Religionsunterrichts an die nach Absatz 4
+ordnungsgemäß angemeldeten Schülerinnen und Schüler wöchentlich zwei
+Unterrichtsstunden im Stundenplan der Klassen freizuhalten und
+unentgeltlich Unterrichtsräume zur Verfügung zu stellen.
 
 Die nicht angemeldeten Schülerinnen und Schüler können während der
 Religionsstunden unterrichtsfrei gelassen werden.
@@ -885,12 +995,18 @@ Lernvolumina Rechnung zu tragen.
 <abs id="P14A2">(2)</abs> In den Stundentafeln wird unterschieden, welche Unterrichtsfächer,
 Lernbereiche und Querschnittsaufgaben oder Lernfelder
 
-1\. zum Pflichtunterricht gehören, in dem alle Schülerinnen und Schüler
-unterrichtet werden und an dem teilzunehmen sie verpflichtet sind, 2. im
-Wahlpflichtbereich angeboten werden, in denen die Schülerinnen und
+1\.
+zum Pflichtunterricht gehören, in dem alle Schülerinnen und Schüler
+unterrichtet werden und an dem teilzunehmen sie verpflichtet sind,
+
+2\.
+im Wahlpflichtbereich angeboten werden, in denen die Schülerinnen und
 Schüler nach ihrer Wahl unterrichtet werden und an denen teilzunehmen
-sie verpflichtet sind, oder 3. Wahlangebote sind, an denen die
-Schülerinnen und Schüler nach ihrer Wahl freiwillig teilnehmen.
+sie verpflichtet sind, oder
+
+3\.
+Wahlangebote sind, an denen die Schülerinnen und Schüler nach ihrer Wahl
+freiwillig teilnehmen.
 
 <abs id="P14A3">(3)</abs> Die Schule kann die Stundentafel durch freiwillige
 Unterrichtsveranstaltungen zur Vertiefung und Erweiterung des Bildungs-
@@ -912,14 +1028,28 @@ ermächtigt, die Stundentafeln durch Rechtsverordnung zu erlassen.
 Zur Ausgestaltung der Stundentafeln sind darin insbesondere Regelungen
 zu treffen über
 
-1\. den jeweiligen Stundenrahmen aller Unterrichtsfächer, Lernbereiche
-und Querschnittsaufgaben oder Lernfelder einschließlich seiner
-Verbindlichkeit, 2. den Jahresstundenrahmen, 3. das Verhältnis von
-Pflichtunterricht, Wahlpflichtbereich und Wahlangebot, 4. den Umfang und
-die Voraussetzungen für Abweichungen von der Stundentafel, 5. den Anteil
-und die Formen der Differenzierung des Unterrichts, 6. den Anteil der
-Förderangebote für die Eingliederung von Schülerinnen und Schülern
-nichtdeutscher Herkunftssprache.
+1\.
+den jeweiligen Stundenrahmen aller Unterrichtsfächer, Lernbereiche und
+Querschnittsaufgaben oder Lernfelder einschließlich seiner
+Verbindlichkeit,
+
+2\.
+den Jahresstundenrahmen,
+
+3\.
+das Verhältnis von Pflichtunterricht, Wahlpflichtbereich und
+Wahlangebot,
+
+4\.
+den Umfang und die Voraussetzungen für Abweichungen von der
+Stundentafel,
+
+5\.
+den Anteil und die Formen der Differenzierung des Unterrichts,
+
+6\.
+den Anteil der Förderangebote für die Eingliederung von Schülerinnen und
+Schülern nichtdeutscher Herkunftssprache.
 
 Für berufliche Schulen können abweichend von Satz 2 Nummer 1
 Rahmenstundentafeln gebildet werden.
@@ -967,9 +1097,8 @@ sofern dies gewünscht und schulorganisatorisch möglich ist.
 In Kooperation mit dem frühkindlichen Bereich soll ein Angebot möglichst
 durchgängig bis zum Schulabschluss gestaltet sein.
 
-Es wird insbesondere von immersiven Sprachlernmethoden sowie von der
-Möglichkeit, Sachfachunterricht in einer Zweit- beziehungsweise
-Fremdsprache zu erteilen, Gebrauch gemacht.
+Es wird insbesondere von der Möglichkeit, Sachfachunterricht in einer
+Zweit- beziehungsweise Fremdsprache zu erteilen, Gebrauch gemacht.
 
 (3b) Schülerinnen und Schülern, die mehrsprachig aufwachsen, kann auf
 Antrag eine nichtdeutsche Erstsprache als zweite Fremdsprache anerkannt
@@ -982,22 +1111,29 @@ als Deutsch ist, sowie zur Förderung der Zwei- und Mehrsprachigkeit für
 alle Berliner Schülerinnen und Schüler durch Rechtsverordnung zu regeln,
 insbesondere
 
-1\. die Voraussetzungen für die Aufnahme in Regelklassen und in
-besondere Lerngruppen nach Absatz 2,
+1\.
+die Voraussetzungen für die Aufnahme in Regelklassen und in besondere
+Lerngruppen nach Absatz 2,
 
-2\. die Grundlagen und Verfahren zur Feststellung der Kenntnisse in der
+2\.
+die Grundlagen und Verfahren zur Feststellung der Kenntnisse in der
 deutschen Sprache und der Erstsprache,
 
-3\. die Maßnahmen zur schulischen Integration für zuziehende Kinder und
+3\.
+die Maßnahmen zur schulischen Integration für zuziehende Kinder und
 Jugendliche,
 
-4\. die erstsprachlichen, bilingualen und immersiven Angebote,
+4\.
+die erstsprachlichen, bilingualen und immersiven Angebote,
 
-5\. die Anerkennung einer Erstsprache, die eine andere als Deutsch ist,
-als zweite Fremdsprache im Sinne des Absatzes 3b,
+5\.
+die Anerkennung einer Erstsprache, die eine andere als Deutsch ist, als
+zweite Fremdsprache im Sinne des Absatzes 3b,
 
-6\. das zeitweise Abweichen von den Maßstäben der Leistungsbewertung für
-Kinder und Jugendliche, bei denen das Fehlen hinreichender deutscher
+6\.
+das zeitweise Abweichen von den Maßstäben der Leistungsbewertung oder
+der zeitweise Verzicht auf eine Leistungsbewertung für Kinder und
+Jugendliche, bei denen das Fehlen hinreichender deutscher
 Sprachkenntnisse festgestellt ist.
 
 # <par id="P16">§ 16</par> Einführung von Schulbüchern und anderen Unterrichtsmedien
@@ -1008,11 +1144,22 @@ längeren Zeitraum überwiegend im Unterricht und bei der häuslichen Vor-
 und Nachbereitung des Unterrichts verwendet zu werden, dürfen an einer
 Schule nur eingeführt werden, wenn sie
 
-1\. Rechtsvorschriften nicht widersprechen, 2. mit den Zielen, Inhalten
-und Standards der Rahmenlehrpläne für Unterricht und Erziehung vereinbar
-sind, 3. nach methodischen und didaktischen Grundsätzen den
-pädagogischen Anforderungen genügen, 4. dem Stand der Wissenschaft
-entsprechen und keine Fehler in der Sachdarstellung aufweisen und 5.
+1\.
+Rechtsvorschriften nicht widersprechen,
+
+2\.
+mit den Zielen, Inhalten und Standards der Rahmenlehrpläne für
+Unterricht und Erziehung vereinbar sind,
+
+3\.
+nach methodischen und didaktischen Grundsätzen den pädagogischen
+Anforderungen genügen,
+
+4\.
+dem Stand der Wissenschaft entsprechen und keine Fehler in der
+Sachdarstellung aufweisen und
+
+5\.
 nicht ein geschlechts- oder religionsdiskriminierendes oder ein auf
 Grund rassistischer oder antisemitischer Zuschreibung diskriminierendes
 Verständnis fördern und nicht den Bildungs- und Erziehungszielen gemäß
@@ -1022,10 +1169,15 @@ Verständnis fördern und nicht den Bildungs- und Erziehungszielen gemäß
 webbasierter oder anderer Unterrichtsmedien an einer Schule entscheidet
 die Fachkonferenz im Rahmen
 
-1\. der Grundsätze, die von der Gesamtkonferenz beschlossen werden, 2.
+1\.
+der Grundsätze, die von der Gesamtkonferenz beschlossen werden,
+
+2\.
 der an der Schule zur Verfügung stehenden Haushaltsmittel und des von
-den Eltern zu erbringenden Eigenanteils (§ 50 Abs. 2) sowie 3. der
-Beschlüsse der Schulkonferenz zur Verteilung der Haushaltsmittel.
+den Eltern zu erbringenden Eigenanteils (§ 50 Abs. 2) sowie
+
+3\.
+der Beschlüsse der Schulkonferenz zur Verteilung der Haushaltsmittel.
 
 (2a) Die Schule kann auf Antrag der Schulkonferenz zur Verwaltung der
 nach Absatz 1 genannten Bestände und zur Organisation der in <a href="#P50A2">§ 50 Absatz 2</a> eingeführten Lernmittelfreiheit auf der Grundlage eines
@@ -1052,11 +1204,9 @@ Schulleiter.
 ermächtigt, das Nähere zur Einführung von Schulbüchern und anderen
 Unterrichtsmedien durch Rechtsverordnung zu regeln.
 
+Teil III Aufbau der Schule
 
-
-## Teil III - Aufbau der Schule
-
-## Abschnitt I - Gliederung und Organisation
+Abschnitt I Gliederung und Organisation
 
 # <par id="P17">§ 17</par> Jahrgangsstufen, Schulstufen und Schularten
 
@@ -1069,14 +1219,52 @@ beruflichen Schulen bilden die Sekundarstufe II.
 
 <abs id="P17A2">(2)</abs> Schularten sind:
 
-1\. die Grundschule, 2. als weiterführende allgemein bildende Schulen a)
-die Integrierte Sekundarschule und b) das Gymnasium, 3. als berufliche
-Schulen a) die Berufsschule, b) die Berufsfachschule, c) die
-Fachoberschule, d) die Berufsoberschule, e) das berufliche Gymnasium und
-f) die Fachschule, 4. die Schulen mit sonderpädagogischem
-Förderschwerpunkt, 5. die Gemeinschaftsschule als
-schulstufenübergreifende allgemeinbildende Schule und 6. die
-Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb
+1\.
+die Grundschule,
+
+2\.
+als weiterführende allgemein bildende Schulen
+
+a\)
+die Integrierte Sekundarschule und
+
+b\)
+das Gymnasium,
+
+3\.
+
+als berufliche Schulen
+
+a\)
+die Berufsschule,
+
+b\)
+die Berufsfachschule,
+
+c\)
+die Fachoberschule,
+
+d\)
+die Berufsoberschule,
+
+e\)
+das berufliche Gymnasium und
+
+f\)
+die Fachschule,
+
+4\.
+
+die Schulen mit sonderpädagogischem Förderschwerpunkt,
+
+5\.
+
+die Gemeinschaftsschule als schulstufenübergreifende allgemeinbildende
+Schule und
+
+6\.
+
+die Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb
 allgemein bildender und beruflicher Abschlüsse.
 
 Grundschulen, Integrierte Sekundarschulen und Schulen mit
@@ -1101,8 +1289,6 @@ Sekundarschulen die Vierzügigkeit nicht unterschreiten.
 Über Ausnahmen entscheidet die Schulaufsichtsbehörde.
 
 # <par id="P17a">§ 17a</par> (aufgehoben)
-
-(aufgehoben)
 
 # <par id="P18">§ 18</par> Schulversuche, Schulen besonderer pädagogischer Prägung
 
@@ -1176,6 +1362,11 @@ Im Übrigen können Schulen, sofern die personellen, sächlichen und
 schulorganisatorischen Voraussetzungen vorliegen, als Ganztagsschulen
 geführt werden.
 
+Die von der für das Schulwesen zuständigen Senatsverwaltung festgelegten
+Qualitätsstandards für die inklusive Berliner Ganztagsschule sind
+verbindliche Vorgaben für die Ganztagsschulen und werden im Rahmen der
+im Haushaltsplan zur Verfügung stehenden Mittel umgesetzt.
+
 Die Entscheidung über die Einrichtung einer Ganztagsschule
 einschließlich des gebundenen Ganztagsbetriebs trifft die
 Schulaufsichtsbehörde nach Maßgabe des Schulentwicklungsplans (<a href="#P105A3">§ 105 Absatz 3</a>).
@@ -1226,9 +1417,6 @@ festzulegen.
 Dabei muss ein Nachmittag in der Woche frei von verpflichtenden
 Schulveranstaltungen gehalten werden.
 
-Die tägliche Aufenthaltsdauer der Schülerinnen und Schüler soll acht
-Zeitstunden nicht überschreiten.
-
 <abs id="P19A5">(5)</abs> Schulen können organisatorisch mit einem Internat verbunden
 werden.
 
@@ -1255,16 +1443,14 @@ Ende der Abschlussstufe sowie für Schülerinnen und Schüler mit dem
 Förderschwerpunkt „Autismus“ an Auftragsschulen bis zum Ende der
 Jahrgangsstufe 10.
 
-Abweichend von Satz 1 und 2 wird für Schülerinnen und Schüler der
-Jahrgangsstufen 1 bis 6 der Ganztagsschule in der offenen Form sowie
-Schülerinnen und Schüler der Eingangs-, Unter- und Mittelstufe an
-Schulen mit dem sonderpädagogischen Förderschwerpunkt „Geistige
-Entwicklung“ ohne weitere Prüfung ein Bedarf festgestellt und eine
-ergänzende Förderung und Betreuung gewährt.
+Der Bedarf wird für die in Satz 1 genannten Schülerinnen und Schüler
+sowie für die in Satz 2 genannten Schülerinnen und Schüler bis
+einschließlich der Mittelstufe und der Jahrgangsstufen 6 ohne weitere
+Prüfung festgestellt und eine ergänzende Förderung und Betreuung
+gewährt.
 
-Für Schülerinnen und Schüler der Jahrgangsstufen 1 bis 6 und für die in
-Satz 2 genannten Schülerinnen und Schüler wird die ergänzende Förderung
-und Betreuung auch während der Schulferien angeboten.
+Die ergänzende Förderung und Betreuung wird auch während der Schulferien
+angeboten.
 
 Der Betreuungsumfang soll dem Bedarf der Familie und insbesondere des
 Kindes gerecht werden.
@@ -1278,25 +1464,19 @@ nicht mehr zur Abwicklung des Kostenbeteiligungs- oder des
 Finanzierungsverfahrens benötigt werden.
 
 Die ergänzende Förderung und Betreuung wird als schulisches Angebot der
-zuständigen Schulbehörde (<a href="#P109A1">§ 109 Absatz 1</a> Satz 1) durch die öffentliche
-Schule oder die Bereitstellung von Plätzen bei Trägern der freien
-Jugendhilfe, die mit Schulen kooperieren, erbracht; im letztgenannten
-Fall wird der Betreuungsvertrag zwischen den Eltern und dem Träger der
-freien Jugendhilfe abgeschlossen.
+Schulaufsichtsbehörde durch die öffentliche Schule oder die
+Bereitstellung von Plätzen bei Trägern der freien Jugendhilfe, die mit
+Schulen kooperieren, erbracht; der Betreuungsvertrag wird zwischen den
+Sorgeberechtigten und dem Jugendamt, im letztgenannten Fall zwischen den
+Sorgeberechtigten und dem Träger der freien Jugendhilfe abgeschlossen.
 
 Die ergänzende Förderung und Betreuung unterliegt der Schulaufsicht nach
 diesem Gesetz, auch soweit sie von Trägern der freien Jugendhilfe in
 Kooperation mit Schulen erbracht wird.
 
-Angebote ergänzender Förderung und Betreuung richten sich nach dem
-Berliner Bildungsprogramm für die offene Ganztagsschule und müssen
-hinsichtlich der Einrichtung und der Personalausstattung den
-pädagogischen und gesundheitlichen Anforderungen an die Betreuung von
-Kindern entsprechen.
-
-Die pädagogische Arbeit in der ergänzenden Förderung und Betreuung soll
-durch systematische Evaluation kontinuierlich reflektiert und
-weiterentwickelt werden.
+Angebote ergänzender Förderung und Betreuung müssen hinsichtlich der
+Einrichtung und der Personalausstattung den pädagogischen und
+gesundheitlichen Anforderungen an die Betreuung von Kindern entsprechen.
 
 Können die Zeiten der ergänzenden Förderung und Betreuung an der Schule
 den Betreuungsbedarf nicht abdecken oder liegt der Bedarf außerhalb der
@@ -1309,9 +1489,9 @@ des Kindertagesförderungsgesetzes genutzt werden.
 Die Teilnahme an der ergänzenden Förderung und Betreuung sowie an
 zusätzlichen Betreuungsangeboten ist freiwillig.
 
-Die Kostenbeteiligung in den Jahrgangsstufen 3 bis 6 sowie für die
-Schülerinnen und Schüler der Unter-, Mittel-, Ober- und Abschlussstufe
-der Schulen mit dem sonderpädagogischen Förderschwerpunkt „Geistige
+Die Kostenbeteiligung in den Jahrgangsstufen 4 bis 6 sowie für die
+Schülerinnen und Schüler der Mittel-, Ober- und Abschlussstufe der
+Schulen mit dem sonderpädagogischen Förderschwerpunkt „Geistige
 Entwicklung“ sowie für die Schülerinnen und Schüler mit dem
 Förderschwerpunkt „Autismus“ an Auftragsschulen richtet sich nach dem
 Tagesbetreuungskostenbeteiligungsgesetz in der Fassung vom 23. April
@@ -1327,56 +1507,61 @@ Kostenübernahme erklärt wurde.
 
 <abs id="P19A7">(7)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere zur Ausgestaltung der ergänzenden Förderung und
-Betreuung, der außerunterrichtlichen Förderung und Betreuung, des
+Betreuung der außerunterrichtlichen Förderung und Betreuung, des
 Ganztagsbetriebs an der Ganztagsschule und des Mittagessens durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. das Verfahren der Anmeldung, der Bedarfsprüfung und
-Aufnahme einschließlich der Vorgaben für Abschluss und Inhalt der
-Betreuungsverträge für die ergänzende Förderung und Betreuung, 2. das
-Verfahren über den Nachweis von freien Plätzen der ergänzenden Förderung
-und Betreuung bei mit Schulen kooperierenden Trägern der freien
-Jugendhilfe, 3. die Voraussetzungen, unter denen Schülerinnen und
-Schüler der Jahrgangsstufen 5 und 6 in die ergänzende Förderung und
-Betreuung während der Schulferien aufgenommen werden, 4. die
-Finanzierung der Leistungen der Träger der freien Jugendhilfe und von
-Angeboten im Rahmen von Tagespflegestellen nach dem
-Kindertagesförderungsgesetz (Absatz 6 Satz 12), 5. die Finanzierung der
-ergänzenden Förderung und Betreuung und die Finanzierung der Kosten, die
-an Schulen in freier Trägerschaft in der Zeit der verlässlichen
-Halbtagsgrundschule für außerunterrichtliche Betreuung und Förderung
-entstehen, 6. die personellen, organisatorischen, baulichen und
-räumlichen Anforderungen an die ergänzende Förderung und Betreuung, 7.
-das Verfahren bei der Genehmigung von Angeboten der ergänzenden
-Förderung und Betreuung, die in Schulen in freier Trägerschaft oder von
-Trägern der freien Jugendhilfe erbracht werden, 8. die Voraussetzungen,
-unter denen zur Gewährleistung einer bedarfsgerechten Betreuung von dem
-Aufnahmeverfahren nach den § § 54 und 55a abgewichen werden kann und die
-betroffenen Schülerinnen und Schüler einer anderen Schule zugewiesen
-werden können, 9. die erforderliche Personalausstattung für das
-pädagogische Personal entsprechend dem Aufgabeninhalt, dem
-Aufgabenumfang und der Aufgabenintensität für die ergänzende Förderung
-und Betreuung; hierbei soll für das pädagogische Fachpersonal
-grundsätzlich eine Ausstattung von 39 Wochenarbeitsstunden für jeweils
-22 Kinder zuzüglich Personalzuschlägen zugrunde gelegt werden, 10.
+1\.
+das Verfahren der Anmeldung, der Bedarfsprüfung und Aufnahme
+einschließlich der Vorgaben für Abschluss und Inhalt der
+Betreuungsverträge für die ergänzende Förderung und Betreuung,
+
+2\.
+die Finanzierung der Leistungen der Träger der freien Jugendhilfe und
+von Angeboten im Rahmen von Tagespflegestellen nach dem
+Kindertagesförderungsgesetz (Absatz 6 Satz 11),
+
+3\.
+die Finanzierung der ergänzenden Förderung und Betreuung und die
+Finanzierung der Kosten, die an Ersatzschulen in der verlässlichen Zeit
+der offenen Ganztagsschule der Primarstufe für außerunterrichtliche
+Förderung und Betreuung entstehen,
+
+4\.
+die personellen, organisatorischen, baulichen und räumlichen
+Anforderungen an die außerunterrichtliche und ergänzende Förderung und
+Betreuung,
+
+5\.
+das Verfahren der Genehmigung von Angeboten der außerunterrichtlichen
+und ergänzenden Förderung und Betreuung, die in Ersatzschulen oder von
+Trägern der freien Jugendhilfe erbracht werden,
+
+6\.
+die erforderliche Personalausstattung für das pädagogische Personal
+entsprechend dem Aufgabeninhalt, dem Aufgabenumfang und der
+Aufgabenintensität für die ergänzende Förderung und Betreuung; hierbei
+soll für das pädagogische Fachpersonal grundsätzlich eine Ausstattung
+von einer vollzeitbeschäftigten Fachkraft für jeweils 22 Kinder
+zuzüglich Personalzuschlägen zugrunde gelegt werden,
+
+7\.
 Festlegungen über die Planung und das statistische Erfassungsverfahren
 einschließlich der Einführung und Durchführung eines
 bezirksübergreifenden IT-gestützten Planungs-, Nachweis-, Finanzierungs-
 und Kostenbeteiligungsverfahrens sowie der Regelungen über Art und
 Umfang der Daten, ihre Verarbeitung in Dateien und auf sonstigen
 Datenträgern, ihre Löschung, ihre Übermittlung und die Datensicherung,
-11. zu Organisation und Verbindlichkeit des Ganztagsangebots, zu den
-personellen Anforderungen sowie vorbehaltlich des Satzes 2 zum
-Mittagessen,
 
-12\. das Nähere zur Evaluation nach Absatz 6 Satz 10.
+8\.
+zu Organisation und Verbindlichkeit des Ganztagsangebots, zu den
+personellen Anforderungen sowie vorbehaltlich des Satzes 2 zum
+Mittagessen.
 
 Der Senat wird ermächtigt, das Nähere zur Qualität des Schulmittagessens
 durch Rechtsverordnung zu regeln.
 
-
-
-## Abschnitt II - Primarstufe
+Abschnitt II Primarstufe
 
 # <par id="P20">§ 20</par> Grundschule
 
@@ -1412,13 +1597,20 @@ zu erweitern und dabei die soziale Kompetenz zu fördern.
 Zum Aufbau von Lernkompetenzen in der Schulanfangsphase gehören
 insbesondere
 
-1\. das sprachliche Verarbeiten von gemeinsamen Erfahrungen und deren
-gezielte inhaltliche Klärung und Erweiterung, 2. die Schulung des
-Denkens, um die natürliche und mediale Umwelt zu erfassen und die
-eigenen Bedürfnisse artikulieren zu können, 3. der Erwerb von
-Grundfertigkeiten im Lesen, Schreiben, im mathematischen Denken und im
-musisch-künstlerischen Bereich, 4. der Erwerb motorischer
-Grundfertigkeiten und -fähigkeiten.
+1\.
+das sprachliche Verarbeiten von gemeinsamen Erfahrungen und deren
+gezielte inhaltliche Klärung und Erweiterung,
+
+2\.
+die Schulung des Denkens, um die natürliche und mediale Umwelt zu
+erfassen und die eigenen Bedürfnisse artikulieren zu können,
+
+3\.
+der Erwerb von Grundfertigkeiten im Lesen, Schreiben, im mathematischen
+Denken und im musisch-künstlerischen Bereich,
+
+4\.
+der Erwerb motorischer Grundfertigkeiten und -fähigkeiten.
 
 <abs id="P20A3">(3)</abs> Die Schulanfangsphase ist eine pädagogische Einheit, innerhalb
 derer ein Aufrücken entfällt.
@@ -1429,8 +1621,8 @@ Erziehungsberechtigten vorzeitig aufrücken.
 
 Schülerinnen und Schüler, die am Ende der Schulanfangsphase die Lern-
 und Entwicklungsziele noch nicht erreicht haben, können auf Beschluss
-der Klassenkonferenz (§ 59 Abs. 4) oder auf Antrag der
-Erziehungsberechtigten (§ 59 Abs. 5) ein zusätzliches Schuljahr in der
+der Klassenkonferenz (§ 59 Absatz 6) oder auf Antrag der
+Erziehungsberechtigten (§ 59 Absatz 4) ein zusätzliches Schuljahr in der
 Schulanfangsphase verbleiben, ohne dass dieses Schuljahr auf die
 Erfüllung der allgemeinen Schulpflicht angerechnet wird.
 
@@ -1450,20 +1642,20 @@ Erziehungsberechtigten die Zeit- und Alltagsplanung zu erleichtern.
 Die verlässliche Öffnungszeit beträgt in der Regel jeweils sechs
 Zeitstunden an fünf Unterrichtstagen.
 
-Grundschulen können als Ganztagsgrundschulen in offener oder gebundener
-Form organisiert werden.
+Grundschulen können als Ganztagsschulen in offener oder gebundener Form
+organisiert werden.
 
-In der Ganztagsgrundschule in offener Form erhalten die Schülerinnen und
+In der Ganztagsschule in offener Form erhalten die Schülerinnen und
 Schüler vor und nach der verlässlichen Öffnungszeit freiwillige
 Ganztagsangebote.
 
-Ganztagsgrundschulen in gebundener Form können um Angebote der
-Spätbetreuung und der Frühbetreuung ergänzt werden.
+Ganztagsschulen in gebundener Form können um Angebote der Spätbetreuung
+und der Frühbetreuung ergänzt werden.
 
 Zur Sicherung ganztägiger Bildung, Betreuung und Erziehung im Rahmen der
-verlässlichen Halbtagsgrundschule wie auch der Ganztagsgrundschule in
-gebundener und offener Form sollen die Schulen Kooperationen mit Trägern
-der öffentlichen und der freien Jugendhilfe vereinbaren.
+Ganztagsschule in gebundener oder offener Form sollen die Schulen
+Kooperationen mit Trägern der öffentlichen und der freien Jugendhilfe
+vereinbaren.
 
 <abs id="P20A7">(7)</abs> Grundschulen arbeiten mit Kindertageseinrichtungen sowie mit
 weiterführenden allgemein bildenden Schulen insbesondere in ihrer
@@ -1473,22 +1665,35 @@ den Inhalt ihrer Zusammenarbeit.
 Die Kooperationen dienen der Verbesserung des Übergangs in die
 Grundschule und in die weiterführende Schule.
 
-(8)Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt,
-das Nähere zur Ausgestaltung der Grundschule durch Rechtsverordnung zu
-regeln, insbesondere
+<abs id="P20A8">(8)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+ermächtigt, das Nähere zur Ausgestaltung der Grundschule durch
+Rechtsverordnung zu regeln, insbesondere
 
-1\. die Schulanfangsphase, 2. die Jahrgangsorganisation und den
-jahrgangsstufenübergreifenden Unterricht, 3. die Unterrichtsfächer nach
-Absatz 5 einschließlich der Voraussetzungen für die Einrichtung
-differenzierter Lerngruppen, 4. die Fördermaßnahmen für Schülerinnen und
-Schüler mit besonderen Lernschwierigkeiten und Sprachrückständen, 5. die
-Unterrichtszeit im Zeitrahmen der verlässlichen Öffnungszeit, 6. die
-Einzelheiten der Wahl der Fremdsprache nach Absatz 4, 7. die Bereiche,
-auf die sich die Zusammenarbeit nach Absatz 7 erstreckt.
+1\.
+die Schulanfangsphase,
 
+2\.
+die Jahrgangsorganisation und den jahrgangsstufenübergreifenden
+Unterricht,
 
+3\.
+die Unterrichtsfächer nach Absatz 5 einschließlich der Voraussetzungen
+für die Einrichtung differenzierter Lerngruppen,
 
-## Abschnitt III - Sekundarstufe I
+4\.
+die Fördermaßnahmen für Schülerinnen und Schüler mit besonderen
+Lernschwierigkeiten und Sprachrückständen,
+
+5\.
+die Unterrichtszeit im Zeitrahmen der verlässlichen Öffnungszeit,
+
+6\.
+die Einzelheiten der Wahl der Fremdsprache nach Absatz 4,
+
+7\.
+die Bereiche, auf die sich die Zusammenarbeit nach Absatz 7 erstreckt.
+
+Abschnitt III Sekundarstufe I
 
 # <par id="P21">§ 21</par> Allgemeines
 
@@ -1496,8 +1701,14 @@ auf die sich die Zusammenarbeit nach Absatz 7 erstreckt.
 
 Abschlüsse sind
 
-1\. die Berufsbildungsreife, 2. die erweiterte Berufsbildungsreife und
-3. der mittlere Schulabschluss.
+1\.
+die Berufsbildungsreife,
+
+2\.
+die erweiterte Berufsbildungsreife und
+
+3\.
+der mittlere Schulabschluss.
 
 <abs id="P21A2">(2)</abs> Die erweiterte Berufsbildungsreife und der mittlere Schulabschluss
 werden in einem Abschlussverfahren erworben.
@@ -1505,6 +1716,11 @@ werden in einem Abschlussverfahren erworben.
 Sie setzen sich aus den schulischen Bewertungen der Jahrgangsstufe 10
 und einer Prüfung mindestens in den Fächern Deutsch, Mathematik und
 erste Fremdsprache zusammen.
+
+<abs id="P21A3">(3)</abs> Abweichend von Absatz 2 werden am Gymnasium am Ende der
+Jahrgangsstufe 10 die erweiterte Berufsbildungsreife und der mittlere
+Schulabschluss ausschließlich auf Grund der schulischen Bewertungen der
+Jahrgangsstufe 10 erworben.
 
 # <par id="P22">§ 22</par> Integrierte Sekundarschule
 
@@ -1519,23 +1735,20 @@ beruflichen Bildungsgängen fortzusetzen.
 Jahrgangsstufen 7 bis 10 (Sekundarstufe I) und führt im Anschluss zur
 allgemeinen Hochschulreife (Abitur).
 
-<a href="#P17A3">§ 17 Absatz 3</a> bleibt unberührt.
+# <par id="P17">§ 17</par> Absatz 3 bleibt unberührt.
 
-Die Integrierte Sekundarschule bietet eine gymnasiale Oberstufe entweder
-eigenständig, in einem Verbund oder in Kooperation mit einem beruflichen
-Gymnasium, einer Gemeinschaftsschule oder mit einer anderen Integrierten
-Sekundarschule an.
+Die Integrierte Sekundarschule bietet eine gymnasiale Oberstufe nach
+Maßgabe des <a href="#P28A4">§ 28 Absatz 4</a> und 5 an.
 
 Sie kooperiert insbesondere mit benachbarten Grundschulen und
-beruflichen Schulen; <a href="#P20A7">§ 20 Absatz 7</a> gilt sinngemäß.
+beruflichen Schulen; § 20 Absatz 7 gilt sinngemäß.
 
-<abs id="P22A3">(3)</abs> Die Integrierte Sekundarschule führt zu allen Abschlüssen gemäß
-<a href="#P21A1">§ 21 Absatz 1</a> und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1.
+<abs id="P17A3">(3)</abs> Die Integrierte Sekundarschule führt zu allen Abschlüssen gemäß <a href="#P21A1">§ 21 Absatz 1</a> und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1.
 
 Der mittlere Schulabschluss berechtigt bei entsprechender Qualifikation
 zum Übergang in die gymnasiale Oberstufe.
 
-<abs id="P22A4">(4)</abs> In der Integrierten Sekundarschule kann der Unterricht in
+<abs id="P17A4">(4)</abs> In der Integrierten Sekundarschule kann der Unterricht in
 gemeinsamen Lerngruppen, in Kursen der äußeren
 Fachleistungsdifferenzierung sowie in Wahlpflicht- und Wahlgruppen
 stattfinden.
@@ -1546,7 +1759,7 @@ Schule im Rahmen ihres Schulprogramms.
 Eine Verpflichtung zur äußeren Fachleistungsdifferenzierung besteht
 nicht.
 
-<abs id="P22A5">(5)</abs> Die Integrierte Sekundarschule bietet insbesondere in Kooperation
+<abs id="P17A5">(5)</abs> Die Integrierte Sekundarschule bietet insbesondere in Kooperation
 mit Betrieben und Trägern der Berufsvorbereitung und Berufsausbildung
 praxisbezogenes und berufsorientiertes Lernen an (Duales Lernen).
 
@@ -1556,8 +1769,6 @@ festlegen.
 In den Jahrgangsstufen 9 und 10 kann die Schule auch die Verbindlichkeit
 der Teilnahme an besonderen Organisationsformen des Dualen Lernens
 festlegen.
-
-
 
 # <par id="P23">§ 23</par> Gemeinschaftsschule
 
@@ -1573,10 +1784,8 @@ Jahrgangsstufen 1 bis 6 (Primarstufe) und die Jahrgangsstufen 7 bis 10
 (Sekundarstufe I) und führt im Anschluss zur allgemeinen Hochschulreife
 (Abitur).
 
-Die Gemeinschaftsschule bietet eine gymnasiale Oberstufe entweder
-eigenständig, in einem Verbund oder in Kooperation mit einem beruflichen
-Gymnasium, einer Integrierten Sekundarschule oder mit einer anderen
-Gemeinschaftsschule an.
+Die Gemeinschaftsschule bietet eine gymnasiale Oberstufe nach Maßgabe
+des <a href="#P28A4">§ 28 Absatz 4</a> und 5 an.
 
 <abs id="P23A3">(3)</abs> Die Gemeinschaftsschule führt zu allen Abschlüssen gemäß <a href="#P21A1">§ 21 Absatz 1</a> und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1.
 
@@ -1588,7 +1797,7 @@ Primarstufe § 20 entsprechend, mit Ausnahme von dessen Absatz 5 Satz 1
 und Absatz 7, soweit letzterer sich auf die Zusammenarbeit mit
 weiterführenden allgemein bildenden Schulen bezieht.
 
-Für die Ausgestaltung der Sekundarstufe I gilt <a href="#P22A4">§ 22 Absatz 4</a> und 5
+Für die Ausgestaltung der Sekundarstufe I gilt § 22 Absatz 4 und 5
 entsprechend.
 
 <abs id="P23A5">(5)</abs> Die Fachleistungsdifferenzierung findet in der Gemeinschaftsschule
@@ -1597,11 +1806,7 @@ binnendifferenziert statt.
 
 # <par id="P24">§ 24</par> (aufgehoben)
 
-(aufgehoben)
-
 # <par id="P25">§ 25</par> (aufgehoben)
-
-(aufgehoben)
 
 # <par id="P26">§ 26</par> Gymnasium
 
@@ -1615,15 +1820,15 @@ beruflichen Bildungsgängen fortzusetzen.
 Sekundarstufe I und die gymnasiale Oberstufe und führt zur allgemeinen
 Hochschulreife (Abitur).
 
-<a href="#P17A3">§ 17 Absatz 3</a> bleibt unberührt.
+# <par id="P17">§ 17</par> Absatz 3 bleibt unberührt.
 
-Das Kooperationsgebot nach <a href="#P20A7">§ 20 Absatz 7</a> gilt sinngemäß.
+Das Kooperationsgebot nach § 20 Absatz 7 gilt sinngemäß.
 
-<abs id="P26A3">(3)</abs> In der Sekundarstufe I werden die Abschlüsse gemäß <a href="#P21A1">§ 21 Absatz 1</a>
+<abs id="P17A3">(3)</abs> In der Sekundarstufe I werden die Abschlüsse gemäß <a href="#P21A1">§ 21 Absatz 1</a>
 und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1 vergeben.
 
-Der mittlere Schulabschluss berechtigt bei entsprechender Qualifikation
-zum Übergang in die Qualifikationsphase der gymnasialen Oberstufe.
+Der Übergang in die Qualifikationsphase der gymnasialen Oberstufe
+erfolgt durch Versetzungsentscheidung am Ende der Jahrgangsstufe 10.
 
 # <par id="P27">§ 27</par> Nähere Ausgestaltung der Sekundarstufe I
 
@@ -1631,29 +1836,51 @@ Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt, das
 Nähere zur Ausgestaltung der Schularten und Bildungsgänge der
 Sekundarstufe I durch Rechtsverordnung zu regeln, insbesondere
 
-1\. den Beginn und die Formen der Fachleistungsdifferenzierung und die
+1\.
+den Beginn und die Formen der Fachleistungsdifferenzierung und die
 Unterrichtsfächer und Lernbereiche, in denen leistungsdifferenziert
-unterrichtet wird, 2. die Einstufung der Schülerinnen und Schüler in
-leistungsdifferenzierte Kurse, 3. die Voraussetzungen und die
-Organisation von jahrgangsstufenübergreifendem Unterricht, 4. die
-Voraussetzungen und die Durchführung von bilingualem Unterricht, 5. die
-Anforderungen und das Verfahren für die nach <a href="#P22A5">§ 22 Absatz 5</a> Satz 3 zu
-treffende Entscheidung, 6. die organisatorische und curriculare
-Ausgestaltung der Jahrgangsstufen 7 bis 10 unter besonderer
-Berücksichtigung des Produktiven Lernens und anderer Formen des Dualen
-Lernens einschließlich der Berufs- und Studienorientierung, 7. die
-Voraussetzungen zum Erwerb der Berufsbildungsreife einschließlich der
-Voraussetzungen, unter denen die Berufsbildungsreife bereits nach
-Jahrgangsstufe 9 erworben werden kann, 8. die Voraussetzungen zum Erwerb
-der erweiterten Berufsbildungsreife, 9. die Voraussetzungen zum Erwerb
-des mittleren Schulabschlusses, 10. die erforderlichen Qualifikationen
-zur Berechtigung zum Übergang in die Einführungs- und
-Qualifikationsphase der gymnasialen Oberstufe, 11. die Probezeit am
-Gymnasium, wobei die Probezeit in der Regel ein Jahr beträgt.
+unterrichtet wird,
 
+2\.
+die Einstufung der Schülerinnen und Schüler in leistungsdifferenzierte
+Kurse,
 
+3\.
+die Voraussetzungen und die Organisation von
+jahrgangsstufenübergreifendem Unterricht,
 
-## Abschnitt IV - Sekundarstufe II
+4\.
+die Voraussetzungen und die Durchführung von bilingualem Unterricht,
+
+5\.
+die Anforderungen und das Verfahren für die nach § 22 Absatz 5 Satz 3 zu
+treffende Entscheidung,
+
+6\.
+die organisatorische und curriculare Ausgestaltung der Jahrgangsstufen 7
+bis 10 unter besonderer Berücksichtigung des Produktiven Lernens und
+anderer Formen des Dualen Lernens einschließlich der Berufs- und
+Studienorientierung,
+
+7\.
+die Voraussetzungen zum Erwerb der Berufsbildungsreife einschließlich
+der Voraussetzungen, unter denen die Berufsbildungsreife bereits nach
+Jahrgangsstufe 9 erworben werden kann,
+
+8\.
+die Voraussetzungen zum Erwerb der erweiterten Berufsbildungsreife,
+
+9\.
+die Voraussetzungen zum Erwerb des mittleren Schulabschlusses,
+
+10\.
+die erforderlichen Qualifikationen zur Berechtigung zum Übergang in die
+Einführungs- und Qualifikationsphase der gymnasialen Oberstufe,
+
+11\.
+die Probezeit am Gymnasium.
+
+Abschnitt IV Sekundarstufe II
 
 # <par id="P28">§ 28</par> Gymnasiale Oberstufe
 
@@ -1690,12 +1917,23 @@ Gymnasien gliedert sich die gymnasiale Oberstufe in die Einführungsphase
 in der Jahrgangsstufe 11 sowie in die Qualifikationsphase in den
 Jahrgangsstufen 12 und 13.
 
-(3a) Integrierte Sekundarschulen, Gemeinschaftsschulen und berufliche
-Gymnasien können, soweit es aus organisatorischen Gründen angezeigt ist,
-eine gymnasiale Oberstufe im Verbund bilden.
+<abs id="P28A4">(4)</abs> An Integrierten Sekundarschulen und Gemeinschaftsschulen kann eine
+eigene gymnasiale Oberstufe eingerichtet werden.
 
-Jede der teilnehmenden Schulen behält ihre Eigenständigkeit, die
-gymnasiale Oberstufe ist den Schulen des Verbundes gleichermaßen
+Soweit das aus organisatorischen und fachlichen Gründen nicht möglich
+ist, soll eine gymnasiale Oberstufe vorrangig im Verbund mit einer
+anderen Integrierten Sekundarschule, einer Gemeinschaftsschule, einem
+Oberstufenzentrum oder einem Gymnasium angeboten werden.
+
+Kooperationen sollen so lange an die Stelle des Verbundes treten, wie
+anderweitig die Schule keine gymnasiale Oberstufe anbieten kann.
+
+Davon unberührt bleiben Kooperationen nach <a href="#P22A2">§ 22 Absatz 2</a> Satz 4.
+
+<abs id="P28A5">(5)</abs> In einem Verbund nach Absatz 4 Satz 2 behält jede teilnehmende
+Schule ihre Eigenständigkeit.
+
+Die gymnasiale Oberstufe ist den Schulen des Verbundes gleichermaßen
 zugeordnet.
 
 Die teilnehmenden Schulen schließen eine Verbundvereinbarung, in der die
@@ -1712,11 +1950,24 @@ teilnehmenden Schulen einvernehmlich zu treffen.
 
 Können Entscheidungen durch die Schulen nicht einvernehmlich getroffen
 werden, entscheidet die Schulaufsichtsbehörde oder, soweit Aufgaben nach
-§ 109 betroffen sind, die zuständige Schulbehörde oder bei einem
+# <par id="P109">§ 109</par> betroffen sind, die zuständige Schulbehörde oder bei einem
 zuständigkeitsübergreifenden Verbund die zuständigen Schulbehörden
 gemeinsam.
 
-<abs id="P28A4">(4)</abs> Die gymnasiale Oberstufe schließt mit der Abiturprüfung ab.
+<abs id="P109A6">(6)</abs> In Oberstufenzentren soll eine gymnasiale Oberstufe mit einem
+beruflich orientierten Bildungsangebot eingerichtet werden (berufliches
+Gymnasium).
+
+Die beruflichen Gymnasien schließen mit einer oder mehreren Integrierten
+Sekundarschulen oder Gemeinschaftsschulen Verbund- oder
+Kooperationsvereinbarungen nach Maßgabe der Absätze 4 oder 5, um
+insbesondere Schülerinnen und Schüler dieser Schularten den Erwerb der
+allgemeinen Hochschulreife zu ermöglichen.
+
+Schülerinnen und Schüler kooperierender Integrierter Sekundarschulen und
+Gemeinschaftsschulen haben einen Anspruch auf Aufnahme.
+
+<abs id="P109A7">(7)</abs> Die gymnasiale Oberstufe schließt mit der Abiturprüfung ab.
 
 Die allgemeine Hochschulreife wird durch eine Gesamtqualifikation aus
 anrechenbaren Kursen und der Abiturprüfung erworben.
@@ -1725,53 +1976,67 @@ Nach erfolgreicher Teilnahme an mindestens zwei aufeinanderfolgenden
 Halbjahren der Qualifikationsphase kann der schulische Teil der
 Fachhochschulreife erworben werden.
 
-<abs id="P28A5">(5)</abs> In Oberstufenzentren soll eine gymnasiale Oberstufe mit einem
-beruflich orientierten Bildungsangebot eingerichtet werden (berufliches
-Gymnasium).
-
-Die beruflichen Gymnasien kooperieren mit einer oder mehreren
-Integrierten Sekundarschulen oder Gemeinschaftsschulen, um insbesondere
-den Schülerinnen und Schülern dieser Schulart den Erwerb der allgemeinen
-Hochschulreife zu ermöglichen.
-
-Hierüber sind Kooperationsvereinbarungen zu schließen; Schülerinnen und
-Schüler kooperierender Integrierter Sekundarschulen und
-Gemeinschaftsschulen haben einen Anspruch auf Aufnahme.
-
-<abs id="P28A6">(6)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P109A8">(8)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere zur Ausgestaltung der gymnasialen Oberstufe durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Ziele und die Organisation der gymnasialen Oberstufe, 2. die
-Leistungsanforderungen und die sonstigen Qualifikationen für die
+1\.
+die Ziele und die Organisation der gymnasialen Oberstufe,
+
+2\.
+die Leistungsanforderungen und die sonstigen Qualifikationen für die
 Aufnahme in die Qualifikationsphase und in die Einführungsphase
-einschließlich einer Höchstaltersgrenze, 3. die Wiederholung der
-Einführungsphase und die Versetzung in die Qualifikationsphase sowie den
-Rücktritt aus der Qualifikationsphase in die Einführungsphase und
-innerhalb der Qualifikationsphase, 4. die Einrichtung von Fächern und
-Kursen einschließlich bilingualem Unterricht sowie ihre Zuordnung zu
-Aufgabenfeldern, 5. die Belegverpflichtungen und Wahlmöglichkeiten
-einschließlich des Verfahrens und der Verpflichtung zur Wiederholung von
-nicht erfolgreich durchlaufenen Halbjahren, 6. die Leistungsbewertung
-durch Noten und Punkte, 7. die Zulassungsvoraussetzungen, die
-Ausgestaltung und die Wiederholung der Abiturprüfung, 8. den Erwerb des
-Latinums und Graecums, 9. die Voraussetzungen für den Erwerb des
-französischen Baccalauréat, 10. die Voraussetzungen für den Erwerb des
-schulischen Teils der Fachhochschulreife. 11. die Voraussetzungen,
-einschließlich einer Probezeit, für den Übergang in die gymnasiale
-Oberstufe und den Erwerb eines dem mittleren Schulabschluss
-gleichwertigen Abschlusses nach einem Auslandsaufenthalt in der
-Jahrgangsstufe 10, 12. das Nähere zur Ausgestaltung einer
-schulartenübergreifenden gymnasialen Oberstufe im Verbund.
+einschließlich einer Höchstaltersgrenze,
+
+3\.
+die Wiederholung der Einführungsphase und die Versetzung in die
+Qualifikationsphase sowie den Rücktritt aus der Qualifikationsphase in
+die Einführungsphase und innerhalb der Qualifikationsphase,
+
+4\.
+die Einrichtung von Fächern und Kursen einschließlich bilingualem
+Unterricht sowie ihre Zuordnung zu Aufgabenfeldern,
+
+5\.
+die Belegverpflichtungen und Wahlmöglichkeiten einschließlich des
+Verfahrens und der Verpflichtung zur Wiederholung von nicht erfolgreich
+durchlaufenen Halbjahren,
+
+6\.
+die Leistungsbewertung durch Noten und Punkte,
+
+7\.
+die Zulassungsvoraussetzungen, die Ausgestaltung und die Wiederholung
+der Abiturprüfung,
+
+8\.
+den Erwerb des Latinums und Graecums,
+
+9\.
+die Voraussetzungen für den Erwerb des französischen Baccalauréat,
+
+10\.
+die Voraussetzungen für den Erwerb des schulischen Teils der
+Fachhochschulreife,
+
+11\.
+die Voraussetzungen, einschließlich einer Probezeit, für den Übergang in
+die gymnasiale Oberstufe und den Erwerb eines dem mittleren
+Schulabschluss gleichwertigen Abschlusses nach einem Auslandsaufenthalt
+in der Jahrgangsstufe 10,
+
+12\.
+das Nähere zur Ausgestaltung einer schulartenübergreifenden gymnasialen
+Oberstufe im Verbund.
 
 Für die beruflichen Gymnasien sowie für die gymnasialen Oberstufen des
-Französischen Gymnasiums (Collège Français), der John-F.-Kennedy-Schule
+Französischen Gymnasiums (Lycée Français), der John-F.-Kennedy-Schule
 (Deutsch-Amerikanische Schule), der Staatlichen Internationalen Schulen,
-der Eliteschulen des Sports, der Staatlichen Ballettschule Berlin und
-Schule für Artistik, des Musikgymnasiums Carl Philipp Emanuel Bach und
-weiterer Schulen besonderer pädagogischer Prägung können besondere
-Regelungen getroffen werden, soweit es die organisatorischen oder
-pädagogischen Bedingungen dieser Schulen erfordern.
+der Eliteschulen des Sports, der Staatlichen Ballett- und Artistikschule
+Berlin, des Musikgymnasiums Carl Philipp Emanuel Bach und weiterer
+Schulen besonderer pädagogischer Prägung können besondere Regelungen
+getroffen werden, soweit es die organisatorischen oder pädagogischen
+Bedingungen dieser Schulen erfordern.
 
 # <par id="P29">§ 29</par> Berufsschule
 
@@ -1802,8 +2067,7 @@ Abschlüsse.
 
 <abs id="P29A2">(2)</abs> An der Berufsschule beträgt die Zahl der Unterrichtsstunden für
 Schülerinnen und Schüler, die in einem Berufsausbildungsverhältnis
-stehen, in der Regel zwölf, jedoch mindestens acht je Woche in Teilzeit-
-oder Vollzeitunterricht.
+stehen, mindestens zwölf je Woche in Teilzeit- oder Vollzeitunterricht.
 
 In Teilzeitform wird der Unterricht in der Regel auf zwei Tage
 gleichmäßig verteilt.
@@ -1815,17 +2079,24 @@ Berufsgrundbildungsjahr in Vollzeitform organisiert werden.
 Blockunterricht oder andere Formen der Verdichtung des
 Berufsschulunterrichts können zugelassen werden.
 
-<abs id="P29A3">(3)</abs> Schülerinnen und Schüler, die nicht in einem
-Berufsausbildungsverhältnis stehen, sind berechtigt, im Anschluss an die
-Erfüllung der allgemeinen Schulpflicht den Bildungsgang „Integrierte
-Berufsausbildungsvorbereitung“ zu besuchen, der auf der Grundlage des
-individuellen Leistungsvermögens der Schülerinnen und Schüler durch
-Erweiterung der berufsfeldübergreifenden und berufsfeldbezogenen
-Kompetenzen sowie durch umfangreiche begleitete Praxislernphasen in
-Betrieben die Voraussetzung für die Aufnahme einer beruflichen
-Ausbildung oder Tätigkeit verbessern soll.
+<abs id="P29A3">(3)</abs> Schülerinnen und Schüler, die der Schulpflicht in der
+Sekundarstufe II unterliegen, sind berechtigt, zur Erfüllung den
+Bildungsgang „Integrierte Berufsausbildungsvorbereitung“ zu besuchen.
+
+Darüber hinaus können auch andere Bewerberinnen und Bewerber aufgenommen
+werden, die in keinem Berufsausbildungsverhältnis stehen und über keinen
+Berufsabschluss verfügen.
 
 Die Aufnahme setzt einen Schulabschluss nicht voraus.
+
+Ziel des Bildungsgangs ist es, auf der Grundlage des individuellen
+Leistungsvermögens der Schülerinnen und Schüler die
+berufsfeldübergreifenden und berufsfeldbezogenen Kompetenzen zu stärken
+und so die Voraussetzungen für die Aufnahme einer beruflichen Ausbildung
+oder Tätigkeit zu verbessern.
+
+Der Bildungsgang sieht anteilig schulische Phasen und begleitete
+Praxislernphasen im Betrieb vor.
 
 Der Bildungsgang kann in Kooperation mit den außerschulischen
 Bildungsträgern durchgeführt werden.
@@ -1835,19 +2106,41 @@ Qualifizierungsbausteinen vorsehen.
 
 Der Erwerb schulischer Abschlüsse ist möglich.
 
+Abhängig davon, ob die Schülerin oder der Schüler den Erwerb der
+Berufsbildungsreife, der erweiterten Berufsbildungsreife oder den
+mittleren Schulabschluss anstrebt, erhöht sich im Bildungsgang der
+Anteil des berufsfeldübergreifenden Unterrichts und verringert sich der
+Anteil der Praxislernphasen; wird kein Schulabschluss angestrebt, stehen
+begleitete Praxislernphasen und die Vermittlung von Übernahmeangeboten
+im Vordergrund, durch die überfachliche und berufsbezogene
+Voraussetzungen für den Übergang in eine berufliche Ausbildung oder
+Tätigkeit geschaffen werden sollen.
+
 Der Bildungsgang kann mit Vollzeit- oder Teilzeitunterricht durchgeführt
 werden, er dauert in beiden Fällen in der Regel ein Schuljahr.
 
 Absatz 1 Satz 6 gilt entsprechend.
+
+Wurde an einer allgemeinen Schule oder an einer Schule mit
+sonderpädagogischem Förderschwerpunkt ein sonderpädagogischer
+Förderbedarf festgestellt, gilt diese Feststellung während des Besuchs
+des Bildungsgangs unverändert fort, sofern nicht der Bedarf entfallen
+ist.
+
+Einer erneuten Feststellung bedarf es nicht.
 
 <abs id="P29A4">(4)</abs> Für Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf,
 die durch den Bildungsgang nach Absatz 3 nicht oder nicht hinreichend
 gefördert werden können, kann der Bildungsgang um ein Schuljahr
 verlängert werden.
 
-Schülerinnen und Schüler, die ihre Schulpflicht an einer Schule mit dem
-sonderpädagogischen Förderschwerpunkt „Geistige Entwicklung“ erfüllt
-haben, absolvieren den Bildungsgang stets in zweijähriger Form.
+Satz 1 gilt entsprechend für Schülerinnen und Schüler, deren Erstsprache
+eine andere als Deutsch ist und deren Kompetenz in der deutschen Sprache
+noch nicht hinreichend ist.
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf
+„Geistige Entwicklung“, die ihre allgemeine Schulpflicht erfüllt haben,
+absolvieren den Bildungsgang stets in zweijähriger Form.
 
 <abs id="P29A5">(5)</abs> Schülerinnen und Schüler, die an einem öffentlich geförderten, auf
 eine berufliche Erstausbildung vorbereitenden Bildungsgang von in der
@@ -1860,15 +2153,29 @@ Unterricht orientiert sich an den Zielen und Inhalten des Bildungsgangs.
 ermächtigt, das Nähere über die Berufsschule durch Rechtsverordnung zu
 regeln, insbesondere
 
-1\. den Inhalt, den Umfang und die Organisation der Ausbildungen, 2.
+1\.
+den Inhalt, den Umfang und die Organisation der Ausbildungen,
+
+2\.
 die Festlegung, die Verteilung und die Vermehrung der in Absatz 2
-vorgesehenen Unterrichtsstunden, 3. die Ausgestaltung des kooperativen
-und des schulischen Berufsgrundbildungsjahres, 4. die Ausgestaltung der
-Bildungsgänge nach den Absätzen 3 bis 5, 5. die Voraussetzungen für den
-Erwerb der Berufsbildungsreife, der erweiterten Berufsbildungsreife
-sowie des mittleren Schulabschlusses; dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden, 6. die Voraussetzungen zum Erwerb der
-Fachhochschulreife sowie der fachgebundenen und allgemeinen
-Hochschulreife in doppelt qualifizierenden Bildungsgängen (§ 33).
+vorgesehenen Unterrichtsstunden,
+
+3\.
+die Ausgestaltung des kooperativen und des schulischen
+Berufsgrundbildungsjahres,
+
+4\.
+die Ausgestaltung der Bildungsgänge nach den Absätzen 3 bis 5,
+
+5\.
+die Voraussetzungen für den Erwerb der Berufsbildungsreife, der
+erweiterten Berufsbildungsreife sowie des mittleren Schulabschlusses;
+dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden,
+
+6\.
+die Voraussetzungen zum Erwerb der Fachhochschulreife sowie der
+fachgebundenen und allgemeinen Hochschulreife in doppelt
+qualifizierenden Bildungsgängen (§ 33).
 
 # <par id="P30">§ 30</par> Berufsfachschule
 
@@ -1891,14 +2198,15 @@ Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
 Gesetzes vom 30. Juni 2017 (BGBl. I S. 2143) geändert worden ist, in der
 jeweils geltenden Fassung abschließt.
 
-<a href="#P29A3">§ 29 Absatz 3</a> gilt entsprechend.
+# <par id="P29">§ 29</par> Absatz 3 gilt entsprechend.
 
 Die Berufsfachschule ermöglicht zusätzlich den Erwerb schulischer
 Abschlüsse.
 
-<abs id="P30A2">(2)</abs> Die Aufnahme in die Berufsfachschule setzt vorbehaltlich des
-Satzes 2 bei einem mindestens zweijährigen Bildungsgang mindestens die
-Berufsbildungsreife oder eine gleichwertige Schulbildung voraus.
+<abs id="P29A2">(2)</abs> Die Aufnahme in die Berufsfachschule nach Absatz 1 setzt
+vorbehaltlich des Satzes 2 bei einem mindestens zweijährigen
+Bildungsgang mindestens die Berufsbildungsreife oder eine gleichwertige
+Schulbildung voraus.
 
 Erfordert ein Bildungsgang eine über die Berufsbildungsreife oder eine
 jeweils gleichwertige Schulbildung hinausgehende Schulbildung, wird für
@@ -1908,14 +2216,29 @@ Bei Bildungsgängen, die besondere Fähigkeiten und Fertigkeiten
 voraussetzen, kann die Aufnahme zusätzlich vom Ergebnis einer
 entsprechenden Eignungsfeststellung abhängig gemacht werden.
 
-<abs id="P30A3">(3)</abs> Jede Bewerberin und jeder Bewerber wird zunächst auf Probe für die
-Dauer eines Schulhalbjahres aufgenommen.
+<abs id="P29A3">(3)</abs> In der Berufsfachschule wird ein einjähriger teilqualifizierender
+Bildungsgang in dualisierter Form eingerichtet (Berliner
+Ausbildungsmodell).
 
-Schülerinnen und Schüler, die nach ihren Fähigkeiten und Leistungen für
-den jeweiligen Bildungsgang nicht geeignet sind, müssen diesen nach
-Ablauf der Probezeit verlassen.
+Dieser richtet sich an berufsentschiedene Schülerinnen und Schüler, die
+über keinen Berufsabschluss verfügen und trotz mehrmaliger Bewerbung
+keinen dualen Ausbildungsplatz erhalten haben.
 
-<abs id="P30A4">(4)</abs> In den Berufsfachschulen für Altenpflege wird den Schülerinnen und
+Im Berliner Ausbildungsmodell werden Fertigkeiten, Kenntnisse und
+Fähigkeiten entsprechend den Ausbildungsinhalten des ersten Jahres der
+dualen Ausbildung vermittelt, indem neben dem schulischen Unterricht
+fachpraktische Ausbildungsphasen in Ausbildungsbetrieben,
+überbetrieblichen und schulischen Ausbildungsstätten entsprechend der
+jeweils für den Ausbildungsberuf maßgebenden Vorschriften zu absolvieren
+sind.
+
+Ein Berufsabschluss oder schulische Abschlüsse werden nicht vergeben.
+Die Aufnahme in den Bildungsgang setzt die Erfüllung der allgemeinen
+Schulpflicht voraus und kann von einer Eignungsfeststellung abhängig
+gemacht werden; der Nachweis eines Schulabschlusses ist nicht
+erforderlich.
+
+<abs id="P29A4">(4)</abs> In den Berufsfachschulen für Altenpflege wird den Schülerinnen und
 Schülern, die in einem Ausbildungsverhältnis nach dem Altenpflegegesetz
 in der Fassung der Bekanntmachung vom 25. August 2003 (BGBl. I S. 1690),
 geändert durch Artikel 11 des Gesetzes vom 27. Dezember 2003 (BGBl. I.
@@ -1927,11 +2250,14 @@ Die Aufnahme in die Berufsfachschule für Altenpflege setzt voraus, dass
 die Schülerin oder der Schüler nicht in gesundheitlicher Hinsicht zur
 Ausübung des Berufs ungeeignet ist, sowie
 
-1\. den mittleren Schulabschluss oder die erweiterte Berufsbildungsreife
-oder eine gleichwertige Schulbildung oder 2. die Berufsbildungsreife
-oder eine gleichwertige Schulbildung, sofern eine erfolgreich
-abgeschlossene, mindestens zweijährige Berufsausbildung oder die
-Erlaubnis als Altenpflegehelferin oder Altenpflegehelfer oder
+1\.
+den mittleren Schulabschluss oder die erweiterte Berufsbildungsreife
+oder eine gleichwertige Schulbildung oder
+
+2\.
+die Berufsbildungsreife oder eine gleichwertige Schulbildung, sofern
+eine erfolgreich abgeschlossene, mindestens zweijährige Berufsausbildung
+oder die Erlaubnis als Altenpflegehelferin oder Altenpflegehelfer oder
 Krankenpflegehelferin oder Krankenpflegehelfer nachgewiesen wird.
 
 Absatz 1 Satz 1 bis 3 und Absatz 2 finden keine Anwendung.
@@ -1944,27 +2270,47 @@ staatlichen Prüfung nach der Altenpflege-Ausbildungs- und
 Prüfungsverordnung vom 26. November 2002 (BGBl. I S. 4418) in der
 jeweils geltenden Fassung.
 
-<abs id="P30A5">(5)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P29A5">(5)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere über die Bildungsgänge der Berufsfachschule durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Fachrichtungen, 2. die Dauer und die Aufnahmevoraussetzungen
-einschließlich des Verfahrens der Eignungsfeststellung nach Absatz 2
-Satz 3, 3. die Probezeit und die besondere Organisation von
-Teilzeitformen, wobei in Vollzeitbildungsgängen der Berufsfachschule für
-Pflegehilfe eine kürzere als die in Absatz 3 Satz 1 vorgegebene
-Probezeit vorgesehen werden kann, 4. das Verlassen eines Bildungsgangs,
-5. die Abschlüsse und Berechtigungen sowie Qualifizierungsbausteine und
-Ausbildungsbausteine, 6. die Voraussetzungen für den Erwerb der
-erweiterten Berufsbildungsreife und des mittleren Schulabschlusses;
-dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden, 7. die
-Voraussetzungen zum Erwerb der Fachhochschulreife sowie der
+1\.
+die Fachrichtungen und Inhalte,
+
+2\.
+die Dauer und die Aufnahmevoraussetzungen einschließlich des Verfahrens
+der Eignungsfeststellung nach Absatz 2 Satz 3 und der besonderen
+Organisation von Teilzeitformen,
+
+3\.
+die Probezeit, wobei diese in einjährigen Bildungsgängen in der Regel
+ein Schulhalbjahr und in mindestens zweijährigen Bildungsgängen in der
+Regel ein Schuljahr beträgt,
+
+4\.
+das Verlassen eines Bildungsgangs,
+
+5\.
+die Abschlüsse und Berechtigungen sowie Qualifizierungsbausteine und
+Ausbildungsbausteine,
+
+6\.
+die Voraussetzungen für den Erwerb der erweiterten Berufsbildungsreife
+und des mittleren Schulabschlusses; dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden,
+
+7\.
+die Voraussetzungen zum Erwerb der Fachhochschulreife sowie der
 fachgebundenen und allgemeinen Hochschulreife in doppelt
-qualifizierenden Bildungsgängen (§ 33), 8. die Gliederung sowie die
-besondere Organisation der Ausbildung nach Absatz 4 einschließlich der
-Ausgestaltung der Zusammenarbeit mit den Trägern der praktischen
-Ausbildung, 9. die Erteilung der Zeugnisse nach § 3 der
-Altenpflege-Ausbildungs- und Prüfungsverordnung.
+qualifizierenden Bildungsgängen (§ 33),
+
+8\.
+die Gliederung sowie die besondere Organisation der Ausbildung nach
+Absatz 4 einschließlich der Ausgestaltung der Zusammenarbeit mit den
+Trägern der praktischen Ausbildung,
+
+9\.
+die Erteilung der Zeugnisse nach § 3 der Altenpflege-Ausbildungs- und
+Prüfungsverordnung.
 
 # <par id="P31">§ 31</par> Fachoberschule
 
@@ -1975,41 +2321,70 @@ Die Fachhochschulreife wird mit einer Abschlussprüfung erworben.
 
 <abs id="P31A2">(2)</abs> Die Aufnahme in die Fachoberschule setzt voraus
 
-1\. den mittleren Schulabschluss oder 2. die erfolgreiche Beendigung
-einer einschlägigen Berufsausbildung oder eine hinreichend einschlägige
-Berufserfahrung, sofern die Berufsbildungsreife oder eine gleichwertige
-Schulbildung nachgewiesen wird.
+1\.
+den mittleren Schulabschluss oder
 
-§ 30 Abs. 3 gilt entsprechend.
+2\.
+die erfolgreiche Beendigung einer einschlägigen Berufsausbildung oder
+eine hinreichend einschlägige Berufserfahrung, sofern die
+Berufsbildungsreife oder eine gleichwertige Schulbildung nachgewiesen
+wird.
 
 <abs id="P31A3">(3)</abs> Die Bildungsgänge der Fachoberschule dauern
 
-1\. ein Jahr für Schülerinnen und Schüler, die den mittleren
-Schulabschluss besitzen und die erfolgreiche Beendigung einer
-einschlägigen Berufsausbildung oder eine hinreichend einschlägige
-Berufserfahrung nachweisen oder 2. zwei Jahre für die nach Absatz 2 Satz
-1 aufgenommenen Schülerinnen und Schüler.
+1\.
+ein Jahr für Schülerinnen und Schüler, die den mittleren Schulabschluss
+besitzen und die erfolgreiche Beendigung einer einschlägigen
+Berufsausbildung oder eine hinreichend einschlägige Berufserfahrung
+nachweisen oder
 
-(3a) Schülerinnen und Schüler, die die Fachhochschulreife in einem
-Bildungsgang nach Absatz 3 Nummer 2 erworben haben, können bei Erfüllung
-der Leistungsanforderungen in einem anschließenden dritten Jahr mit
-Ablegen einer Abschlussprüfung die fachgebundene oder allgemeine
-Hochschulreife erwerben.
+2\.
+zwei Jahre für die nach Absatz 2 Satz 1 aufgenommenen Schülerinnen und
+Schüler.
+
+(3a) Für Schülerinnen und Schüler, die die Fachhochschulreife in einem
+Bildungsgang nach Absatz 3 Nummer 2 erworben haben, kann bei Erfüllung
+der Leistungsanforderungen eine anschließende dritte Jahrgangsstufe
+eingerichtet werden.
+
+Mit Ablegen einer Abschlussprüfung kann die fachgebundene oder
+allgemeine Hochschulreife erworben werden.
 
 <abs id="P31A4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere über die Bildungsgänge der Fachoberschule durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Fachrichtungen, 2. die Dauer, die Aufnahmevoraussetzungen, das
-Höchstalter für die Aufnahme, 3. die Probezeit, die eingegliederte
-praktische betriebliche Ausbildung, die besondere Organisation von
-Teilzeitformen, 4. das Verlassen eines Bildungsgangs, 5. den Abschluss,
-6. die Voraussetzungen für den Erwerb der erweiterten
-Berufsbildungsreife und des mittleren Schulabschlusses; dabei können
-Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden, 7. die
-Leistungsanforderungen und die Voraussetzungen für den Erwerb der
-fachgebundenen und allgemeinen Hochschulreife nach Absatz 3a und in
-doppelt qualifizierenden Bildungsgängen nach § 33.
+1\.
+die Fachrichtungen,
+
+2\.
+die Dauer, die Aufnahmevoraussetzungen, das Höchstalter für die
+Aufnahme, die eingegliederte praktische betriebliche Ausbildung, die
+besondere Organisation von Teilzeitformen,
+
+3\.
+die Probezeit, wobei diese in einjährigen Bildungsgängen in der Regel
+ein Schulhalbjahr und in mindestens zweijährigen Bildungsgängen in der
+Regel ein Schuljahr beträgt,
+
+4\.
+das Verlassen eines Bildungsgangs,
+
+5\.
+den Abschluss,
+
+6\.
+die Voraussetzungen für den Erwerb der erweiterten Berufsbildungsreife
+und des mittleren Schulabschlusses; dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden,
+
+7\.
+die Fachrichtungen und Schwerpunkte, die Leistungsanforderungen und die
+Voraussetzungen für den Erwerb der fachgebundenen und allgemeinen
+Hochschulreife nach Absatz 3a,
+
+8\.
+die Leistungsanforderungen und die Voraussetzungen in doppelt
+qualifizierenden Bildungsgängen nach § 33.
 
 # <par id="P32">§ 32</par> Berufsoberschule
 
@@ -2025,17 +2400,26 @@ Dauer geführt werden.
 
 <abs id="P32A2">(2)</abs> Die Aufnahme in die Berufsoberschule setzt voraus
 
-1\. den mittleren Schulabschluss und die Eignung für den Besuch des
-jeweiligen Bildungsgangs und 2. eine mindestens zweijährige erfolgreich
-abgeschlossene Berufsausbildung a) nach dem Berufsbildungsgesetz, der
-Handwerksordnung oder dem Seemannsgesetz in der im Bundesgesetzblatt
-Teil III, Gliederungsnummer 9513-1, veröffentlichten bereinigten
-Fassung, zuletzt geändert durch Artikel 4a des Gesetzes vom
-24. Dezember 2003 (BGBl. I S. 3002), in der jeweils geltenden Fassung
-oder b) nach dem jeweiligen Recht des Bundes oder Landes oder 3. eine
-mindestens fünfjährige einschlägige Berufstätigkeit.
+1\.
+den mittleren Schulabschluss und die Eignung für den Besuch des
+jeweiligen Bildungsgangs und
 
-§ 30 Abs. 3 gilt entsprechend.
+2\.
+eine mindestens zweijährige erfolgreich abgeschlossene Berufsausbildung
+
+a\)
+nach dem Berufsbildungsgesetz, der Handwerksordnung oder dem
+Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer
+9513-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
+Artikel 4a des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 3002), in der
+jeweils geltenden Fassung oder
+
+b\)
+nach dem jeweiligen Recht des Bundes oder Landes oder
+
+3\.
+
+eine mindestens fünfjährige einschlägige Berufstätigkeit.
 
 <abs id="P32A3">(3)</abs> Schülerinnen und Schüler, die statt des mittleren Schulabschlusses
 die Fachhochschulreife besitzen und die übrigen Voraussetzungen des
@@ -2047,9 +2431,21 @@ Teilzeitform der Berufsoberschule eintreten.
 ermächtigt, das Nähere über die Bildungsgänge der Berufsoberschule durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Fachrichtungen und Schwerpunkte, 2. die Aufnahmevoraussetzungen
-und die Probezeit, 3. die Dauer bei Teilzeitform, 4. das Verlassen eines
-Bildungsgangs, 5. die Abschlüsse.
+1\.
+die Fachrichtungen und Schwerpunkte,
+
+2\.
+die Aufnahmevoraussetzungen und die Probezeit, wobei diese in der Regel
+ein Schulhalbjahr beträgt,
+
+3\.
+die Dauer bei Teilzeitform,
+
+4\.
+das Verlassen eines Bildungsgangs,
+
+5\.
+die Abschlüsse.
 
 # <par id="P33">§ 33</par> Doppelt qualifizierende Bildungsgänge
 
@@ -2082,8 +2478,6 @@ Berufstätigkeit verlangt werden.
 Die Zulassung zum Studium kann von einer Aufnahmeprüfung abhängig
 gemacht werden.
 
-§ 30 Abs. 3 gilt entsprechend.
-
 Für Teilnehmerinnen und Teilnehmer an Weiterbildungsveranstaltungen
 sowie für Gasthörerinnen und Gasthörer können Gebühren erhoben werden.
 
@@ -2091,12 +2485,25 @@ sowie für Gasthörerinnen und Gasthörer können Gebühren erhoben werden.
 ermächtigt, das Nähere über die Studiengänge der Fachschule durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Dauer und die Aufnahmevoraussetzungen, 2. die Probezeit und die
-besondere Organisation von Teilzeitformen, 3. das Verlassen eines
-Studiengangs, 4. die Abschlüsse, 5. die Voraussetzungen für den Erwerb
-der erweiterten Berufsbildungsreife und des mittleren Schulabschlusses;
-dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden, 6. die
-Voraussetzungen zum Erwerb der Fachhochschulreife sowie der
+1\.
+die Dauer und die Aufnahmevoraussetzungen,
+
+2\.
+die Probezeit, wobei diese in der Regel ein Semester beträgt, und die
+besondere Organisation von Teilzeitformen,
+
+3\.
+das Verlassen eines Studiengangs,
+
+4\.
+die Abschlüsse,
+
+5\.
+die Voraussetzungen für den Erwerb der erweiterten Berufsbildungsreife
+und des mittleren Schulabschlusses; dabei können Abweichungen von <a href="#P21A2">§ 21 Absatz 2</a> vorgesehen werden,
+
+6\.
+die Voraussetzungen zum Erwerb der Fachhochschulreife sowie der
 fachgebundenen und allgemeinen Hochschulreife in doppelt
 qualifizierenden Bildungsgängen (§ 33).
 
@@ -2124,9 +2531,7 @@ berufs- und studienqualifizierenden Bildungsgängen zu ermöglichen.
 
 Hierüber sollen Kooperationsvereinbarungen geschlossen werden.
 
-
-
-## Abschnitt V - Sonderpädagogische Förderung
+Abschnitt V Sonderpädagogische Förderung
 
 # <par id="P36">§ 36</par> Grundsätze
 
@@ -2250,7 +2655,7 @@ auf.
 
 Für Schülerinnen und Schüler mit dem sonderpädagogischen
 Förderschwerpunkt „Lernen“ darf eine Wiederholung einer Jahrgangsstufe
-abweichend von <a href="#P59A4">§ 59 Absatz 4</a> Satz 1 nur angeordnet werden, wenn zu
+abweichend von § 59 Absatz 4 Satz 1 nur angeordnet werden, wenn zu
 erwarten ist, dass sie dadurch einen oder einen höherwertigen
 schulischen Abschluss erreichen.
 
@@ -2275,9 +2680,9 @@ Schülers in die gewählte allgemeine Schule, eine andere allgemeine
 Schule oder im Einvernehmen mit den Erziehungsberechtigten eine Schule
 mit sonderpädagogischem Förderschwerpunkt.
 
-# §37a Inklusive Schwerpunktschule
+# <par id="P37a">§ 37a</par> Inklusive Schwerpunktschule
 
-<abs id="P37A1">(1)</abs> Grundschulen, Integrierte Sekundarschulen, Gemeinschaftsschulen
+<abs id="P37aA1">(1)</abs> Grundschulen, Integrierte Sekundarschulen, Gemeinschaftsschulen
 und Gymnasien, die auf Grund ihrer besonderen personellen, sächlichen
 und räumlichen Rahmenbedingungen besonders geeignete Angebote für
 Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf in den
@@ -2285,23 +2690,31 @@ Förderschwerpunkten „Körperliche und motorische Entwicklung“, „Sehen“,
 „Hören und Kommunikation“, „Geistige Entwicklung“ und „Autismus“ haben,
 führen die Bezeichnung Inklusive Schwerpunktschulen.
 
-<abs id="P37A2">(2)</abs> Inklusive Schwerpunktschulen spezialisieren sich auf einen bis
+<abs id="P37aA2">(2)</abs> Inklusive Schwerpunktschulen spezialisieren sich auf einen bis
 höchstens drei der in Absatz 1 genannten sonderpädagogischen
 Förderschwerpunkte.
 
-<abs id="P37A3">(3)</abs> Bei der Aufnahme in die Jahrgangsstufe 1 werden, abweichend von
+<abs id="P37aA3">(3)</abs> Bei der Aufnahme in die Jahrgangsstufe 1 werden, abweichend von
 den allgemeinen Aufnahmeregelungen in die Grundschule, im Rahmen der
 Frequenzvorgaben Kinder in folgender abgestufter Rangfolge aufgenommen,
 
-1\. zunächst Kinder, die im Einschulungsbereich wohnen und einen
+1\.
+zunächst Kinder, die im Einschulungsbereich wohnen und einen
 festgestellten sonderpädagogischen Förderbedarf haben, auf den die
-Schule spezialisiert ist, 2. Kinder, die nicht im Einschulungsbereich
-wohnen und einen festgestellten sonderpädagogischen Förderbedarf haben,
-auf den die Schule spezialisiert ist, 3. die übrigen Kinder, die im
-Einschulungsbereich wohnen und 4. alle sonstigen Kinder entsprechend der
-Rangfolge des <a href="#P55aA2">§ 55a Absatz 2</a>.
+Schule spezialisiert ist,
 
-<abs id="P37A4">(4)</abs> In die Jahrgangsstufe 7 werden im Rahmen der Frequenzvorgaben
+2\.
+Kinder, die nicht im Einschulungsbereich wohnen und einen festgestellten
+sonderpädagogischen Förderbedarf haben, auf den die Schule spezialisiert
+ist,
+
+3\.
+die übrigen Kinder, die im Einschulungsbereich wohnen und
+
+4\.
+alle sonstigen Kinder entsprechend der Rangfolge des <a href="#P55aA2">§ 55a Absatz 2</a>.
+
+<abs id="P37aA4">(4)</abs> In die Jahrgangsstufe 7 werden im Rahmen der Frequenzvorgaben
 vorrangig Schülerinnen und Schüler mit dem sonderpädagogischen
 Förderbedarf aufgenommen, auf den die Schule spezialisiert ist. Im
 Übrigen gilt <a href="#P56A6">§ 56 Absatz 6</a>.
@@ -2322,7 +2735,7 @@ Förderung Berufsschulen mit sonderpädagogischen Aufgaben zur Verfügung.
 
 <abs id="P38A2">(2)</abs> Schulpflichtige besuchen die für sie geeignete Schule mit
 sonderpädagogischem Förderschwerpunkt, wenn deren Erziehungsberechtigte
-es wünschen oder ihr Einvernehmen gemäß <a href="#P37A4">§ 37 Absatz 4</a> erklärt haben.“
+es wünschen oder ihr Einvernehmen gemäß <a href="#P37A4">§ 37 Absatz 4</a> erklärt haben.
 
 # <par id="P39">§ 39</par> Nähere Ausgestaltung der sonderpädagogischen Förderung
 
@@ -2330,69 +2743,57 @@ Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt, das
 Nähere über die sonderpädagogische Förderung durch Rechtsverordnung zu
 regeln, insbesondere
 
-1\. die Ausgestaltung der sonderpädagogischen Förderschwerpunkte
+1\.
+die Ausgestaltung der sonderpädagogischen Förderschwerpunkte
 einschließlich der spezifischen Bildungsangebote,
 
-
-
-2\. das Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs
+2\.
+das Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs
 einschließlich der Anforderungen an das sonderpädagogische Gutachten,
 
+3\.
+das Verfahren zum Verlassen einer Schule mit sonderpädagogischem
+Förderschwerpunkt und zur Aufnahme an einer anderen Schule, wenn der
+sonderpädagogische Förderbedarf der Schülerin oder des Schülers
+entfällt,
 
-
-3\. das Verfahren der sonderpädagogischen Förderung beim Übergang von
-der Kindertagesstätte in die Grundschule und in die ergänzende Förderung
-und Betreuung einschließlich des Verzichts auf eine Neu-Beauftragung
-eines sonderpädagogischen Gutachtens oder einer sonderpädagogischen
-Stellungnahme zum Zeitpunkt des Schuleintritts, soweit eine
-sonderpädagogische Förderung bereits in der Kindertagesbetreuung
-erfolgte,
-
-
-
-4\. die Bildung, Zusammensetzung, Aufgaben und Empfehlungskriterien von
+4\.
+die Bildung, Zusammensetzung, Aufgaben und Empfehlungskriterien von
 Ausschüssen,
 
-
-
-5\. die Organisationsformen sonderpädagogischer Förderung und die
+5\.
+die Organisationsformen sonderpädagogischer Förderung und die
 schulergänzenden Maßnahmen sowie die besonderen Organisationsformen für
 die sonderpädagogischen Förderschwerpunkte „emotional-soziale
 Entwicklung“, „Autismus“ und Unterricht für kranke Schülerinnen und
 Schüler,
 
-
-
-6\. die Abweichungen von den Regelungen der allgemeinen Schule im
+6\.
+die Abweichungen von den Regelungen der allgemeinen Schule im
 gemeinsamen Unterricht,
 
-
-
-7\. die Aufgaben der Schulen mit sonderpädagogischem Förderschwerpunkt,
-der sonderpädagogischen Einrichtungen sowie der Berufsschulen mit
+7\.
+die Aufgaben der Schulen mit sonderpädagogischem Förderschwerpunkt, der
+sonderpädagogischen Einrichtungen sowie der Berufsschulen mit
 sonderpädagogischen Aufgaben einschließlich der abweichenden Regelungen
 zu der allgemeinen Schule,
 
+8\.
+das Verfahren für den Übergang von der Schule mit sonderpädagogischem
+Förderschwerpunkt in die allgemeine Schule,
 
-
-8\. das Verfahren für den Übergang von der Schule mit
-sonderpädagogischem Förderschwerpunkt in die allgemeine Schule,
-
-
-
-9\. die Voraussetzungen für den Erwerb des berufsorientierenden
+9\.
+die Voraussetzungen für den Erwerb des berufsorientierenden
 Schulabschlusses und für die Gleichwertigkeit mit der
 Berufsbildungsreife,
 
+10\.
+die Schülerbeförderung und die Schulwegbegleitung,
 
-
-10\. die Schülerbeförderung und die Schulwegbegleitung,
-
-
-
-11\. das Verfahren und die Kriterien für die durch die
-Schulaufsichtsbehörde vorzunehmende Auswahl der Schülerinnen und Schüler
-mit sonderpädagogischem Förderbedarf bei Überschreitung der für den
+11\.
+das Verfahren und die Kriterien für die durch die Schulaufsichtsbehörde
+vorzunehmende Auswahl der Schülerinnen und Schüler mit
+sonderpädagogischem Förderbedarf bei Überschreitung der für den
 gemeinsamen Unterricht festgelegten Aufnahmekapazität, wobei
 insbesondere die Übereinstimmungen der Fördermöglichkeiten der Schule
 mit dem entsprechenden festgestellten sonderpädagogischen Förderbedarf
@@ -2400,29 +2801,32 @@ und weiteren Voraussetzungen (beispielsweise Neigung, angestrebtes
 Bildungsziel) und Lebensbedingungen der Schülerin oder des Schülers
 (beispielsweise Wohnortnähe, soziale Bindungen) zu berücksichtigen sind,
 
+12\.
+das Verfahren und die Kriterien für die durch die Schulaufsichtsbehörde
+vorzunehmende Auswahl der Schülerinnen und Schüler mit
+sonderpädagogischem Förderbedarf an einer Inklusiven Schwerpunktschule
+bei Überschreitung der für Schülerinnen und Schüler mit
+sonderpädagogischem Förderbedarf festgelegten Aufnahmekapazität, wobei
+die Spezialisierung der Schule für einen oder mehrere sonderpädagogische
+Förderschwerpunkte, die Erreichbarkeit anderer vergleichbar geeigneter
+Schulstandorte und die pädagogisch sowie organisatorisch sachgerechte
+Verteilung der verfügbaren Plätze innerhalb der verschiedenen
+Förderschwerpunkte an der jeweiligen Schule sowie an den alternativen
+Standorten zu berücksichtigen ist,
 
+13\.
+das Verfahren und die Kriterien für die Auswahl der Schülerinnen und
+Schüler mit sonderpädagogischem Förderbedarf bei Überschreitung der
+Aufnahmekapazität an einer Schule mit sonderpädagogischem
+Förderschwerpunkt,
 
-12\. das Verfahren und die Kriterien für die durch die
-Schulaufsichtsbehörde vorzunehmende Auswahl der Schülerinnen und Schüler
-mit sonderpädagogischem Förderbedarf an einer Inklusiven
-Schwerpunktschule bei Überschreitung der für Schülerinnen und Schüler
-mit sonderpädagogischem Förderbedarf festgelegten Aufnahmekapazität,
-wobei die Spezialisierung der Schule für einen oder mehrere
-sonderpädagogische Förderschwerpunkte, die Erreichbarkeit anderer
-vergleichbar geeigneter Schulstandorte und die pädagogisch sowie
-organisatorisch sachgerechte Verteilung der verfügbaren Plätze innerhalb
-der verschiedenen Förderschwerpunkte an der jeweiligen Schule sowie an
-den alternativen Standorten zu berücksichtigen ist,
+14\.
+die Ausgestaltung der Auftragsschulen für Autismus.
 
+Abschnitt VI Weitere Bildungsgänge
 
-
-13\. die Ausgestaltung der Auftragsschulen für Autismus.
-
-
-
-## Abschnitt VI - Weitere Bildungsgänge
-
-# <par id="P40">§ 40</par> Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb allgemein bildender und beruflicher Abschlüsse
+# <par id="P40">§ 40</par> Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb
+allgemein bildender und beruflicher Abschlüsse
 
 <abs id="P40A1">(1)</abs> Geeigneten Erwachsenen ist Gelegenheit zu geben, die
 Berufsbildungsreife, die erweiterte Berufsbildungsreife, den mittleren
@@ -2433,57 +2837,70 @@ Zustimmung der Schulaufsichtsbehörde an Volkshochschulen eingerichtet.
 
 Die Lehrgänge schließen mit Prüfungen ab.
 
-<abs id="P40A2">(2)</abs> Die Kollegs (Volkshochschul-Kollegs und Berlin-Kolleg) führen
-nicht berufstätige Teilnehmerinnen und Teilnehmer im Tagesunterricht,
-die Abendgymnasien führen berufstätige Teilnehmerinnen und Teilnehmer im
-Abendunterricht zur allgemeinen Hochschulreife.
+<abs id="P40A2">(2)</abs> Die Kollegs führen nicht berufstätige Teilnehmerinnen und
+Teilnehmer im Tagesunterricht, die Abendgymnasien führen berufstätige
+Teilnehmerinnen und Teilnehmer im Abendunterricht zur allgemeinen
+Hochschulreife.
 
 Der Bildungsgang an den Kollegs und Abendgymnasien gliedert sich in eine
 einjährige Einführungsphase und eine sich anschließende zweijährige
 Qualifikationsphase.
 
-<a href="#P28A4">§ 28 Absatz 4</a> und 6 gilt entsprechend mit der Maßgabe, dass
+# <par id="P28">§ 28</par> Absatz 7 und 8 gilt entsprechend mit der Maßgabe, dass
 
-1\. in der Einführungsphase auch der unterschiedliche Stand der
-Kenntnisse und Fähigkeiten der Teilnehmerinnen und Teilnehmer einander
-angeglichen werden soll, 2. bei der Festlegung der zu wählenden Fächer
-und Kurse Alter und Berufserfahrung der Teilnehmerinnen und Teilnehmer
-angemessen zu berücksichtigen sind und 3. für Teilnehmerinnen und
-Teilnehmer, die beim Eintritt in ein Kolleg oder ein Abendgymnasium
-nicht über hinreichende Fremdsprachenkenntnisse verfügen, besondere
-fremdsprachliche Unterrichtsverpflichtungen vorzusehen sind.
+1\.
+in der Einführungsphase auch der unterschiedliche Stand der Kenntnisse
+und Fähigkeiten der Teilnehmerinnen und Teilnehmer einander angeglichen
+werden soll,
+
+2\.
+bei der Festlegung der zu wählenden Fächer und Kurse Alter und
+Berufserfahrung der Teilnehmerinnen und Teilnehmer angemessen zu
+berücksichtigen sind und
+
+3\.
+für Teilnehmerinnen und Teilnehmer, die beim Eintritt in ein Kolleg oder
+ein Abendgymnasium nicht über hinreichende Fremdsprachenkenntnisse
+verfügen, besondere fremdsprachliche Unterrichtsverpflichtungen
+vorzusehen sind.
 
 Wer in die Qualifikationsphase versetzt wird, erwirbt einen dem
 mittleren Schulabschluss gleichwertigen Abschluss.
 
-<abs id="P40A3">(3)</abs> In ein Kolleg kann aufgenommen werden, wer mindestens die
+<abs id="P28A3">(3)</abs> In ein Kolleg kann aufgenommen werden, wer mindestens die
 Berufsbildungsreife oder eine gleichwertige Schulbildung besitzt, im
 Schuljahr der Anmeldung mindestens das 18. Lebensjahr vollendet und bei
 Eintritt in die Einführungsphase
 
-1\. eine Berufsausbildung abgeschlossen hat oder eine mindestens
-zweijährige geregelte Berufstätigkeit nachweisen kann und 2. einen
-mindestens halbjährigen Vorkurs erfolgreich besucht hat.
+1\.
+eine Berufsausbildung abgeschlossen hat oder eine mindestens zweijährige
+geregelte Berufstätigkeit nachweisen kann und
+
+2\.
+einen mindestens halbjährigen Vorkurs erfolgreich besucht hat.
 
 Der Vorkurs nach Satz 1 Nummer 2 kann bei Bewerberinnen und Bewerbern
 entfallen, die eine Eignungsprüfung bestanden haben oder den mittleren
 Schulabschluss besitzen; für die Eignungsprüfung gilt <a href="#P60A4">§ 60 Absatz 4</a>
 entsprechend.
 
-<abs id="P40A4">(4)</abs> In ein Abendgymnasium kann aufgenommen werden, wer im Schuljahr
+<abs id="P28A4">(4)</abs> In ein Abendgymnasium kann aufgenommen werden, wer im Schuljahr
 der Anmeldung mindestens das 18. Lebensjahr vollendet und bei Eintritt
 in die Einführungsphase
 
-1\. eine Berufsausbildung abgeschlossen hat oder eine mindestens
-zweijährige geregelte Berufstätigkeit nachweisen kann und 2. einen
-mindestens halbjährigen Vorkurs erfolgreich besucht hat.
+1\.
+eine Berufsausbildung abgeschlossen hat oder eine mindestens zweijährige
+geregelte Berufstätigkeit nachweisen kann und
+
+2\.
+einen mindestens halbjährigen Vorkurs erfolgreich besucht hat.
 
 Der Vorkurs nach Satz 1 Nummer 2 kann bei Bewerberinnen und Bewerbern
 entfallen, die eine Eignungsprüfung bestanden haben oder den mittleren
 Schulabschluss besitzen; für die Eignungsprüfung gilt <a href="#P60A4">§ 60 Absatz 4</a>
-entsprechend.“
+entsprechend.
 
-<abs id="P40A5">(5)</abs> In Einrichtungen nach Absatz 2 dürfen nur Lehrkräfte eingesetzt
+<abs id="P28A5">(5)</abs> In Einrichtungen nach Absatz 2 dürfen nur Lehrkräfte eingesetzt
 werden, die die Laufbahnbefähigung als Studienrat mit wissenschaftlichen
 oder künstlerischen Fächern mit Ausnahme einer beruflichen Fachrichtung
 besitzen.
@@ -2493,27 +2910,33 @@ Schulaufsichtsbehörde als Lehrkraft auch eingesetzt werden, wer
 Erfahrungen in Berufen außerhalb des Schulwesens oder in der
 Erwachsenenbildung besitzt.
 
-<abs id="P40A6">(6)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P28A6">(6)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere für die Lehrgänge und Einrichtungen des Zweiten
 Bildungswegs durch Rechtsverordnung zu regeln, insbesondere
 
-1\. die Einrichtung, Veränderung und Auflösung von Lehrgängen und
-Einrichtungen, 2. die Aufnahmevoraussetzungen, die Dauer einzelner
-Bildungsabschnitte und das Prüfungsverfahren für Lehrgänge nach Absatz
-1, 3. die Voraussetzungen für das Überspringen der Einführungsphase, 4.
+1\.
+die Einrichtung, Veränderung und Auflösung von Lehrgängen und
+Einrichtungen,
+
+2\.
+die Aufnahmevoraussetzungen, die Dauer einzelner Bildungsabschnitte und
+das Prüfungsverfahren für Lehrgänge nach Absatz 1,
+
+3\.
+die Voraussetzungen für das Überspringen der Einführungsphase,
+
+4\.
 die Voraussetzungen für den Erwerb der Abschlüsse gemäß Absatz 1 und für
-den dem mittleren Schulabschluss gleichwertigen Abschluss (Absatz 2), 5.
+den dem mittleren Schulabschluss gleichwertigen Abschluss (Absatz 2),
+
+5\.
 die bildungsgangspezifischen organisatorischen Besonderheiten der
 Erwachsenenbildung.
 
 In der Rechtsverordnung kann vorgesehen werden, dass auch vorübergehend
 nicht berufstätige Personen in das Abendgymnasium aufgenommen werden.
 
-
-
-## Teil IV - Schulpflicht
-
-
+Teil IV Schulpflicht
 
 # <par id="P41">§ 41</par> Grundsätze
 
@@ -2530,46 +2953,28 @@ Fassung der Bekanntmachung vom 2. September 2008 (BGBl. I S. 1798), das
 zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2018 (BGBl. I S.
 2250) geändert worden ist, in der jeweils geltenden Fassung, oder eines
 Asylantrags der Aufenthalt in Berlin gestattet ist oder die hier
-geduldet werden, unterliegen der allgemeinen Schulpflicht.
+geduldet werden, unterliegen der Schulpflicht.
 
 <abs id="P41A3">(3)</abs> Die Schulpflicht umfasst die allgemeine Schulpflicht und die
-Berufsschulpflicht.
+Schulpflicht in der Sekundarstufe II.
 
 Sie ist durch den Besuch einer öffentlichen Schule oder einer staatlich
 anerkannten oder staatlich genehmigten Ersatzschule zu erfüllen.
-
-Die Schulaufsichtsbehörde kann eine Schülerin oder einen Schüler von der
-Schulbesuchspflicht befreien, wenn ein besonderer Grund vorliegt.
-
-(3a) Für Schülerinnen und Schüler kann die Schulbesuchspflicht
-vorübergehend ganz oder teilweise ruhen.
-
-Hierüber entscheidet die Schulaufsichtsbehörde auf Antrag der
-Klassenkonferenz nach Anhörung der Schülerin oder des Schülers und
-seiner oder ihrer Erziehungsberechtigten auf Grundlage einer
-Stellungnahme des Schulpsychologischen und Inklusionspädagogischen
-Beratungs- und Unterstützungszentrums.
-
-Die Vertreterinnen und Vertreter der Schülerinnen und Schüler sowie der
-Erziehungsberechtigten nehmen an den Beratungen nur teil, wenn die
-betroffene Schülerin oder der betroffene Schüler und ihre oder seine
-Erziehungsberechtigten dies wünschen.
-
-Die Entscheidung ist durch die Schulaufsichtsbehörde spätestens nach
-drei Monaten erstmalig zu überprüfen.
-
-Über die Teilnahme an temporären alternativen Bildungs- und
-Erziehungsangeboten entscheidet die Schulaufsichtsbehörde mit Zustimmung
-der Schülerinnen und Schüler sowie ihrer Erziehungsberechtigten.
 
 <abs id="P41A4">(4)</abs> Wer im Land Berlin weder seine Wohnung oder seinen gewöhnlichen
 Aufenthalt noch seine Ausbildungs- oder Arbeitsstätte hat, kann in die
 öffentlichen Schulen im Land Berlin aufgenommen werden, wenn
 
-1\. mit dem jeweiligen Bundesland die Gegenseitigkeit und ein
-angemessener Finanzausgleich vereinbart sind, 2. die oder der
-Schulpflichtige eine Befreiung von der Schulbesuchspflicht in dem
-jeweiligen Bundesland nachweist und 3. freie Plätze vorhanden sind.
+1\.
+mit dem jeweiligen Bundesland die Gegenseitigkeit und ein angemessener
+Finanzausgleich vereinbart sind,
+
+2\.
+die oder der Schulpflichtige eine Befreiung von der Schulbesuchspflicht
+in dem jeweiligen Bundesland nachweist und
+
+3\.
+freie Plätze vorhanden sind.
 
 Die Entscheidung über die Aufnahme trifft die zuständige Schulbehörde;
 in den Fällen, in denen der Bezirk diese Entscheidung trifft, ist die
@@ -2580,7 +2985,7 @@ beruflichen Abschluss führen, der außerhalb Berlins nicht erworben
 werden kann, entscheidet die Schulaufsichtsbehörde.
 
 <abs id="P41A5">(5)</abs> Wohnung im Sinne dieses Gesetzes ist die Wohnung einer Person nach
-§ 20 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), das
+# <par id="P20">§ 20</par> des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), das
 zuletzt durch Artikel 9 des Gesetzes vom 2. Februar 2016 (BGBl. I S.
 130) geändert worden ist, in der jeweils geltenden Fassung; bei mehreren
 Wohnungen die Hauptwohnung nach § 22 des Bundesmeldegesetzes.
@@ -2628,26 +3033,145 @@ Berufsbildungsreife erworben haben und der Schulaufsichtsbehörde ein
 Berufsausbildungsverhältnis im Sinne des Berufsbildungsgesetzes
 nachweisen.
 
-# <par id="P43">§ 43</par> Beginn und Dauer der Berufsschulpflicht
+Die allgemeine Schulpflicht endet spätestens mit der Beendigung des
+Schuljahres, in dem das 18. Lebensjahr vollendet wird.
 
-<abs id="P43A1">(1)</abs> Nach Erfüllung der allgemeinen Schulpflicht wird
-berufsschulpflichtig, wer in einem Berufsausbildungsverhältnis im Sinne
-des Berufsbildungsgesetzes steht.
+# <par id="P43">§ 43</par> Beginn und Dauer der Schulpflicht in der Sekundarstufe II
 
-Die Schülerin oder der Schüler muss bis zum Ende des
-Berufsausbildungsverhältnisses die Berufsschule besuchen.
+<abs id="P43A1">(1)</abs> Nach Erfüllung der allgemeinen Schulpflicht beginnt die Pflicht
+zum Besuch einer beruflichen Schule oder eines anderen Bildungsgangs der
+Sekundarstufe II; die Pflicht kann auch durch den weiteren Besuch der
+Sekundarstufe I erfüllt werden.
 
-<abs id="P43A2">(2)</abs> Berufsschulpflichtig ist auch, wer an einem berufsvorbereitenden
-Lehrgang nach § 29 Abs. 5 teilnimmt und das 20. Lebensjahr noch nicht
+<abs id="P43A2">(2)</abs> Schulpflichtig ist, wer in einem Berufsausbildungsverhältnis im
+Sinne des Berufsbildungsgesetzes steht. Die Schülerin oder der Schüler
+muss bis zum Ende des Berufsausbildungsverhältnisses die Berufsschule
+besuchen.
+
+<abs id="P43A3">(3)</abs> Schulpflichtig ist auch, wer an einem berufsvorbereitenden
+Lehrgang nach § 29 Absatz 5 teilnimmt und das 20. Lebensjahr noch nicht
 vollendet hat.
 
-<abs id="P43A3">(3)</abs> Von der Berufsschulpflicht ist auf Antrag zu befreien, wenn
+<abs id="P43A4">(4)</abs> Jugendliche, die nach Erfüllung der allgemeinen Schulpflicht weder
+in ein Berufsausbildungsverhältnis eintreten noch einen
+berufsvorbereitenden Lehrgang nach § 29 Absatz 5 besuchen, sind
+unabhängig von dem besuchten Bildungsgang mindestens für ein weiteres
+Schulbesuchsjahr schulpflichtig.
 
-1\. die Berufsausbildung erst nach Vollendung des 21. Lebensjahres
-beginnt, 2. die oder der Auszubildende bereits eine abgeschlossene
-Berufsausbildung besitzt, 3. die oder der Auszubildende den Abschluss
-einer Berufsfachschule nachweist oder 4. die Befreiung zur Vermeidung
-von Härten erforderlich ist.
+Die Schulpflicht endet in diesem Fall spätestens mit Beendigung des
+Schuljahres, in dem das 18. Lebensjahr vollendet wird.
+
+Die Schulaufsichtsbehörde kann vor Ablauf der Schulpflicht feststellen,
+dass die bisherige Ausbildung einen weiteren Schulbesuch entbehrlich
+macht oder eine sinnvolle Förderung durch einen weiteren Schulbesuch
+nicht zu erwarten ist; mit dieser Feststellung endet die Schulpflicht.
+
+# <par id="P43a">§ 43a</par> Befreiung von der Schulpflicht
+
+<abs id="P43aA1">(1)</abs> Die Schulaufsichtsbehörde kann eine Schülerin oder einen Schüler
+von der Schulpflicht befreien, wenn ein besonderer Grund vorliegt.
+
+<abs id="P43aA2">(2)</abs> Von der Pflicht zum Besuch der Berufsschule gemäß <a href="#P43A2">§ 43 Absatz 2</a>
+und 3 ist auf Antrag zu befreien, wenn
+
+1\.
+die Berufsausbildung erst nach Vollendung des 21. Lebensjahres beginnt,
+
+2\.
+die oder der Auszubildende bereits eine abgeschlossene Berufsausbildung
+besitzt,
+
+3\.
+die oder der Auszubildende den Abschluss einer Berufsfachschule
+nachweist,
+
+4\.
+das Berufsausbildungsverhältnis nach nicht bestandener
+Berufsabschlussprüfung verlängert wird oder
+
+5\.
+die Befreiung zur Vermeidung von Härten erforderlich ist.
+
+<abs id="P43aA3">(3)</abs> Schulpflichtige, die eine Ausbildung auf bundes- oder
+landesrechtlicher Grundlage erhalten, die nicht der Zuständigkeit der
+für das Schulwesen zuständigen Senatsverwaltung unterliegt, sind von der
+Schulpflicht nach <a href="#P43A4">§ 43 Absatz 4</a> befreit.
+
+<abs id="P43aA4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+ermächtigt, das Nähere zur Befreiung von der Schulpflicht durch
+Rechtsverordnung zu regeln, insbesondere zu den Befreiungsgründen, zum
+Verfahren und zu den Informationspflichten.
+
+# <par id="P43b">§ 43b</par> Ruhen der Schulpflicht
+
+<abs id="P43bA1">(1)</abs> Wenn eine Schülerin oder ein Schüler durch Verhalten in der
+Schule, bei schulischen Veranstaltungen außerhalb des Schulgeländes oder
+auf dem Schulweg Leben, Gesundheit oder sexuelle Selbstbestimmung
+anderer am Schulleben beteiligter Personen gefährdet oder bedroht oder
+andere Personen dazu anstiftet und sich von diesem Verhalten weder durch
+Erziehungs- und Ordnungsmaßnahmen im Sinne der §§ 62 und 63 noch durch
+sonstige mildere Maßnahmen abhalten lässt, können die
+Erziehungsberechtigten oder die volljährige Schülerin oder der
+volljährige Schüler selbst einen Antrag auf Befreiung von der
+Schulpflicht nach § 43a stellen mit dem Ziel, die Gefährdung oder
+Bedrohung oder Anstiftung dazu zu beenden und Zeit für unterstützende
+Maßnahmen zu finden.
+
+Wird unter den Voraussetzungen des Satzes 1 ein Antrag auf Befreiung von
+der Schulpflicht nicht gestellt, kann die Schulaufsichtsbehörde auf
+Antrag der Klassenkonferenz und auf Grund einer Stellungnahme des
+zuständigen Schulpsychologischen und Inklusionspädagogischen Beratungs-
+und Unterstützungszentrums das vorübergehende vollständige oder
+teilweise Ruhen der Schulpflicht und den Ausschluss vom Unterricht und
+von anderen schulischen Veranstaltungen anordnen.
+
+Die betroffene Schülerin oder der betroffene Schüler und die
+Erziehungsberechtigten sind zuvor zu hören.
+
+Von der Schülerin oder dem Schüler oder den Erziehungsberechtigten im
+Rahmen der Anhörung vorgelegte ärztliche oder therapeutische Auskünfte,
+Atteste oder Gutachten werden von der Schulaufsichtsbehörde
+berücksichtigt.
+
+Die Schulaufsichtsbehörde hat eine Anordnung nach Satz 2 zu überprüfen,
+sobald eine Änderung des Verhaltens der Schülerin oder des Schülers zu
+erwarten ist, spätestens nach drei Monaten; für die Dauer der Anordnung
+findet spätestens jeweils nach sechs Monaten eine Überprüfung derselben
+statt.
+
+Spätestens nach zwölf Monaten eines vollständigen Ruhens der
+Schulpflicht und eines Ausschlusses vom Unterricht und von anderen
+schulischen Veranstaltungen muss die Fortsetzung der Beschulung erprobt
+werden, wenn die Erziehungsberechtigten oder die volljährige Schülerin
+oder der volljährige Schüler dies bei der Schulaufsichtsbehörde
+beantragen.
+
+Die Schulaufsichtsbehörde plant und koordiniert im Zusammenwirken mit
+der Schule, dem zuständigen Schulpsychologischen und
+Inklusionspädagogischen Beratungs- und Unterstützungszentrum und, soweit
+im Einzelfall erforderlich, weiteren Behörden, Einrichtungen und
+Diensten die Vorbereitung der Wiedereingliederung in die Schule.
+
+Sie bezieht dabei die betroffene Schülerin oder den betroffenen Schüler
+und die Erziehungsberechtigten ein.
+
+Satz 3 gilt entsprechend.
+
+<abs id="P43bA2">(2)</abs> Für Jugendliche ruht die Schulpflicht nach <a href="#P43A4">§ 43 Absatz 4</a>
+insbesondere für die Dauer des Wehrdienstes oder eines freiwilligen
+sozialen oder ökologischen Jahres oder anderer Freiwilligendienste.
+
+Die Schulpflicht kann auf Antrag für die Dauer des Besuchs einer
+Bildungseinrichtung oder in sonstigen begründeten Einzelfällen ruhen.
+Absatz 1 bleibt unberührt.
+
+<abs id="P43bA3">(3)</abs> Das Ruhen der Schulpflicht nach den Absätzen 1 und 2 wird auf die
+Dauer der Schulpflicht angerechnet.
+
+<abs id="P43bA4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+ermächtigt, das Nähere zum Ruhen der Schulpflicht durch Rechtsverordnung
+zu regeln, insbesondere zu den Ruhensgründen, zum Verfahren und zu den
+Informationspflichten.
 
 # <par id="P44">§ 44</par> Verantwortung für die Einhaltung der Schulpflicht
 
@@ -2658,9 +3182,10 @@ verbindlichen Veranstaltungen der Schule.
 Sie sind verpflichtet, die Schulpflichtige oder den Schulpflichtigen bei
 der Schule an- und abzumelden.
 
-Die Ausbildenden sind verpflichtet, der oder dem Schulpflichtigen die
-zur Erfüllung der Berufsschulpflicht erforderliche Zeit zu gewähren und
-sie oder ihn zur Erfüllung der Schulpflicht anzuhalten.
+Im Falle des Besuchs der Berufsschule sind die Ausbildenden
+verpflichtet, der oder dem Schulpflichtigen die zur Erfüllung der
+Schulpflicht erforderliche Zeit zu gewähren und sie oder ihn zur
+Erfüllung der Schulpflicht anzuhalten.
 
 Versäumt die oder der Auszubildende unentschuldigt den Unterricht in der
 Berufsschule, hat die Schule die Erziehungsberechtigten und die
@@ -2682,13 +3207,9 @@ Schülerinnen und Schüler, die Erziehungsberechtigten oder die Personen,
 denen die Betreuung schulpflichtiger Kinder anvertraut ist, oder die
 Ausbildenden ohne Erfolg geblieben oder nicht erfolgversprechend sind.
 
+Teil V Schulverhältnis
 
-
-## Teil V - Schulverhältnis
-
-## Abschnitt I - Allgemeine Bestimmungen
-
-
+Abschnitt I Allgemeine Bestimmungen
 
 # <par id="P46">§ 46</par> Rechte und Pflichten der Schülerinnen und Schüler
 
@@ -2701,10 +3222,9 @@ Unterricht und an den sonstigen verbindlichen Schulveranstaltungen aktiv
 teilzunehmen, die erforderlichen Arbeiten anzufertigen und die
 Hausaufgaben zu erledigen.
 
-An Ganztagsschulen und im Rahmen der verlässlichen Halbtagsgrundschule
-gehört auch die außerunterrichtliche Betreuung zu den verbindlichen
-Veranstaltungen der Schule, soweit die Teilnahme daran nicht freiwillig
-ist.
+An Ganztagsschulen gehört auch die außerunterrichtliche Betreuung zu den
+verbindlichen Veranstaltungen der Schule, soweit die Teilnahme daran
+nicht freiwillig ist.
 
 Die Schülerinnen und Schüler sind an die Vorgaben gebunden, die dazu
 bestimmt sind, das Bildungs- und Erziehungsziel der Schule zu erreichen
@@ -2762,26 +3282,40 @@ Abschluss der besuchten Schule erreicht hat; sie erfolgt in der Regel,
 wenn sie oder er die für den jeweiligen Bildungsgang geltende
 Höchstdauer des Schulbesuchs erreicht hat.
 
-§ 63 Abs. 2 Satz 1 Nr. 5 bleibt unberührt.
+# <par id="P63">§ 63</par> Abs. 2 Satz 1 Nr. 5 bleibt unberührt.
 
-<abs id="P46A7">(7)</abs> Die Höchstdauer des Schulbesuchs ergibt sich aus den Festlegungen
+<abs id="P63A7">(7)</abs> Die Höchstdauer des Schulbesuchs ergibt sich aus den Festlegungen
 dieses Gesetzes für die einzelnen Schularten und den auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen.
 
-# <par id="P47">§ 47</par> Informationsrechte der Schülerinnen und Schüler und der Erziehungsberechtigten
+# <par id="P47">§ 47</par> Informationsrechte der Schülerinnen und Schüler und der
+Erziehungsberechtigten
 
 <abs id="P47A1">(1)</abs> Die Schülerinnen und Schüler sowie deren Erziehungsberechtigte
 haben das Recht, in allen grundsätzlichen und wichtigen
 Schulangelegenheiten informiert und beraten zu werden.
 
-Dazu gehören insbesondere 1. der Aufbau und die Gliederung der Schule,
-2. die Übergänge zwischen den Schularten und den Schulstufen, 3. die mit
-dem Besuch der allgemein bildenden und der beruflichen Schulen
-verbundenen Abschlüsse und Berechtigungen, 4. die Grundlagen der Planung
-und Gestaltung des Unterrichts, die Grundzüge der Unterrichtsinhalte und
-Unterrichtsziele, die Unterrichtsstandards, die Grundsätze der
-Leistungsbeurteilung, der Versetzung und der Kurseinstufung, 5. ihre
-Mitwirkungsmöglichkeiten in der Schule und in überschulischen Gremien.
+Dazu gehören insbesondere
+
+1\.
+der Aufbau und die Gliederung der Schule,
+
+2\.
+die Übergänge zwischen den Schularten und den Schulstufen,
+
+3\.
+die mit dem Besuch der allgemein bildenden und der beruflichen Schulen
+verbundenen Abschlüsse und Berechtigungen,
+
+4\.
+die Grundlagen der Planung und Gestaltung des Unterrichts, die Grundzüge
+der Unterrichtsinhalte und Unterrichtsziele, die Unterrichtsstandards,
+die Grundsätze der Leistungsbeurteilung, der Versetzung und der
+Kurseinstufung,
+
+5\.
+ihre Mitwirkungsmöglichkeiten in der Schule und in überschulischen
+Gremien.
 
 <abs id="P47A2">(2)</abs> Die Erziehungsberechtigten haben das Recht, unter Berücksichtigung
 der pädagogischen Situation der Klasse oder Jahrgangsgruppe im
@@ -2804,13 +3338,20 @@ Unterrichts informiert.
 informieren die Schülerinnen und Schüler sowie deren
 Erziehungsberechtigte individuell und in angemessenem Umfang
 
-1\. über die Lern-, Leistungs- und Kompetenzentwicklung sowie das
-Arbeits- und Sozialverhalten der Schülerin oder des Schülers, 2. über
-die Kriterien der Leistungsbeurteilung (Noten, Prüfungen, sonstige
-Beurteilungen), Versetzung und Kurseinstufung und beraten sie 3. bei
-besonderen Auffälligkeiten oder Beeinträchtigungen in der körperlichen,
-sozialen, emotionalen oder intellektuellen Entwicklung und 4. bei der
-Wahl der Bildungsgänge.
+1\.
+über die Lern-, Leistungs- und Kompetenzentwicklung sowie das Arbeits-
+und Sozialverhalten der Schülerin oder des Schülers,
+
+2\.
+über die Kriterien der Leistungsbeurteilung (Noten, Prüfungen, sonstige
+Beurteilungen), Versetzung und Kurseinstufung und beraten sie
+
+3\.
+bei besonderen Auffälligkeiten oder Beeinträchtigungen in der
+körperlichen, sozialen, emotionalen oder intellektuellen Entwicklung und
+
+4\.
+bei der Wahl der Schulart und der Bildungsgänge.
 
 <abs id="P47A5">(5)</abs> Frühere Erziehungsberechtigte volljähriger Schülerinnen und
 Schüler dürfen von der Schule über schulische Vorkommnisse nur
@@ -2824,17 +3365,28 @@ Ohne eine Einwilligung nach Satz 1 kann die Schule die früheren
 Erziehungsberechtigten volljähriger Schülerinnen und Schüler, die das
 21. Lebensjahr noch nicht vollendet haben, informieren über
 
-1\. ein deutliches Absinken des Leistungsstandes, 2. eine
-Nichtversetzung, 3. die Nichtzulassung zu einer Prüfung und das
-Nichtbestehen einer Prüfung, 4. die Androhung und Verhängung von
-Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 4 und 5 sowie 5. die
-Abmeldung von der Schule.
+1\.
+ein deutliches Absinken des Leistungsstandes,
+
+2\.
+eine Nichtversetzung,
+
+3\.
+die Nichtzulassung zu einer Prüfung und das Nichtbestehen einer Prüfung,
+
+4\.
+die Androhung und Verhängung von Ordnungsmaßnahmen nach § 63 Abs. 2 Satz
+1 Nr. 4 und 5 sowie
+
+5\.
+die Abmeldung von der Schule.
 
 In diesen Fällen ist die volljährige Schülerin oder der volljährige
 Schüler über die Information der früheren Erziehungsberechtigten
 schriftlich zu unterrichten.
 
-# <par id="P48">§ 48</par> Veröffentlichungen, Meinungsfreiheit der Schülerinnen und Schüler, Werbung zu politischen Zwecken
+# <par id="P48">§ 48</par> Veröffentlichungen, Meinungsfreiheit der Schülerinnen und Schüler,
+Werbung zu politischen Zwecken
 
 <abs id="P48A1">(1)</abs> Die Schülerinnen und Schüler haben im Rahmen der durch das
 Grundgesetz garantierten Meinungs- und Pressefreiheit auch in der Schule
@@ -2944,9 +3496,14 @@ festzusetzen.
 Rechtsverordnung das Nähere über die Bereitstellung der Lernmittel zu
 regeln, insbesondere
 
-1\. die Höhe des privat zu erbringenden Eigenanteils, 2. die nähere
-Ausgestaltung von Lernmittelfonds, 3. den von der Zahlung eines
-Eigenanteils befreiten Personenkreis.
+1\.
+die Höhe des privat zu erbringenden Eigenanteils,
+
+2\.
+die nähere Ausgestaltung von Lernmittelfonds,
+
+3\.
+den von der Zahlung eines Eigenanteils befreiten Personenkreis.
 
 In der Rechtsverordnung kann der von der Zahlung eines Eigenanteils
 befreite Personenkreis auf die Empfänger von Unterstützungsleistungen
@@ -2999,9 +3556,15 @@ verpflichtet, die erforderlichen Angaben zu machen; Fragen zur
 Persönlichkeitssphäre, die keinen unmittelbaren Bezug zum
 Untersuchungsgegenstand haben, dürfen nicht gestellt werden.
 
-(2a) Der Senat gewährleistet gemeinsam mit den Erziehungsberechtigten
-die Beschulung von Schülerinnen und Schülern mit besonderen
-medizinischen Bedarfen im Rahmen der medizinischen Indikation.
+(2a) Die Beschulung von Schülerinnen und Schülern mit besonderen
+medizinischen Belangen im Rahmen der medizinischen Indikation wird
+ermöglicht; <a href="#P43bA1">§ 43b Absatz 1</a> bleibt unberührt.
+
+Leistungen nach dem Fünften Buch Sozialgesetzbuch - Gesetzliche
+Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988,
+BGBl. I S. 2477, 2482), das zuletzt durch Artikel 3 des Gesetzes vom 30.
+Mai 2024 (BGBl. 2024 I Nr. 173) geändert worden ist, in der jeweils
+geltenden Fassung sind vorrangig.
 
 <abs id="P52A3">(3)</abs> Schülerinnen und Schüler sowie deren Erziehungsberechtigte sind
 über Maßnahmen nach Absatz 2 zu informieren; ihnen ist Gelegenheit zur
@@ -3014,7 +3577,7 @@ Erziehungsberechtigter sind hiervon unberührt.
 
 <abs id="P52A4">(4)</abs> Aus dem Ausland zuziehende Schülerinnen und Schüler sind
 verpflichtet, sich schulärztlich untersuchen zu lassen, sofern sie nicht
-an der Schuleingangsuntersuchung nach <a href="#P55aA5">§ 55a Absatz 5</a> teilgenommen haben.
+an der Schuleingangsuntersuchung nach <a href="#P55aA6">§ 55a Absatz 6</a> teilgenommen haben.
 
 <abs id="P52A5">(5)</abs> Im Schulgebäude und auf dem Schulgelände darf nicht geraucht
 werden.
@@ -3039,11 +3602,7 @@ Regelungen.
 einzelne zusammenhängende Ferienabschnitte werden von der
 Schulaufsichtsbehörde festgesetzt.
 
-
-
-## Abschnitt II - Aufnahme in die Schule
-
-
+Abschnitt II Aufnahme in die Schule
 
 # <par id="P54">§ 54</par> Allgemeines
 
@@ -3078,8 +3637,8 @@ Voraussetzungen des Satzes 1 einer Schule zuweisen.
 
 Liegt die Schule, der die oder der Schulpflichtige zugewiesen werden
 soll, im Zuständigkeitsbereich einer anderen Schulbehörde, so ist für
-die Zuweisung das Einvernehmen mit dieser Schulbehörde herzustellen;
-§ 37 Abs. 3 bleibt unberührt.
+die Zuweisung das Einvernehmen mit dieser Schulbehörde herzustellen; §
+37 Abs. 3 bleibt unberührt.
 
 <abs id="P54A4">(4)</abs> Die zuständige Schulbehörde kann auch gemeinsame
 Einschulungsbereiche bilden.
@@ -3108,38 +3667,37 @@ regeln.
 werden, sind verpflichtet, an einem standardisierten
 Sprachstandsfeststellungsverfahren teilzunehmen.
 
-Für die Kinder, die bereits eine nach § 23 des
-Kindertagesförderungsgesetzes vom 23. Juni 2005 (GVBl. S. 322), das
-zuletzt durch Artikel II des Gesetzes vom 13. Juli 2011 (GVBl. S. 344)
-geändert worden ist, in der jeweils geltenden Fassung öffentlich
-finanzierte Tageseinrichtung der Jugendhilfe oder eine öffentlich
-finanzierte Tagespflegestelle besuchen, wird das
-Sprachstandsfeststellungsverfahren bis zum 31. Mai in der besuchten
-Tageseinrichtung oder Tagespflegestelle durchgeführt.
+Für Kinder, die bereits eine Tageseinrichtung oder die Kindertagespflege
+im Sinne des <a href="#P22A1">§ 22 Absatz 1</a> des Achten Buches Sozialgesetzbuch – Kinder-
+und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September
+2012 (BGBl. I S. 2022), das zuletzt durch Artikel 2 des Gesetzes vom 3.
+April 2025 (BGBl. 2025 I Nr. 107) geändert worden ist, besuchen, wird
+das Sprachstandsfeststellungsverfahren bis zum 31. Mai in der besuchten
+Tageseinrichtung oder Kindertagespflege durchgeführt.
 
 Für die übrigen Kinder findet das Sprachstandsfeststellungsverfahren bis
 zum 15. Januar in zuvor von der Schulaufsichtsbehörde benannten
-Tageseinrichtungen der Jugendhilfe statt.
+Räumlichkeiten statt.
 
 <abs id="P55A2">(2)</abs> Kinder, bei denen festgestellt wird, dass sie nicht über
 hinreichende Kenntnisse der deutschen Sprache für eine erfolgreiche
 Teilnahme am Schulunterricht verfügen, erhalten eine vorschulische
 Sprachförderung.
 
-Für Kinder, die bereits eine nach § 23 des Kindertagesförderungsgesetzes
-öffentlich finanzierte Tageseinrichtung der Jugendhilfe oder eine
-öffentlich finanzierte Tagespflegestelle besuchen, findet die
-Sprachförderung im Rahmen des Besuchs der Tageseinrichtung oder der
-Tagespflegestelle statt (§ 5a des Kindertagesförderungsgesetzes).
+Für Kinder, die bereits eine Tageseinrichtung oder die Kindertagespflege
+im Sinne des Absatzes 1 Satz 2 besuchen, findet die Sprachförderung im
+Rahmen des Besuchs der Tageseinrichtung oder der Kindertagespflege statt
+(§ 5a des Kindertagesförderungsgesetzes).
 
 Die übrigen Kinder mit festgestelltem Sprachförderbedarf werden von der
 zuständigen Schulbehörde für die Dauer der letzten 18 Monate vor Beginn
 der regelmäßigen Schulpflicht zur Teilnahme an einer vorschulischen
-Sprachförderung im Umfang von täglich fünf Stunden regelmäßig an fünf
+Sprachförderung im Umfang von täglich sieben Stunden regelmäßig an fünf
 Tagen in der Woche verpflichtet.
 
 Diese vorschulische Sprachförderung wird im Auftrag der Schule und unter
-schulischer Aufsicht in Tageseinrichtungen der Jugendhilfe durchgeführt.
+schulischer Aufsicht in Tageseinrichtungen der Jugendhilfe und in der
+Kindertagespflege durchgeführt.
 
 <abs id="P55A3">(3)</abs> Die Erziehungsberechtigten verantworten die Teilnahme ihres Kindes
 am Sprachstandsfeststellungsverfahren und bei festgestelltem
@@ -3155,10 +3713,8 @@ an der verpflichtenden Sprachförderung durch die Erziehungsberechtigten
 gegenüber der zuständigen Schulbehörde nachgewiesen werden, erfolgt die
 Zuweisung eines Sprachförderangebots durch die zuständige Schulbehörde.
 
-Der Senat wird ermächtigt, das Nähere durch Rechtsverordnung zu regeln.
-
-Die Eltern sind in diesem Fall verpflichtet, der Zuweisung Folge zu
-leisten.
+Die Erziehungsberechtigten sind in diesem Fall verpflichtet, der
+Zuweisung Folge zu leisten.
 
 Zur bedarfsgerechten Bereitstellung der Sprachförderangebote kooperiert
 die zuständige Schulbehörde mit dem zuständigen Jugendamt.
@@ -3166,8 +3722,11 @@ die zuständige Schulbehörde mit dem zuständigen Jugendamt.
 <abs id="P55A4">(4)</abs> Widerspruch und Anfechtungsklage gegen die Verpflichtung zur
 Teilnahme
 
-1\. am Sprachstandsfeststellungsverfahren sowie 2. an der vorschulischen
-Sprachförderung
+1\.
+am Sprachstandsfeststellungsverfahren sowie
+
+2\.
+an der vorschulischen Sprachförderung
 
 haben keine aufschiebende Wirkung.
 
@@ -3176,16 +3735,17 @@ ermächtigt, durch Rechtsverordnung im Einvernehmen mit der für Jugend
 zuständigen Senatsverwaltung für die Kinder, die nicht bereits eine
 Förderung in einer Tageseinrichtung der Jugendhilfe oder einer
 Tagespflegestelle im Sinne von Absatz 1 Satz 2 erhalten, den konkreten
-Termin der jährlichen Sprachstandsfeststellung festzulegen. Die für das
-Schulwesen zuständige Senatsverwaltung wird ferner ermächtigt, im
-Benehmen mit der für Jugend zuständigen Senatsverwaltung für die in Satz
-1 genannten Kinder das Nähere über die Feststellung des Sprachstands und
-die vorschulischen Sprachfördermaßnahmen durch Rechtsverordnung zu
-regeln, insbesondere das Verfahren der Sprachstandsfeststellung,
-Ausnahmen von der Verpflichtung zur Teilnahme an der
-Sprachstandsfeststellung und Sprachförderung, Ort und Umfang der
-Sprachförderung, die personelle Ausstattung, die Auswahl der Träger der
-Einrichtungen im Sinne von Absatz 1 Satz 3 und deren Finanzierung.
+Termin der jährlichen Sprachstandsfeststellung festzulegen.
+
+Die für das Schulwesen zuständige Senatsverwaltung wird ferner
+ermächtigt, im Benehmen mit der für Jugend zuständigen Senatsverwaltung
+für die in Satz 1 genannten Kinder das Nähere über die Feststellung des
+Sprachstands und die vorschulischen Sprachfördermaßnahmen durch
+Rechtsverordnung zu regeln, insbesondere das Verfahren der
+Sprachstandsfeststellung, Ausnahmen von der Verpflichtung zur Teilnahme
+an der Sprachstandsfeststellung und Sprachförderung, die Zuweisung eines
+Sprachförderangebots, Ort und Umfang der Sprachförderung, das
+Mittagessen, die personelle Ausstattung und deren Finanzierung.
 
 # <par id="P55a">§ 55a</par> Aufnahme in die Grundschule
 
@@ -3230,16 +3790,20 @@ Dem Antrag ist im Rahmen der Aufnahmekapazität und nach Maßgabe freier
 Plätze gemäß den Organisationsrichtlinien nach den folgenden Kriterien
 in abgestufter Rangfolge stattzugeben, wenn
 
-1\. der Besuch der zuständigen Grundschule längerfristig gewachsene,
-stark ausgeprägte persönliche Bindungen zu anderen Kindern, insbesondere
-zu Geschwistern, beeinträchtigen würde, 2. die Erziehungsberechtigten
-ausdrücklich ein bestimmtes Schulprogramm, ein bestimmtes
-Fremdsprachenangebot, den Besuch einer Primarstufe der
+1\.
+der Besuch der zuständigen Grundschule längerfristig gewachsene, stark
+ausgeprägte familiäre Bindungen zu anderen Kindern, insbesondere zu
+Geschwistern, beeinträchtigen würde,
+
+2\.
+die Erziehungsberechtigten ausdrücklich ein bestimmtes Schulprogramm,
+ein bestimmtes Fremdsprachenangebot, den Besuch einer Primarstufe der
 Gemeinschaftsschule oder eine Ganztagsgrundschule in gebundener Form
-oder offener Form oder eine verlässliche Halbtagsgrundschule wünschen
-oder 3. der Besuch der gewählten Grundschule die Betreuung des Kindes
-wesentlich erleichtern würde, insbesondere auf Grund beruflicher
-Erfordernisse.
+oder offener Form wünschen oder
+
+3\.
+der Besuch der gewählten Grundschule die Betreuung des Kindes wesentlich
+erleichtern würde, insbesondere auf Grund beruflicher Erfordernisse.
 
 Im Übrigen entscheidet das Los.
 
@@ -3284,22 +3848,23 @@ Schüler auch in der bisherigen Grundschule verbleiben.
 
 <abs id="P55aA8">(8)</abs> Die Absätze 1 bis 7 finden auf die Aufnahme in die Primarstufe der
 Gemeinschaftsschule entsprechende Anwendung mit der Maßgabe, dass Plätze
-für außerhalb des Einschulungsbereichs wohnende Kinder gemäß <a href="#P54A5">§ 54 Absatz 5</a> bereitgestellt werden.
+für außerhalb des Einschulungsbereichs wohnende Kinder gemäß § 54 Absatz
+5 bereitgestellt werden.
+
+Geschwisterkinder gemäß Absatz 2 Satz 2 Nummer 1 sind unabhängig von der
+besuchten Schulstufe der Gemeinschaftsschule zu berücksichtigen.
 
 # <par id="P56">§ 56</par> Übergang in die Sekundarstufe I
 
 <abs id="P56A1">(1)</abs> Die Erziehungsberechtigten wählen die Schulart der Sekundarstufe
 I, die ihr Kind nach der Grundschule besuchen soll (Elternwahlrecht).
 
-Die Grundlage der Entscheidung bildet ein verbindliches und zu
-dokumentierendes Beratungsgespräch in der besuchten Grundschule (Absatz
-2).
+Für die Aufnahme in die Schulart Gymnasium sind die Kompetenzen,
+Leistungen, Begabungen und Neigungen (Eignung) der Schülerinnen und
+Schüler maßgebend.
 
-In der Primarstufe der Gemeinschaftsschule erfolgt dies nur, wenn die
-Erziehungsberechtigten einen Schulwechsel erwägen.
-
-Die Erziehungsberechtigten werden darüber hinaus an der weiterführenden
-Schule, an der sie ihr Kind anmelden wollen, beraten.
+Die Erziehungsberechtigten können nur unter den Voraussetzungen des
+Absatz 3 Satz 3 das Gymnasium wählen.
 
 Ein Anspruch auf Aufnahme in eine bestimmte Schule besteht nicht.
 
@@ -3308,27 +3873,33 @@ der bisherigen Lern- und Kompetenzentwicklung sowie des
 Leistungsstandes, der Leistungsentwicklung und des Leistungsvermögens
 der Schülerin oder des Schülers unter Berücksichtigung der Noten und
 Zeugnisse der Jahrgangsstufen 5 und 6 sowie einer pädagogischen
-Beurteilung.
+Beurteilung in einem verbindlichen und zu dokumentierenden
+Beratungsgespräch.
 
-Die Klassenkonferenz gibt dementsprechend eine schriftliche nicht aber
+Die Klassenkonferenz gibt dementsprechend eine schriftliche, oder
 elektronische Förderprognose ab, in welcher weiterführenden Schulart
 oder Schule das Kind voraussichtlich die optimale Förderung entsprechend
 seiner Lernentwicklung, Kompetenzen, Leistungen, Begabungen und
 Neigungen erhalten wird.
 
-Absatz 1 Satz 3 gilt entsprechend.
+Die Erziehungsberechtigten werden darüber hinaus an der weiterführenden
+Schule, an der sie ihr Kind anmelden wollen, beraten.
 
-<abs id="P56A3">(3)</abs> Die Erziehungsberechtigten sind bei ihrer Entscheidung nach Absatz
-1 Satz 1 nicht an die Förderprognose der Grundschule oder der
-Gemeinschaftsschule gebunden.
+In der Primarstufe der Gemeinschaftsschule erfolgt die Durchführung des
+Beratungsgesprächs nach Satz 1 und die Erstellung der Förderprognose
+nur, wenn die Erziehungsberechtigten einen Schulwechsel wünschen.
 
-Sie ist der weiterführenden Schule bei der Anmeldung des Kindes
-vorzulegen.
+<abs id="P56A3">(3)</abs> Die Förderprognose ist der weiterführenden Schule bei der
+Anmeldung des Kindes vorzulegen.
 
-Die Erziehungsberechtigten können ihr Kind, dessen Förderprognose eine
-durch Rechtsverordnung nach Absatz 9 festgesetzte Durchschnittsnote
-erreicht oder überschreitet, nur dann an einem Gymnasium anmelden, wenn
-sie an einem weiteren Beratungsgespräch teilgenommen haben.
+Aus den am Ende der Jahrgangsstufe 5 und den im ersten Schulhalbjahr der
+Jahrgangsstufe 6 erteilten Zeugnisnoten in den Fächern Deutsch,
+Mathematik und Fremdsprache wird ein Zahlenwert gebildet.
+
+Die Erziehungsberechtigten können ihr Kind, dessen Förderprognose den
+Zahlenwert von 14 überschreitet, nur dann an einem Gymnasium anmelden,
+wenn die Eignung für den Besuch des Gymnasiums im Rahmen der Teilnahme
+an einem Probeunterricht nachgewiesen wird.
 
 <abs id="P56A4">(4)</abs> Die Schülerinnen und Schüler werden unter Beachtung der
 Aufnahmekapazität in eine Schule aufgenommen, in der sie ihre erste
@@ -3336,30 +3907,27 @@ Fremdsprache fortsetzen können.
 
 An Schulen, an denen zwei erste Fremdsprachen fortgesetzt werden, wird
 für jede der Fremdsprachen ein gesondertes Aufnahmeverfahren
-durchgeführt. Im Fall der Übernachfrage gilt Absatz 6 mit der Maßgabe,
-dass die Schulplätze für jede erste Fremdsprache gesondert vergeben
-werden. Soweit die vorhandenen Plätze innerhalb einer Fremdsprache nicht
+durchgeführt.
+
+Im Fall der Übernachfrage gilt Absatz 6 mit der Maßgabe, dass die
+Schulplätze für jede erste Fremdsprache gesondert vergeben werden.
+
+Soweit die vorhandenen Plätze innerhalb einer Fremdsprache nicht
 vollständig durch Schülerinnen und Schüler mit dieser Fremdsprache
 besetzt werden können, werden diese freien Plätze dem Aufnahmeverfahren
 der anderen Fremdsprache zugeordnet.
 
-<abs id="P56A5">(5)</abs> Wer im Gymnasium am Ende der Jahrgangsstufe 7 die Probezeit nicht
-besteht und nicht versetzt wird, wechselt in die Jahrgangsstufe 8 der
-Integrierten Sekundarschule oder der Gemeinschaftsschule.
-
-Für Schülerinnen und Schüler, die im Laufe des ersten Schulhalbjahres
-der Jahrgangsstufe 7 Leistungsrückstände aufweisen, die eine Versetzung
-gefährdet erscheinen lassen, sind zwischen der Schule und der Schülerin
-oder dem Schüler sowie ihren oder seinen Erziehungsberechtigten
-spätestens zum Beginn des zweiten Schulhalbjahres Bildungs- und
-Erziehungsvereinbarungen zu schließen.
+<abs id="P56A5">(5)</abs> Wer im Gymnasium am Ende der Jahrgangsstufe 7 oder 8 nicht
+versetzt wird, kann auf Wunsch in die Jahrgangsstufe 8 oder 9 der
+Integrierten Sekundarschule oder der Gemeinschaftsschule wechseln.
 
 <abs id="P56A6">(6)</abs> Überschreitet die Zahl der Anmeldungen für eine Schule deren
-Aufnahmekapazität, so richtet sich die Aufnahme – nach Abschluss des
-vorrangig durchzuführenden Aufnahmeverfahrens nach <a href="#P37A4">§ 37 Absatz 4</a> – nach
+Aufnahmekapazität, so richtet sich die Aufnahme - nach Abschluss des
+vorrangig durchzuführenden Aufnahmeverfahrens nach <a href="#P37A4">§ 37 Absatz 4</a> - nach
 folgendem Verfahren:
 
-1\. Im Umfang von bis zu 10 Prozent der vorhandenen Schulplätze sind
+1\.
+Im Umfang von bis zu 10 Prozent der vorhandenen Schulplätze sind
 Schülerinnen und Schüler durch die Schulleiterin oder den Schulleiter im
 Einvernehmen mit der zuständigen Schulbehörde vorrangig zu
 berücksichtigen, wenn Umstände vorliegen, die den Besuch einer anderen
@@ -3373,7 +3941,8 @@ Berücksichtigung der Härtefälle und der Geschwisterkinder Schulplätze
 unbesetzt bleiben, erhöht sich die Anzahl der nach Nummer 2 zu
 vergebenden Schulplätze entsprechend.
 
-2\. Mindestens 60 Prozent der Schulplätze werden nach Aufnahmekriterien
+2\.
+Mindestens 60 Prozent der Schulplätze werden nach Aufnahmekriterien
 vergeben, die von der Schule unter Berücksichtigung des Schulprogramms
 festgelegt werden. Zur Feststellung, ob eine Schülerin oder ein Schüler
 die Aufnahmekriterien der Schule erfüllt, ist ein Verfahren für die
@@ -3384,7 +3953,8 @@ Schulaufsichtsbehörde, hinsichtlich der Aufnahmekriterien im Benehmen,
 hinsichtlich der Gestaltung des Verfahrens für die Aufnahme im
 Einvernehmen mit der jeweils zuständigen Schulbehörde.
 
-3\. 30 Prozent der Schulplätze werden durch Los vergeben. Soweit
+3\.
+30 Prozent der Schulplätze werden durch Los vergeben. Soweit
 Geschwisterkinder nicht gemäß Nummer 1 oder Nummer 2 berücksichtigt
 wurden, sind sie vorrangig aufzunehmen. Befinden sich mehrere
 Geschwisterkinder gleichzeitig ausschließlich im Losverfahren, führt die
@@ -3419,7 +3989,7 @@ dem Bezirk wohnen (<a href="#P41A5">§ 41 Absatz 5</a>), in dem die Schule liegt
 
 Kann die Schülerin oder der Schüler auch an dieser Schule nicht
 aufgenommen werden oder nehmen die Erziehungsberechtigten dieses Angebot
-nicht wahr, so wird die Schülerin oder der Schüler gemäß <a href="#P54A3">§ 54 Absatz 3</a>
+nicht wahr, so wird die Schülerin oder der Schüler gemäß § 54 Absatz 3
 unter Berücksichtigung der möglichen Kapazitäten einer Schule der
 gewünschten Schulart zugewiesen.
 
@@ -3428,36 +3998,67 @@ Gemeinschaftsschule, ist eine Zuweisung in die jeweils andere Schulart
 zulässig, wenn dies wegen nicht ausreichender Plätze in einer der
 Schularten erforderlich ist.
 
-<abs id="P56A8">(8)</abs> Für den Übergang in Jahrgangsstufe 5 gelten die Absätze 1 bis 6
-entsprechend, soweit nicht eine auf Grund des Absatzes 9 Satz 1 Nummer 4
-oder <a href="#P18A3">§ 18 Absatz 3</a> erlassene Rechtsverordnung Abweichendes regelt.
+<abs id="P56A8">(8)</abs> Für den Übergang in Jahrgangsstufe 5 gelten die Absätze 1 bis 4
+und 6 entsprechend, soweit nicht eine auf Grund des Absatzes 9 Satz 1
+Nummer 4 oder <a href="#P18A3">§ 18 Absatz 3</a> erlassene Rechtsverordnung Abweichendes
+regelt.
 
 <abs id="P56A9">(9)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere über den Übergang und die Aufnahme in die
 Sekundarstufe I durch Rechtsverordnung zu regeln, insbesondere
 
-1\. das Verfahren und die Kriterien für die Förderprognose, die
-Festsetzung der Durchschnittsnote nach Absatz 3 Satz 3 und die
-verbindlichen Beratungsgespräche gemäß Absatz 2 und 3, 2. die
-Einzelheiten der Aufnahmekriterien der Schule im Sinne von Absatz 6,
-wobei als Kriterien insbesondere in Betracht kommen: a) Leistung und
-Kompetenzen, b) Übereinstimmung des Leistungsbildes oder der sonstigen
-persönlichen Voraussetzungen der Schülerin oder des Schülers mit den
-Ausprägungen des Schulprogramms, c) das Ergebnis eines Auswahlgesprächs
-oder eines anderen spezifischen Eignungsfeststellungsverfahrens; die
-Anwendung der Aufnahmekriterien bei der Aufnahmeentscheidung sowie das
-Nähere über das Verfahren für die Aufnahme einschließlich der
-Eignungsfeststellung, die Festlegung, ob die Aufnahme unbeschadet von
-Absatz 6 Nummer 1 zunächst nach Absatz 6 Nummer 2 oder Nummer 3 erfolgt,
-sowie die Besonderheiten für den Fall, dass es an einer Festlegung der
-Aufnahmekriterien oder eines Verfahrens für die Aufnahme fehlt, 3.
-besondere Härtefälle nach Absatz 6 Nummer 1, 4. die Besonderheiten für
-den altsprachlichen Bildungsgang.
+1\.
+Vorgaben für standardisierte Arbeiten im Rahmen von Schulleistungstests
+sowie das Verfahren und die Kriterien für die Förderprognose nach Absatz
+2 und 3, Abweichungen vom Zahlenwert nach Absatz 3 Satz 2 und 3 und das
+verbindliche Beratungsgespräch gemäß Absatz 2 Satz 1,
 
-Abweichend von Satz 1 Nummer 2 Buchstabe a und b finden an der
+2\.
+die Einzelheiten und das Verfahren der Eignungsfeststellung im Rahmen
+eines Probeunterrichts für die Aufnahme am Gymnasium gemäß Absatz 3 Satz
+3,
+
+3\.
+die Einzelheiten der Aufnahmekriterien der Schule im Sinne von Absatz 6,
+wobei als Kriterien insbesondere in Betracht kommen:
+
+a\)
+Leistung und Kompetenzen,
+
+b\)
+Übereinstimmung des Leistungsbildes oder der sonstigen persönlichen
+Voraussetzungen der Schülerin oder des Schülers mit den Ausprägungen des
+Schulprogramms,
+
+c\)
+das Ergebnis eines Auswahlgesprächs oder eines anderen spezifischen
+Eignungsfeststellungsverfahrens; die Anwendung der Aufnahmekriterien bei
+der Aufnahmeentscheidung sowie das Nähere über das Verfahren für die
+Aufnahme einschließlich der Eignungsfeststellung, die Festlegung, ob die
+Aufnahme unbeschadet von Absatz 6 Nummer 1 zunächst nach Absatz 6 Nummer
+2 oder Nummer 3 erfolgt, sowie die Besonderheiten für den Fall, dass es
+an einer Festlegung der Aufnahmekriterien oder eines Verfahrens für die
+Aufnahme fehlt,
+
+4\.
+
+besondere Härtefälle nach Absatz 6 Nummer 1,
+
+5\.
+
+Vorgaben für das Losverfahren nach Absatz 6 Satz 1 Nummer 3; am
+Gymnasium sind alle geeigneten Schülerinnen und Schüler, soweit diese
+nicht bereits gemäß Absatz 6 Satz 1 Nummer 1 oder 2 berücksichtigt
+wurden, in das Losverfahren einzubeziehen,
+
+6\.
+
+die Besonderheiten für den altsprachlichen Bildungsgang.
+
+Abweichend von Satz 1 Nummer 3 Buchstabe a und b finden an der
 Gemeinschaftsschule die Leistung und das Leistungsbild als alleinige
 Aufnahmekriterien keine Anwendung, das Eignungsfeststellungsverfahren
-nach Satz 1 Nummer 2 Buchstabe c darf nicht allein auf
+nach Satz 1 Nummer 3 Buchstabe c darf nicht allein auf
 Leistungskriterien abstellen.
 
 In der Rechtsverordnung ist für die Jahrgangsstufe 7 in Integrierten
@@ -3466,10 +4067,11 @@ Jahrgangsstufe 8 in Integrierten Sekundarschulen und
 Gemeinschaftsschulen eine Höchstgrenze von Schülerinnen und Schülern pro
 Lerngruppe festzulegen.
 
-# <par id="P57">§ 57</par> Aufnahme in die beruflichen Schulen und die Einrichtungen des Zweiten Bildungswegs
+# <par id="P57">§ 57</par> Aufnahme in die beruflichen Schulen und die Einrichtungen des
+Zweiten Bildungswegs
 
-<abs id="P57A1">(1)</abs> Für die Aufnahme in Schularten gemäß <a href="#P17A2">§ 17 Absatz 2</a> Satz 1 Nr. 3
-Buchstabe b bis f und Nr. 5 ist neben dem Wunsch der
+<abs id="P57A1">(1)</abs> Für die Aufnahme in Schularten gemäß § 17 Absatz 2 Satz 1 Nummer 3
+Buchstabe b bis f und Nummer 6 ist neben dem Wunsch der
 Erziehungsberechtigten oder der volljährigen Schülerin oder des
 volljährigen Schülers die Eignung der Schülerin oder des Schülers
 maßgebend.
@@ -3490,15 +4092,19 @@ konnten.
 
 Über die Rangfolge entscheidet die Dauer der Wartezeit.
 
-<abs id="P57A3">(3)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
-ermächtigt, das Nähere über die Aufnahmevoraussetzungen und das
-Auswahlverfahren durch Rechtsverordnung zu regeln.
+<abs id="P57A3">(3)</abs> Abweichend von Absatz 2 werden in den Schularten gemäß § 17 Absatz
+2 Satz 1 Nummer 3 Buchstabe b und e sowie in den Bildungsgängen gemäß §
+29 Absatz 3 und <a href="#P31A3">§ 31 Absatz 3</a> Nummer 2 die Plätze bei gleicher Eignung
+vorrangig an schulpflichtige Jugendliche vergeben.
 
+<abs id="P57A4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+ermächtigt, das Nähere insbesondere über die Aufnahmevoraussetzungen und
+das Auswahlverfahren sowie über die Beratung und die Zuweisung von
+Jugendlichen zur Erfüllung der Schulpflicht durch Rechtsverordnung zu
+regeln.
 
-
-## Abschnitt III - Lernerfolgsbeurteilung, Versetzung, Prüfungen, Anerkennungen
-
-
+Abschnitt III Lernerfolgsbeurteilung, Versetzung, Prüfungen,
+Anerkennungen
 
 # <par id="P58">§ 58</par> Lernerfolgskontrollen und Zeugnisse
 
@@ -3508,11 +4114,14 @@ weitere Entwicklung der Schülerinnen und Schüler zu versehen.
 
 <abs id="P58A2">(2)</abs> Die Schülerinnen und Schüler erhalten am Ende des Schuljahres und
 des Schulhalbjahres, am Ende eines Ausbildungsabschnitts oder eines
-Bildungsgangs und beim Verlassen der Schule ein Zeugnis, einen
-schriftlichen, nicht aber elektronischen Bericht oder eine andere dem
-Bildungsgang entsprechende Information über die im Unterricht erbrachten
-Leistungen, den Stand ihrer Kompetenzentwicklung und die erreichten
-Abschlüsse.
+Bildungsgangs und beim Verlassen der Schule ein schriftliches Zeugnis,
+einen schriftlichen Bericht oder eine andere dem Bildungsgang
+entsprechende Information über die im Unterricht erbrachten Leistungen,
+den Stand ihrer Kompetenzentwicklung und die erreichten Abschlüsse.
+
+Die Ausstellung zusätzlicher Ausfertigungen oder Zweitschriften von
+Zeugnissen in elektronischer Form in einem von der Schulaufsichtsbehörde
+dafür vorgegebenen Verfahren ist zulässig.
 
 <abs id="P58A3">(3)</abs> Die Leistungen der Schülerinnen und Schüler werden durch Noten,
 Punkte oder schriftliche Informationen zur Lern- und
@@ -3521,15 +4130,28 @@ Leistungsentwicklung beurteilt.
 Soweit Leistungen der Schülerinnen oder Schüler durch Noten bewertet
 werden, ist die nachstehende Skala anzuwenden:
 
-1\. „sehr gut“ (1) – wenn die Leistung den Anforderungen in besonderem
-Maße entspricht, 2. „gut“ (2) – wenn die Leistung den Anforderungen voll
-entspricht, 3. „befriedigend“ (3) – wenn die Leistung im Allgemeinen den
-Anforderungen entspricht, 4. „ausreichend“ (4) – wenn die Leistung zwar
-Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht, 5.
-„mangelhaft“ (5) – wenn die Leistung den Anforderungen nicht entspricht,
+1\.
+„sehr gut“ (1) - wenn die Leistung den Anforderungen in besonderem Maße
+entspricht,
+
+2\.
+„gut“ (2) - wenn die Leistung den Anforderungen voll entspricht,
+
+3\.
+„befriedigend“ (3) - wenn die Leistung im Allgemeinen den Anforderungen
+entspricht,
+
+4\.
+„ausreichend“ (4) - wenn die Leistung zwar Mängel aufweist, aber im
+Ganzen den Anforderungen noch entspricht,
+
+5\.
+„mangelhaft“ (5) - wenn die Leistung den Anforderungen nicht entspricht,
 jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden
-sind und die Mängel in absehbarer Zeit behoben werden können, 6.
-„ungenügend“ (6) – wenn die Leistung den Anforderungen nicht entspricht
+sind und die Mängel in absehbarer Zeit behoben werden können,
+
+6\.
+„ungenügend“ (6) - wenn die Leistung den Anforderungen nicht entspricht
 und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
 absehbarer Zeit nicht behoben werden können.
 
@@ -3610,6 +4232,10 @@ können als Klassenarbeiten anerkannt werden.
 
 Die Entscheidung darüber trifft die Gesamtkonferenz.
 
+Die Schulaufsichtsbehörde ist berechtigt, verbindliche Vorgaben für die
+Durchführung, Bewertung und Anerkennung von Schulleistungstests zu
+machen.
+
 Die Ergebnisse der Schulleistungstests sind den Erziehungsberechtigten
 oder den volljährigen Schülerinnen und Schülern bekannt zu geben.
 
@@ -3638,9 +4264,23 @@ oder Teilleistung nicht durch eine andere vergleichbare Leistung oder
 Teilleistung ersetzt werden kann und die Nichterbringung der Leistung
 oder Teilleistung auf eine lang andauernde erhebliche Beeinträchtigung
 
-1\. im körperlich-motorischen Bereich, 2. beim Sprechen, 3. durch eine
-Sinnesschädigung, 4. beim Lesen und in der Rechtschreibung, 5. beim
-Rechnen oder 6. durch Autismus
+1\.
+im körperlich-motorischen Bereich,
+
+2\.
+beim Sprechen,
+
+3\.
+durch eine Sinnesschädigung,
+
+4\.
+beim Lesen und in der Rechtschreibung,
+
+5\.
+beim Rechnen oder
+
+6\.
+durch Autismus
 
 zurückzuführen ist.
 
@@ -3674,9 +4314,8 @@ Darüber sind zwischen der Schule und der Schülerin oder dem Schüler und
 ihren oder seinen Erziehungsberechtigten Bildungs- und
 Erziehungsvereinbarungen zu schließen.
 
-In der Sekundarstufe I am Gymnasium, der Einführungsphase der
-gymnasialen Oberstufe und in der Fachoberschule sowie in zweijährigen
-Lehrgängen gemäß <a href="#P40A1">§ 40 Absatz 1</a> erfolgen Versetzungsentscheidungen.
+In der Sekundarstufe I am Gymnasium und in der Einführungsphase der
+gymnasialen Oberstufe sowie in zweijährigen Lehrgängen gemäß <a href="#P40A1">§ 40 Absatz 1</a> erfolgen Versetzungsentscheidungen.
 
 <abs id="P59A2">(2)</abs> Eine Schülerin oder ein Schüler wird versetzt, wenn ihr oder sein
 durch ein Zeugnis oder einen entsprechenden Nachweis ausgewiesener
@@ -3693,13 +4332,7 @@ Versetzung zu erreichen.
 <abs id="P59A3">(3)</abs> Bei Nichtversetzung wiederholt eine Schülerin oder ein Schüler die
 bisherige Jahrgangsstufe desselben Bildungsgangs.
 
-Im Falle des <a href="#P56A5">§ 56 Absatz 5</a> Satz 1 ist eine Wiederholung am Gymnasium
-ausgeschlossen.
-
-Bei zweimaliger Nichtversetzung in derselben Jahrgangsstufe oder bei
-Nichtversetzung in zwei aufeinanderfolgenden Jahrgangsstufen der
-Fachoberschule muss die Schülerin oder der Schüler den bisher besuchten
-Bildungsgang verlassen.
+# <par id="P56">§ 56</par> Absatz 5 Satz 1 und 2 bleibt unberührt.
 
 Bei zweimaliger Nichtversetzung in der Einführungsphase muss die
 gymnasiale Oberstufe verlassen werden.
@@ -3707,7 +4340,7 @@ gymnasiale Oberstufe verlassen werden.
 Die Schulaufsichtsbehörde kann im Einzelfall aus wichtigen Gründen
 Ausnahmen zulassen.
 
-<abs id="P59A4">(4)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
+<abs id="P56A4">(4)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
 Erziehungsberechtigten die Jahrgangsstufe einmal freiwillig wiederholen
 oder spätestens im Anschluss an die Aushändigung des
 Halbjahreszeugnisses in die vorhergegangene Jahrgangsstufe zurücktreten,
@@ -3716,16 +4349,16 @@ wenn eine erfolgreiche Mitarbeit nicht mehr gewährleistet ist.
 Wer in der Sekundarstufe II das Ziel des Bildungsgangs nicht mehr
 erreichen kann, muss zurücktreten oder den Bildungsgang verlassen.
 
-<abs id="P59A5">(5)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
+<abs id="P56A5">(5)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
 Erziehungsberechtigten eine Jahrgangsstufe überspringen und vorversetzt
 werden, wenn eine bessere Förderung ihrer oder seiner Lern-, Leistungs-
 und Kompetenzentwicklung und eine erfolgreiche Mitarbeit in der höheren
 Jahrgangsstufe zu erwarten sind.
 
-<abs id="P59A6">(6)</abs> Über die Versetzung, eine Wiederholung, einen Rücktritt und ein
+<abs id="P56A6">(6)</abs> Über die Versetzung, eine Wiederholung, einen Rücktritt und ein
 Überspringen sowie eine Kurseinstufung entscheidet die Klassenkonferenz.
 
-<abs id="P59A7">(7)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P56A7">(7)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere zu den Voraussetzungen und dem Verfahren der
 Versetzung, der Wiederholung, des Rücktritts, des Aufrückens, des
 Überspringens und der Kurseinstufung sowie für den Wechsel von einer
@@ -3739,7 +4372,8 @@ Versetzung gerechtfertigt ist (Nachprüfung).
 Eine Nachprüfung kann auch zum Erreichen eines Abschlusses oder der
 Berechtigung zum Übergang in die gymnasiale Oberstufe vorgesehen werden.
 
-# <par id="P60">§ 60</par> Abschlussprüfungen und Abschlussverfahren, Prüfungen für Nichtschülerinnen und Nichtschüler
+# <par id="P60">§ 60</par> Abschlussprüfungen und Abschlussverfahren, Prüfungen für
+Nichtschülerinnen und Nichtschüler
 
 <abs id="P60A1">(1)</abs> Der erfolgreiche Abschluss eines Bildungsgangs wird durch eine
 Prüfung oder ein Abschlussverfahren festgestellt, wenn dies durch dieses
@@ -3775,43 +4409,60 @@ ermächtigt, das Nähere über Abschlussprüfungen und Abschlussverfahren
 sowie über Prüfungen für Nichtschülerinnen und Nichtschüler durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Zulassungsvoraussetzungen sowie die Einbeziehung von im
-Unterricht und von außerhalb des Bildungsgangs erbrachten Leistungen, 2.
-die Berufung, Zusammensetzung und Aufgaben der Prüfungsausschüsse, 3.
+1\.
+die Zulassungsvoraussetzungen sowie die Einbeziehung von im Unterricht
+und von außerhalb des Bildungsgangs erbrachten Leistungen,
+
+2\.
+die Berufung, Zusammensetzung und Aufgaben der Prüfungsausschüsse,
+
+3\.
 den Zweck der Prüfung, die Prüfungsgebiete und Art und Umfang der
-Prüfungsanforderungen, 4. die Bewertungsmaßstäbe und Voraussetzungen für
-das Bestehen der Prüfung, 5. die Bewertung des Prüfungsergebnisses
-einschließlich der Anerkennung von schulischen oder im Beruf erbrachten
-Leistungen von Nichtschülerinnen und Nichtschülern, Erteilung von
-Prüfungszeugnissen und der damit verbundenen Berechtigungen, 6. das
-Prüfungsverfahren einschließlich des Ausschlusses, der Befreiung oder
-des Absehens von der mündlichen Prüfung, 7. den Rücktritt und die
-Unterbrechung oder vorzeitige Beendigung der Prüfung bei Versäumnissen,
-Störungen, Täuschungen oder Leistungsausfällen, 8. die Folgen des
-Nichtbestehens der Prüfung und das Verfahren bei der Wiederholung von
-Prüfungen oder Prüfungsteilen, 9. die Zulassung von Nichtschülerinnen
-und Nichtschülern zur Prüfung, die Anforderungen an die Schulbildung
-und, soweit es für den Erwerb der gleichwertigen Schulbildung
-erforderlich ist, die Anforderungen an die Berufsausbildung oder an den
-Inhalt einer Berufstätigkeit, 10. die Einrichtung von Prüfungen für
-Nichtschülerinnen und Nichtschüler zum nachträglichen Erwerb von
-beruflichen Abschlüssen.
+Prüfungsanforderungen,
+
+4\.
+die Bewertungsmaßstäbe und Voraussetzungen für das Bestehen der Prüfung,
+
+5\.
+die Bewertung des Prüfungsergebnisses einschließlich der Anerkennung von
+schulischen oder im Beruf erbrachten Leistungen von Nichtschülerinnen
+und Nichtschülern, Erteilung von Prüfungszeugnissen und der damit
+verbundenen Berechtigungen,
+
+6\.
+das Prüfungsverfahren einschließlich des Ausschlusses, der Befreiung
+oder des Absehens von der mündlichen Prüfung,
+
+7\.
+den Rücktritt und die Unterbrechung oder vorzeitige Beendigung der
+Prüfung bei Versäumnissen, Störungen, Täuschungen oder
+Leistungsausfällen,
+
+8\.
+die Folgen des Nichtbestehens der Prüfung und das Verfahren bei der
+Wiederholung von Prüfungen oder Prüfungsteilen,
+
+9\.
+die Zulassung von Nichtschülerinnen und Nichtschülern zur Prüfung, die
+Anforderungen an die Schulbildung und, soweit es für den Erwerb der
+gleichwertigen Schulbildung erforderlich ist, die Anforderungen an die
+Berufsausbildung oder an den Inhalt einer Berufstätigkeit,
+
+10\.
+die Einrichtung von Prüfungen für Nichtschülerinnen und Nichtschüler zum
+nachträglichen Erwerb von beruflichen Abschlüssen.
 
 Für Nichtschülerinnen und Nichtschüler kann für die Zulassung zur
 Prüfung auch ein Mindestalter vorgeschrieben werden.
 
-# <par id="P61">§ 61</par> Anerkennung von Studienbefähigungen und anderen schulischen Leistungen
+# <par id="P61">§ 61</par> Anerkennung von Studienbefähigungen und anderen schulischen
+Leistungen
 
 <abs id="P61A1">(1)</abs> Allgemein bildende deutsche schulische Abschlüsse sowie außerhalb
 Berlins erworbene ausländische schulische Abschlüsse oder
 Studienbefähigungen und an ausländischen Schulen erbrachte schulische
 Leistungen können von der Schulaufsichtsbehörde bewertet und anerkannt
 werden.
-
-Satz 1 gilt nicht für Abschlüsse, die im Herkunftsland einen
-unmittelbaren Berufszugang eröffnen; diese werden gemäß den Bestimmungen
-des Berufsqualifikationsfeststellungsgesetzes Berlin vom 7. Februar 2014
-(GVBl. S. 39) in der jeweils geltenden Fassung bewertet und anerkannt.
 
 Innerhalb Berlins erworbene ausländische schulische Abschlüsse oder
 Studienbefähigungen und an ausländischen Schulen erbrachte schulische
@@ -3820,7 +4471,7 @@ werden, wenn sie von einer staatlichen oder staatlich genehmigten oder
 anerkannten Ersatzschule vergeben wurden.
 
 Die Schulaufsichtsbehörde kann darüber hinaus zur Vermeidung besonderer
-Härten im Einzelfall Ausnahmen von der in Satz 3 zweiter Halbsatz
+Härten im Einzelfall Ausnahmen von der in Satz 2 zweiter Halbsatz
 getroffenen Regelung zulassen.
 
 <abs id="P61A2">(2)</abs> Voraussetzung für die Anerkennung ist, dass alle Abschlüsse oder
@@ -3843,11 +4494,16 @@ ermächtigt, das Nähere über die Anerkennung von Studienbefähigungen und
 anderen schulischen Leistungen durch Rechtsverordnung zu regeln,
 insbesondere
 
-1\. Art und Umfang der zusätzlichen Leistungsnachweise, 2. die Art, den
-Umfang und das Verfahren zusätzlicher Prüfungen, 3. im Benehmen mit der
-für Hochschulen zuständigen Senatsverwaltung die Ausgestaltung und
-Durchführung von Vorbereitungslehrgängen und Prüfungen zur Anerkennung
-von Studienbefähigungen an Studienkollegs.
+1\.
+Art und Umfang der zusätzlichen Leistungsnachweise,
+
+2\.
+die Art, den Umfang und das Verfahren zusätzlicher Prüfungen,
+
+3\.
+im Benehmen mit der für Hochschulen zuständigen Senatsverwaltung die
+Ausgestaltung und Durchführung von Vorbereitungslehrgängen und Prüfungen
+zur Anerkennung von Studienbefähigungen an Studienkollegs.
 
 Soweit die Hochschulen die Ausgestaltung und Durchführung von
 Vorbereitungslehrgängen und Prüfungen zur Anerkennung von
@@ -3860,11 +4516,21 @@ Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt, das
 Verfahren zur Anerkennung der in Absatz 1 Satz 1 bezeichneten Leistungen
 auf Dritte zu übertragen.
 
+<abs id="P61A5">(5)</abs> Die Absätze 1 bis 4 gelten nicht für Abschlüsse, die im
+Herkunftsland einen unmittelbaren Berufszugang eröffnen; diese werden
+gemäß den Bestimmungen des Berufsqualifikationsfeststellungsgesetzes
+Berlin vom 7. Februar 2014 (GVBl. S. 39), das zuletzt durch Artikel 1
+des Gesetzes vom 17. Mai 2021 (GVBl. S. 503) geändert worden ist, in der
+jeweils geltenden Fassung bewertet und anerkannt.
 
+Für die Feststellung der Gleichwertigkeit eines ausländischen
+Ausbildungsnachweises mit einem durch dieses Gesetz geregelten
+schulischen Berufsabschluss der Aus- oder Weiterbildung ist die
+Schulaufsichtsbehörde hinsichtlich nicht reglementierter Berufe die
+zuständige Stelle im Sinne von § 8 des
+Berufsqualifikationsfeststellungsgesetzes Berlin.
 
-## Abschnitt IV - Maßnahmen bei Erziehungskonflikten
-
-
+Abschnitt IV Maßnahmen bei Erziehungskonflikten
 
 # <par id="P62">§ 62</par> Erziehungsmaßnahmen
 
@@ -3878,10 +4544,23 @@ sowie die Erziehungsberechtigten einzubeziehen.
 <abs id="P62A2">(2)</abs> Zu den Maßnahmen bei Erziehungskonflikten und Unterrichtsstörungen
 gehören insbesondere
 
-1\. das erzieherische Gespräch mit der Schülerin oder dem Schüler, 2.
-gemeinsame Absprachen, 3. der mündliche Tadel, 4. die Eintragung in das
-Klassenbuch, 5. die Wiedergutmachung angerichteten Schadens, 6. die
-vorübergehende Einziehung von Gegenständen.
+1\.
+das erzieherische Gespräch mit der Schülerin oder dem Schüler,
+
+2\.
+gemeinsame Absprachen,
+
+3\.
+der mündliche Tadel,
+
+4\.
+die Eintragung in das Klassenbuch,
+
+5\.
+die Wiedergutmachung angerichteten Schadens,
+
+6\.
+die vorübergehende Einziehung von Gegenständen.
 
 <abs id="P62A3">(3)</abs> Die Lehrkraft entscheidet im Rahmen ihrer pädagogischen
 Verantwortung unter Beachtung des Grundsatzes der Verhältnismäßigkeit
@@ -3907,11 +4586,21 @@ vom Unterricht anzusehen.
 
 <abs id="P63A2">(2)</abs> Ordnungsmaßnahmen sind
 
-1\. der schriftliche Verweis, 2. der Ausschluss vom Unterricht und
-anderen schulischen Veranstaltungen bis zu zehn Schultagen, 3. die
-Umsetzung in eine Parallelklasse oder eine andere Unterrichtsgruppe, 4.
-die Überweisung in eine andere Schule desselben Bildungsgangs und 5. die
-Entlassung aus der Schule, wenn die Schulpflicht erfüllt ist.
+1\.
+der schriftliche Verweis,
+
+2\.
+der Ausschluss vom Unterricht und anderen schulischen Veranstaltungen
+bis zu zehn Schultagen,
+
+3\.
+die Umsetzung in eine Parallelklasse oder eine andere Unterrichtsgruppe,
+
+4\.
+die Überweisung in eine andere Schule desselben Bildungsgangs und
+
+5\.
+die Entlassung aus der Schule, wenn die Schulpflicht erfüllt ist.
 
 Jede Form der körperlichen Züchtigung und andere entwürdigende Maßnahmen
 sind verboten.
@@ -3936,11 +4625,11 @@ Lehrkräfte.
 Ordnungsmaßnahmen nach Absatz 2 Satz 1 Nr. 4 und 5 werden von der
 Schulaufsichtsbehörde getroffen; zuvor ist die Schulkonferenz zu hören.
 
-<abs id="P63A6">(6)</abs> In dringenden Fällen kann die Schulleiterin oder der
-Schulleiter vorläufig bis zu einer Entscheidung nach Absatz 5 eine
-Regelung im Sinne des Absatzes 2 Satz 1 Nr. 2 und 3 treffen, wenn auf
-andere Weise die Aufrechterhaltung eines geordneten Schullebens nicht
-gewährleistet werden kann.
+<abs id="P63A6">(6)</abs> In dringenden Fällen kann die Schulleiterin oder der Schulleiter
+vorläufig bis zu einer Entscheidung nach Absatz 5 eine Regelung im Sinne
+des Absatzes 2 Satz 1 Nr. 2 und 3 treffen, wenn auf andere Weise die
+Aufrechterhaltung eines geordneten Schullebens nicht gewährleistet
+werden kann.
 
 Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung.
 
@@ -3955,21 +4644,17 @@ Satz 1 Nr. 4 und 5 der Ausschluss von der besuchten Einrichtung tritt.
 die Leiterin oder der Leiter der Einrichtung, über den Ausschluss von
 der besuchten Einrichtung die Schulaufsichtsbehörde.
 
-
-
-## Abschnitt V - Datenschutz
-
-
+Abschnitt V Datenschutz
 
 # <par id="P64">§ 64</par> Datenverarbeitung und Auskunftsrechte
 
 <abs id="P64A1">(1)</abs> Die Schulen einschließlich der Einrichtungen des Zweiten
 Bildungswegs, die Schulbehörden und die Schulaufsichtsbehörde dürfen
-personenbezogene Daten von Schülerinnen und Schülern, ihren
-Erziehungsberechtigten, Lehrkräften und sonstigen schulischen
-Mitarbeiterinnen und Mitarbeitern verarbeiten, soweit dies zur Erfüllung
-der ihnen durch Rechtsvorschriften zugewiesenen schulbezogenen Aufgaben
-erforderlich ist.
+personenbezogene Daten von Schülerinnen und Schülern, Schulpflichtigen
+nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43, ihren Erziehungsberechtigten, Lehrkräften
+und sonstigen schulischen Mitarbeiterinnen und Mitarbeitern verarbeiten,
+soweit dies zur Erfüllung der ihnen durch Rechtsvorschriften
+zugewiesenen schulbezogenen Aufgaben erforderlich ist.
 
 Von den besonderen Kategorien personenbezogener Daten im Sinne von
 Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen
@@ -3988,9 +4673,9 @@ Umfang ist durch Rechtsverordnung nach § 66 Nr. 1 festzulegen.
 Die mit der Schule im Rahmen der ergänzenden Förderung und Betreuung (<a href="#P19A6">§ 19 Absatz 6</a>) sowie der außerunterrichtlichen Förderung und Betreuung und
 im Rahmen des <a href="#P5A4">§ 5 Absatz 4</a> kooperierenden Träger der freien Jugendhilfe
 dürfen personenbezogene Daten der von ihnen zu betreuenden Schülerinnen
-und Schüler und ihrer Erziehungsberechtigten verarbeiten, soweit dies
-zur Erfüllung ihrer Erziehungs- und Betreuungsaufgaben erforderlich
-ist.
+und Schüler, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 und ihrer
+Erziehungsberechtigten verarbeiten, soweit dies zur Erfüllung ihrer
+Erziehungs- und Betreuungsaufgaben erforderlich ist.
 
 Gewählte Klassenelternvertretungspersonen sowie gewählte
 Schülervertretungspersonen und Mitglieder schulischer und
@@ -4004,11 +4689,13 @@ gesetzlich oder vertraglich zugewiesenen Aufgaben erforderlich ist.
 
 Schulsozialarbeiterinnen und Schulsozialarbeiter dürfen die durch ihre
 Tätigkeit erlangten personenbezogenen Daten über Schülerinnen und
-Schüler nicht zugänglich machen.
+Schüler sowie Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 nicht
+zugänglich machen.
 
 Mitarbeiterinnen und Mitarbeiter eines Trägers der freien Jugendhilfe,
 die an der Schule Aufgaben der ergänzenden Förderung und Betreuung (<a href="#P19A6">§ 19 Absatz 6</a>) sowie der außerunterrichtlichen Förderung und Betreuung oder
-im Rahmen des <a href="#P5A4">§ 5 Absatz 4</a> wahrnehmen, nehmen am internen
+im Rahmen des <a href="#P5A4">§ 5 Absatz 4</a> wahrnehmen, und Personen, die Religions- oder
+Weltanschauungsunterricht nach § 13 erteilen, nehmen am internen
 Geschäftsbetrieb dieser Schule teil.
 
 Bedienstete und die in Satz 3 genannten Personen dürfen personenbezogene
@@ -4024,14 +4711,15 @@ außerhalb der Schule gestatten; sie unterliegen insoweit der Kontrolle
 der oder des Berliner Beauftragten für Datenschutz und
 Informationsfreiheit.
 
-<abs id="P64A3">(3)</abs> Personenbezogene Daten von Schülerinnen und Schülern, ihren
+<abs id="P64A3">(3)</abs> Personenbezogene Daten von Schülerinnen und Schülern,
+Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43, ihren
 Erziehungsberechtigten, Lehrkräften und sonstigen schulischen
 Mitarbeiterinnen und Mitarbeitern dürfen an die in Absatz 1 genannten
-Stellen sowie an anerkannte Schulen in freier Trägerschaft, an die
-Jugendbehörden und die Jugendgerichtshilfe ohne die Einwilligung der
-betroffenen Person übermittelt werden, soweit dies zur rechtmäßigen
-Erfüllung der gesetzlichen Aufgaben der übermittelnden Stelle oder des
-Empfängers erforderlich ist.
+Stellen einschließlich Ersatzschulen, an die Jugendbehörden und die
+Jugendgerichtshilfe ohne die Einwilligung der betroffenen Person
+übermittelt werden, soweit dies zur rechtmäßigen Erfüllung der
+gesetzlichen Aufgaben der übermittelnden Stelle oder des Empfängers
+erforderlich ist.
 
 Die Übermittlung an vorstehend nicht genannte öffentliche Stellen ist
 nur zulässig, wenn eine Rechtsvorschrift dies erlaubt oder eine
@@ -4042,12 +4730,12 @@ Die Übermittlungsvorgänge sind aktenkundig zu machen.
 <abs id="P64A4">(4)</abs> Die Schulen dürfen den zuständigen Gesundheitsämtern zur
 Durchführung der schulärztlichen Untersuchung gemäß <a href="#P55aA6">§ 55a Absatz 6</a>
 Namen, Geburtsdaten, Angaben zum Geschlecht, Anschriften der zu
-untersuchenden Kinder und Angaben zum Vorliegen eines Antrages auf
-Zurückstellung oder vorzeitige Einschulung sowie zur Durchführung der
-schulärztlichen Untersuchung gemäß <a href="#P52A4">§ 52 Absatz 4</a> Namen, Geburtsdaten,
-Angaben zum Geschlecht, Anschriften, Angaben zur Jahrgangsstufe und
-Familiensprache der zu untersuchenden Schülerinnen und Schüler
-übermitteln.
+untersuchenden Kinder, Kontaktdaten der Erziehungsberechtigten und
+Angaben zum Vorliegen eines Antrages auf Zurückstellung oder vorzeitige
+Einschulung sowie zur Durchführung der schulärztlichen Untersuchung
+gemäß <a href="#P52A4">§ 52 Absatz 4</a> Namen, Geburtsdaten, Angaben zum Geschlecht,
+Anschriften, Angaben zur Jahrgangsstufe und Familiensprache der zu
+untersuchenden Schülerinnen und Schüler übermitteln.
 
 Erfolgt eine Untersuchung gemäß <a href="#P52A4">§ 52 Absatz 4</a> nach Aufnahme der
 Schülerin oder des Schülers in die Schule, ist die Schule berechtigt,
@@ -4071,7 +4759,7 @@ sowie für personenbezogene Daten ihrer Erziehungsberechtigten.
 
 Zur Ermittlung des betroffenen Personenkreises in den Fällen des <a href="#P55A1">§ 55 Absatz 1</a> Satz 3 darf die zuständige Schulbehörde auch Name und Anschrift
 der Kinder und deren Erziehungsberechtigten sowie das Geburtsdatum der
-Kinder an die für das IT-Verfahren nach den § § 8 und 9 der
+Kinder an die für das IT-Verfahren nach den §§ 8 und 9 der
 Kindertagesförderungsverordnung vom 4. November 2005 (GVBl. S. 700), die
 zuletzt durch Artikel III des Gesetzes vom 19. März 2008 (GVBl. S. 78)
 geändert worden ist, zuständige Behörde übermitteln; diese stellt nach
@@ -4097,24 +4785,31 @@ Gewährleistung des Ausbildungserfolgs, erforderlich ist.
 Im Übrigen ist die Übermittlung an nicht-öffentliche Stellen nur
 zulässig, wenn
 
-1\. sie im Interesse der betroffenen Person liegt und diese darin
-einwilligt oder ein Fall des <a href="#P47A5">§ 47 Absatz 5</a> Satz 3 vorliegt, 2. der
-Empfänger ein rechtliches Interesse an deren Kenntnis glaubhaft macht
-und kein Grund zu der Annahme besteht, dass das schutzwürdige Interesse
-der betroffenen Person an der Geheimhaltung überwiegt, oder 3. es für
-die Richtigstellung unwahrer Tatsachenbehauptungen betroffener Personen
-im Zusammenhang mit den Aufgaben nach diesem Gesetz erforderlich ist;
-die Übermittlung bedarf der Zustimmung der Schulaufsichtsbehörde.
+1\.
+sie im Interesse der betroffenen Person liegt und diese darin einwilligt
+oder ein Fall des <a href="#P47A5">§ 47 Absatz 5</a> Satz 3 vorliegt,
+
+2\.
+der Empfänger ein rechtliches Interesse an deren Kenntnis glaubhaft
+macht und kein Grund zu der Annahme besteht, dass das schutzwürdige
+Interesse der betroffenen Person an der Geheimhaltung überwiegt, oder
+
+3\.
+es für die Richtigstellung unwahrer Tatsachenbehauptungen betroffener
+Personen im Zusammenhang mit den Aufgaben nach diesem Gesetz
+erforderlich ist; die Übermittlung bedarf der Zustimmung der
+Schulaufsichtsbehörde.
 
 Absatz 3 Satz 3 gilt entsprechend.
 
 <abs id="P64A7">(7)</abs> Die in Absatz 1 genannten Stellen dürfen personenbezogene Daten
-von Schülerinnen und Schülern, ihren Erziehungsberechtigten, Lehrkräften
-und sonstigen schulischen Mitarbeiterinnen und Mitarbeitern verarbeiten,
-soweit dies für die Erbringung von Leistungen für Bildung und Teilhabe
-nach den §§ 28 und 29 des Zweiten Buches Sozialgesetzbuch, nach den
-§§ 34 und 34a des Zwölften Buches Sozialgesetzbuch oder nach § 6b des
-Bundeskindergeldgesetzes oder die Mitwirkung daran erforderlich ist.
+von Schülerinnen und Schülern, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und §
+43, ihren Erziehungsberechtigten, Lehrkräften und sonstigen schulischen
+Mitarbeiterinnen und Mitarbeitern verarbeiten, soweit dies für die
+Erbringung von Leistungen für Bildung und Teilhabe nach den §§ 28 und 29
+des Zweiten Buches Sozialgesetzbuch, nach den §§ 34 und 34a des Zwölften
+Buches Sozialgesetzbuch oder nach § 6b des Bundeskindergeldgesetzes oder
+die Mitwirkung daran erforderlich ist.
 
 Eine Übermittlung dieser Daten ist zulässig, soweit sie für die
 Erfüllung der Zwecke, für die sie erhoben worden sind, erforderlich ist.
@@ -4123,34 +4818,38 @@ Die Schulen sind darüber hinaus berechtigt, personenbezogene Daten über
 die Anspruchsberechtigung im Hinblick auf die in Satz 1 genannten
 Leistungen zu verarbeiten, um sie als Einzelangabe im Sinne von <a href="#P65A4">§ 65 Absatz 4</a> Satz 3 an die Schulaufsichtsbehörde zu übermitteln.
 
-<abs id="P64A8">(8)</abs> Personenbezogene Daten von Schülerinnen und Schülern und den in
-Satz 2 genannten Personen dürfen mit Einwilligung der betroffenen
-Personen, sofern sie das 15. Lebensjahr vollendet haben, anderenfalls
-mit Einwilligung ihrer Erziehungsberechtigten, zum Zweck der Beratung
-über und der Vermittlung in Ausbildung und Beruf an die Bundesagentur
-für Arbeit und an Jobcenter übermittelt werden.
-
-Die Schulaufsichtsbehörde darf personenbezogene Daten derjenigen
-Schülerinnen und Schüler, die beim Verlassen der Schule weder eine
-Hochschulzugangsberechtigung erlangt haben noch eine Berufsausbildung
-beginnen, bis zur Vollendung ihres 21. Lebensjahres verarbeiten zu dem
-Zweck, diese Personen für eine Qualifizierungsmaßnahme oder
-Berufsausbildung zu gewinnen und in eine solche zu vermitteln.
+<abs id="P64A8">(8)</abs> Personenbezogene Daten von Schülerinnen und Schülern,
+Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 sowie ehemaligen
+Schülerinnen und Schülern, die nach Beendigung der Schulpflicht weder
+eine Hochschulzugangsberechtigung erlangt haben noch eine
+Berufsausbildung beginnen, dürfen zum Zweck der Beratung über und der
+Vermittlung in Ausbildung und Beruf oder Qualifizierungsmaßnahmen
+verarbeitet und an die Bundesagentur für Arbeit, an Jobcenter und an
+Träger der öffentlichen Jugendhilfe übermittelt werden, solange das 25.
+Lebensjahr noch nicht vollendet ist.
 
 Die Schulaufsichtsbehörde unterrichtet die betroffenen Personen nach der
-Beendigung des Schulverhältnisses über die fortdauernde Verarbeitung
-ihrer personenbezogenen Daten und den Zweck der Verarbeitung und weist
-sie auf ihr Widerspruchsrecht aus Artikel 21 der
-Datenschutz-Grundverordnung hin.
+Beendigung der Schulpflicht über die fortdauernde Verarbeitung ihrer
+personenbezogenen Daten und den Zweck der Verarbeitung und weist sie auf
+ihr Widerspruchsrecht aus Artikel 21 der Datenschutz-Grundverordnung
+hin.
+
+Die Schulaufsichtsbehörde darf die gemäß § 31a Absatz 2 Satz 1 und 2 des
+Dritten Buches Sozialgesetzbuch - Arbeitsförderung - (Artikel 1 des
+Gesetzes vom 24. März 1997, BGBl. I S. 594, 595), das zuletzt durch
+Artikel 2 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 148) geändert
+worden ist, in der jeweils geltenden Fassung übermittelten Daten zu dem
+Zweck, weitere Angebote unterbreiten zu können, verarbeiten.
 
 <abs id="P64A9">(9)</abs> Ab dem vollendeten 14. Lebensjahr können Schülerinnen und Schüler
-die Rechte aus Artikel 15 (Auskunftsrecht), Artikel 16 (Recht auf
-Berichtigung), Artikel 17 (Recht auf Löschung), Artikel 18 (Recht auf
-Einschränkung der Verarbeitung), Artikel 21 (Recht auf Widerspruch gegen
-die Verarbeitung) der Datenschutz-Grundverordnung und das Recht auf
-Einsicht in über die Person der Schülerin oder des Schülers geführte
-Akten aus § 24 des Berliner Datenschutzgesetzes vom 13. Juni 2018 (GVBl.
-S. 418) in der jeweils geltenden Fassung auch ohne Zustimmung der
+sowie Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 die Rechte aus Artikel
+15 (Auskunftsrecht), Artikel 16 (Recht auf Berichtigung), Artikel 17
+(Recht auf Löschung), Artikel 18 (Recht auf Einschränkung der
+Verarbeitung), Artikel 21 (Recht auf Widerspruch gegen die Verarbeitung)
+der Datenschutz-Grundverordnung und das Recht auf Einsicht in über die
+Person der Schülerin oder des Schülers geführte Akten aus § 24 des
+Berliner Datenschutzgesetzes vom 13. Juni 2018 (GVBl. S. 418) in der
+jeweils geltenden Fassung auch ohne Zustimmung der
 Erziehungsberechtigten geltend machen, soweit die Schulleiterin oder der
 Schulleiter deren Zustimmung nicht für erforderlich hält; dies gilt auch
 für die Erteilung der Einwilligung in den Fällen des Absatzes 6 Satz 2
@@ -4165,10 +4864,11 @@ Schulgesundheitspflege sowie die Schulpsychologischen und
 Inklusionspädagogischen Beratungs- und Unterstützungszentren dürfen
 personenbezogene Daten einschließlich sich auf Gesundheit beziehender
 besonderer Kategorien personenbezogener Daten im Sinne von Artikel 9
-Absatz 1 der Datenschutz-Grundverordnung der Schülerinnen und Schüler
-und ihrer Erziehungsberechtigten verarbeiten, soweit dies zur
-Durchführung der ihnen durch dieses Gesetz oder auf Grund dieses
-Gesetzes zugewiesenen Aufgaben erforderlich ist.
+Absatz 1 der Datenschutz-Grundverordnung der Schülerinnen und Schüler,
+Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 und ihrer
+Erziehungsberechtigten verarbeiten, soweit dies zur Durchführung der
+ihnen durch dieses Gesetz oder auf Grund dieses Gesetzes zugewiesenen
+Aufgaben erforderlich ist.
 
 Im Rahmen einer Tätigkeit nach <a href="#P52A2">§ 52 Absatz 2</a> und <a href="#P107A1">§ 107 Absatz 1</a> und 2
 darf der Schule nur das Ergebnis übermittelt werden.
@@ -4181,29 +4881,25 @@ volljährigen Schülerinnen oder Schüler übermittelt werden.
 Lernmittel einschließlich des von der für das Schulwesen zuständigen
 Senatsverwaltung zur Verfügung gestellten Lernmanagementsystems sowie
 digitaler Kommunikationswerkzeuge personenbezogene Daten der
-Schülerinnen und Schüler, der Lehrkräfte, der sonstigen pädagogischen
-Mitarbeiterinnen und Mitarbeiter und der Erziehungsberechtigten
-verarbeiten, soweit dies für die Erfüllung der ihnen durch
-Rechtsvorschriften zugewiesenen Aufgaben erforderlich ist.
+Schülerinnen und Schüler, der Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und §
+43, der Lehrkräfte, der sonstigen pädagogischen Mitarbeiterinnen und
+Mitarbeiter und der Erziehungsberechtigten verarbeiten, soweit dies für
+die Erfüllung der ihnen durch Rechtsvorschriften zugewiesenen Aufgaben
+erforderlich ist.
 
-Die für das Schulwesen zuständige Senatsverwaltung regelt das Nähere
-über die Verarbeitung personenbezogener Daten bei der Verwendung
-digitaler Lehr- und Lernmittel sowie digitaler Kommunikationswerkzeuge
-durch eine gesonderte Rechtsverordnung.
-
-# <par id="P64a">§ 64a</par> Automatisierte Datenverarbeitung
+# <par id="P64a">§ 64a</par> Berliner Lehrkräfte-Unterrichts-Schul-Datenbank
 
 <abs id="P64aA1">(1)</abs> Die Schulaufsichtsbehörde betreibt ein Fachverfahren zur
 automatisierten Datenverarbeitung, in dem personenbezogene Daten von
-Schülerinnen und Schülern, ihren Erziehungsberechtigten, Lehrkräften und
-anderen schulischen Mitarbeiterinnen und Mitarbeitern zur Erfüllung der
-den Schulen durch Rechtsvorschriften zugewiesenen Aufgaben, insbesondere
-zum Zweck der Organisation des Unterrichts und anderer schulischer
-Veranstaltungen, zur Unterstützung der Erfüllung der personalbezogenen
-Aufgaben der Schulleitung, der Zusammenarbeit mit den
-Erziehungsberechtigten, der Anwesenheitskontrolle und der
-Zeugniserstellung sowie der Führung von Schülerunterlagen im Auftrag der
-Schulen verarbeitet werden.
+Schülerinnen und Schülern, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+ihren Erziehungsberechtigten, Lehrkräften und anderen schulischen
+Mitarbeiterinnen und Mitarbeitern zur Erfüllung der den Schulen durch
+Rechtsvorschriften zugewiesenen Aufgaben, insbesondere zum Zweck der
+Organisation des Unterrichts und anderer schulischer Veranstaltungen,
+zur Unterstützung der Erfüllung der personalbezogenen Aufgaben der
+Schulleitung, der Zusammenarbeit mit den Erziehungsberechtigten, der
+Anwesenheitskontrolle und der Zeugniserstellung sowie der Führung von
+Schülerunterlagen im Auftrag der Schulen verarbeitet werden.
 
 Es werden im Wesentlichen folgende Kategorien, einschließlich besonderer
 Kategorien personenbezogener Daten im Sinne von Artikel 9 Absatz 1 der
@@ -4211,22 +4907,26 @@ Datenschutz-Grundverordnung, die sich auf die Familiensprache, die
 Religions- und Weltanschauungszugehörigkeit oder die Gesundheit der
 betroffenen Personen beziehen, verarbeitet:
 
-1\. Schülerinnen und Schüler: Identitätsmerkmale, Kontaktdaten,
-Erziehungsberechtigte, Familiensprache, Schullaufbahndaten,
-Leistungsdaten, sonderpädagogischer oder anderer Förderbedarf und die
-Förderstufe nach Maßgabe von Absatz 3, Bezugsberechtigung für
-schulbezogene Sozialleistungen, gegebenenfalls Daten zu beruflicher
-Ausbildung, schülerbezogene Merkmale der Schulstatistik, Mitgliedschaft
-in Gremien;
+1\.
+Schülerinnen und Schüler, Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+die nach § 43a von der Schulpflicht befreit sind oder deren Schulpflicht
+nach § 43b ruht:Identitätsmerkmale, Kontaktdaten, Erziehungsberechtigte,
+Familiensprache, Schullaufbahndaten, Leistungsdaten, sonderpädagogischer
+oder anderer Förderbedarf und die Förderstufe nach Maßgabe von Absatz 3,
+Bezugsberechtigung für schulbezogene Sozialleistungen, gegebenenfalls
+Daten zu beruflicher Ausbildung, Befreiung von der Schulpflicht oder
+Ruhen der Schulpflicht, schülerbezogene Merkmale der Schulstatistik,
+Mitgliedschaft in Gremien;
 
-2\. Erziehungsberechtigte: Namen, Kontaktdaten, Mitgliedschaft in
-Gremien;
+2\.
+Erziehungsberechtigte:Namen, Kontaktdaten, Mitgliedschaft in Gremien;
 
-3\. Lehrkräfte und schulische Mitarbeiterinnen und Mitarbeiter:
-Identitätsmerkmale und Kontaktdaten, Daten zu der beruflichen
-Qualifikation, zu der Art des Anstellungsverhältnisses und zum
-dienstlichen Einsatz, gegebenenfalls Schwerbehinderung, Mitgliedschaft
-in Gremien.
+3\.
+Lehrkräfte und schulische Mitarbeiterinnen und
+Mitarbeiter:Identitätsmerkmale und Kontaktdaten, Daten zu der
+beruflichen Qualifikation, zu der Art des Anstellungsverhältnisses und
+zum dienstlichen Einsatz, gegebenenfalls Schwerbehinderung,
+Mitgliedschaft in Gremien.
 
 <abs id="P64aA2">(2)</abs> Die Schulen sind verpflichtet, an dem Verfahren teilzunehmen.
 
@@ -4238,8 +4938,11 @@ oder die Finanzierung ein öffentliches Interesse besteht.
 Die Schulen bleiben für die von ihnen im Fachverfahren verarbeiteten
 Daten datenschutzrechtlich verantwortlich.
 
-Die datenschutzrechtliche (1) Gesamtverantwortung für das Fachverfahren
-liegt bei der Schulaufsichtsbehörde.
+Die Schulbehörden sind im Rahmen der Aufgabenwahrnehmung nach Absatz 8
+verpflichtet, an dem Verfahren teilzunehmen.
+
+Die datenschutzrechtliche \[1\] Gesamtverantwortung für das
+Fachverfahren liegt bei der Schulaufsichtsbehörde.
 
 <abs id="P64aA3">(3)</abs> Nicht in dem Fachverfahren automatisiert verarbeitet werden dürfen
 Vorgänge zu Erziehungs- und Ordnungsmaßnahmen, sonderpädagogische
@@ -4261,13 +4964,14 @@ Schulwechsels aus anderen Gründen bleibt die abgebende Schule solange
 Verantwortliche für die der Schule obliegende Datenverarbeitung, bis die
 Schülerin oder der Schüler in eine andere Schule aufgenommen ist.
 
+Für Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 gilt Satz 2 bis zum Ende
+der Schulpflicht.
+
 <abs id="P64aA5">(5)</abs> Für die Speicherungsdauer und die Löschung der automatisiert
 verarbeiteten personenbezogenen Daten gelten die Bestimmungen der auf
-Grund von § 66 erlassenen Schuldatenverordnung vom 13. Oktober 1994
-(GVBl. S. 435), die zuletzt durch die Verordnung vom 15. September 2010
-(GVBl. S. 446) geändert worden ist, in der jeweils geltenden Fassung
-über die Aufbewahrung und Vernichtung von Schülerunterlagen
-entsprechend.
+Grund von § 66 erlassenen Schuldatenverordnung vom 7. August 2023 (GVBl.
+S. 283) in der jeweils geltenden Fassung über die Aufbewahrung und
+Vernichtung von Schülerunterlagen entsprechend.
 
 <abs id="P64aA6">(6)</abs> Zugriffsberechtigte Personen in der Schule sind die Schulleiterin
 oder der Schulleiter, deren oder dessen ständige Vertreterin oder
@@ -4292,52 +4996,47 @@ verarbeiteten personenbezogenen Daten, einschließlich besonderer
 Kategorien personenbezogener Daten, zugreifen, um sie statistisch
 aufzubereiten.
 
-<a href="#P65A4">§ 65 Absatz 4</a> Satz 2 gilt entsprechend.
+# <par id="P65">§ 65</par> Absatz 4 Satz 2 gilt entsprechend.
 
 Sie ist zur Wahrung des Statistikgeheimnisses im Sinne von § 16 des
 Landesstatistikgesetzes vom 9. Dezember 1992 (GVBl. S. 365), das zuletzt
 durch Artikel 25 des Gesetzes vom 2. Februar 2018 (GVBl. S. 160)
 geändert worden ist, in der jeweils geltenden Fassung verpflichtet.
 
-<abs id="P64aA8">(8)</abs> Den Schulbehörden dürfen zur Durchführung der Aufnahme- und
+<abs id="P65A8">(8)</abs> Den Schulbehörden dürfen zur Durchführung der Aufnahme- und
 Übergangsverfahren befristet Zugriffsrechte auf die bei der
 Schulanmeldung von den Schulen ihres jeweiligen örtlichen
 Zuständigkeitsbereiches erhobenen und automatisiert verarbeiteten
-personenbezogenen Daten der Schülerinnen und Schüler, einschließlich
-besonderer Kategorien personenbezogener Daten, eingeräumt werden.
+personenbezogenen Daten der Schülerinnen und Schüler sowie
+Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43, einschließlich besonderer
+Kategorien personenbezogener Daten über das von der
+Schulaufsichtsbehörde betriebene Fachverfahren nach Absatz 1, eingeräumt
+werden.
 
 Die automatisierte Übermittlung von Schulversäumnisanzeigen an die
 Schulbehörde ist zulässig.
 
-<abs id="P64aA9">(9)</abs> Gegenüber dem jeweils zuständigen Schulpsychologischen und
+<abs id="P65A9">(9)</abs> Gegenüber dem jeweils zuständigen Schulpsychologischen und
 Inklusionspädagogischen Beratungs- und Unterstützungszentrum sind die
 für die Feststellung des Förderbedarfs erforderlichen personenbezogenen
 Daten, einschließlich besonderer Kategorien personenbezogener Daten,
 derjenigen Schülerinnen und Schüler offen zu legen, hinsichtlich derer
 das Bestehen sonderpädagogischen Förderbedarfs geprüft werden soll.
 
-<abs id="P64aA10">(10)</abs> Die Bereitstellung der nach Absatz 1 gespeicherten
-personenbezogenen Daten der Schülerinnen und Schüler, Lehrkräfte und
+<abs id="P65A10">(10)</abs> Die Bereitstellung der nach Absatz 1 gespeicherten
+personenbezogenen Daten der Schülerinnen und Schüler, Schulpflichtigen
+nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43, Erziehungsberechtigten, Lehrkräfte und
 anderen schulischen Mitarbeiterinnen und Mitarbeitern, insbesondere der
 Identitätsmerkmale für das nach § 64c betriebene Fachverfahren ist
 zulässig, sofern sie erforderlich ist, um diejenigen Dienste zur
 Verfügung zu stellen, die der Erfüllung der den Schulen durch
 Rechtsverordnung zugewiesenen Aufgaben dienen.
 
-Das Nähere regelt die für das Schulwesen zuständige Senatsverwaltung
-durch Rechtsverordnung.
-
-
-
-------------------------------------------------------------------------
-
-Die in der gesetzlichen Orignalfassung (Gesetz zur Änderung des
+\[1\] Die in der gesetzlichen Originalfassung (Gesetz zur Änderung des
 Schulgesetzes und weiterer Rechtsvorschriften vom 18. Dezember 2018
 (GVBl. Berlin 2018, S. 710)) verwendete Schreibweise von
 "datenschutzrechtlich" mit großem Anfangsbuchstaben ist in der
 vorliegenden Fassung wegen offensichtlicher Unrichtigkeit geändert.
-
-
 
 # <par id="P64b">§ 64b</par> Evaluationsbericht
 
@@ -4353,49 +5052,150 @@ Erforderlichkeit der Datenerhebung geben.
 
 <abs id="P64cA1">(1)</abs> Die Schulaufsichtsbehörde betreibt ein Fachverfahren zum
 Identitätsmanagement, in dem personenbezogene Daten von Schülerinnen und
-Schülern, Lehrkräften und anderen schulischen Mitarbeiterinnen und
-Mitarbeitern zur Erfüllung der den Schulen durch Rechtsvorschriften
-zugewiesenen Aufgaben verarbeitet werden dürfen, soweit dies zum Zweck
-der Authentifizierung und Rechtevergabe bei der Bereitstellung weiterer
-Dienste, wie Lernmanagementsystemen oder Systemen zur Bereitstellung
-digitaler Kommunikationsangebote, erforderlich ist.
+Schülern, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+Erziehungsberechtigten, Lehrkräften und anderen schulischen
+Mitarbeiterinnen und Mitarbeitern zur Erfüllung der den Schulen durch
+Rechtsvorschriften zugewiesenen Aufgaben verarbeitet werden dürfen,
+soweit dies zum Zweck der Authentifizierung und Rechtevergabe bei der
+Bereitstellung weiterer Dienste, wie Lernmanagementsystemen oder
+Systemen zur Bereitstellung digitaler Kommunikationsangebote,
+erforderlich ist.
 
-<abs id="P64cA2">(2)</abs> Zu diesem Zweck dürfen Namen, Loginnamen, für die Anmeldung
-genutzte eindeutige Pseudonyme, Passwörter, kryptografische Schlüssel
-und Zertifikate, E-Mailadressen, Rollen und Berechtigungen der
+<abs id="P64cA2">(2)</abs> Zu diesem Zweck dürfen insbesondere Namen, Loginnamen, für die
+Anmeldung genutzte eindeutige Pseudonyme, Passwörter, kryptografische
+Schlüssel und Zertifikate, E-Mailadressen, Rollen und Berechtigungen der
 Nutzerinnen und Nutzer sowie für das System erforderliche technische
 Nummern (ID-Nummern) verarbeitet werden.
 
 <abs id="P64cA3">(3)</abs> Personenbezogene Daten aus dem Fachverfahren nach Absatz 1 dürfen
-an von der Schulaufsichtsbehörde betriebene Fachverfahren übermittelt
-werden, sofern dies für die Bereitstellung von Benutzungszugängen sowie
-die Zuordnung von Nutzerinnen und Nutzern zu Rollen oder Gruppen in
-digitalen Diensten erforderlich ist, die zur Erfüllung der den Schulen
-durch Rechtsvorschriften zugewiesenen schulbezogenen Aufgaben dienen.
+von und an von der Schulaufsichtsbehörde betriebene Fachverfahren
+übermittelt werden, sofern dies insbesondere für die Bereitstellung von
+Benutzungszugängen sowie die Zuordnung von Nutzerinnen und Nutzern zu
+Rollen oder Gruppen in digitalen Diensten erforderlich ist, die zur
+Erfüllung der den Schulen durch Rechtsvorschriften zugewiesenen
+schulbezogenen Aufgaben dienen.
 
-Die für das Schulwesen zuständige Senatsverwaltung regelt das Nähere
-über die Verarbeitung personenbezogener Daten bei der Verwendung
-digitaler Lehr- und Lernmittel sowie digitaler Kommunikationswerkzeuge
-durch Rechtsverordnung.
+# <par id="P64d">§ 64d</par> Schulportal
 
-# <par id="P65">§ 65</par> Evaluation, wissenschaftliche Untersuchungen in Schulen, statistische Erhebungen
+<abs id="P64dA1">(1)</abs> Die Schulaufsichtsbehörde betreibt ein Fachverfahren, das den
+Schülerinnen und Schülern, Schulpflichtigen gemäß <a href="#P41A3">§ 41 Absatz 3</a> und §
+43, Erziehungsberechtigten, Lehrkräften und schulischen Mitarbeiterinnen
+und Mitarbeitern Zugang zu digitalen Lehr- und Lernmitteln sowie
+digitalen Kommunikationswerkzeugen ermöglicht.
+
+Eine Verarbeitung personenbezogener Daten ist zulässig, soweit sie für
+die Gewährung des Zugangs nach Satz 1 erforderlich ist.
+
+<abs id="P64dA2">(2)</abs> Das Fachverfahren nach Absatz 1 Satz 1 erlaubt eine Verarbeitung
+der im Fachverfahren nach § 64a gespeicherten personenbezogenen Daten
+für Zwecke der Verwaltung der Schülerinnen und Schüler sowie der
+Schulorganisation unter den Voraussetzungen der Absätze 3 und 4.
+
+<abs id="P64dA3">(3)</abs> Für Zwecke der Verwaltung der Schülerinnen und Schüler sowie
+Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 dürfen die in dem
+Fachverfahren nach § 64a verarbeiteten personenbezogenen Daten von
+Schülerinnen und Schülern, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+Erziehungsberechtigten, Lehrkräften und schulischen Mitarbeiterinnen und
+Mitarbeitern in dem Fachverfahren nach Absatz 2 verarbeitet werden,
+soweit dies erforderlich ist
+
+1\.
+für die Feststellung der Anwesenheit der Schülerinnen und Schüler und
+deren Dokumentation durch die Lehrkräfte,
+
+2\.
+für die Meldung und Entschuldigung von Abwesenheiten der Schülerinnen
+und Schüler durch deren Erziehungsberechtigte oder durch volljährige
+Schülerinnen und Schüler,
+
+3\.
+für die Dokumentation von zeugnisrelevanten Informationen und
+Leistungsnachweisen von Schülerinnen und Schülern,
+
+4\.
+für die Ausstellung und Bereitstellung von Nachweisen über den
+Schulbesuch der Schülerinnen und Schüler,
+
+5\.
+für die Ausstellung und Bereitstellung von digitalen Zeugnissen,
+
+6\.
+für die Ausstellung und Bereitstellung von Ausweisen für Schülerinnen
+und Schüler,
+
+7\.
+für die Anwesenheitsdokumentation im Rahmen der ergänzenden Förderung
+und Betreuung nach <a href="#P19A6">§ 19 Absatz 6</a>.
+
+<abs id="P64dA4">(4)</abs> Für Zwecke der Schulorganisation dürfen die in dem Fachverfahren
+nach § 64a verarbeiteten personenbezogenen Daten von Schülerinnen und
+Schülern, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+Erziehungsberechtigten, Lehrkräften und schulischen Mitarbeiterinnen und
+Mitarbeitern in dem Fachverfahren nach Absatz 1 verarbeitet werden,
+soweit dies erforderlich ist
+
+1\.
+für das Verfahren zur Auswahl der Schulen und Bildungsgänge durch die
+Schülerinnen und Schüler, ihre Erziehungsberechtigten sowie
+Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+
+2\.
+für die Kurs- und Fächerwahl durch die Schülerinnen und Schüler sowie
+Schulpflichtige nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43,
+
+3\.
+für die Raumplanung innerhalb der Schule,
+
+4\.
+für die Verwaltung der Buchausleihe durch die Schulbibliothek,
+
+5\.
+für die Abrechnung und Stornierung des kostenbeteiligungsfreien
+Mittagessens nach <a href="#P19A3">§ 19 Absatz 3</a>.
+
+<abs id="P64dA5">(5)</abs> Die Authentifizierung und Rechtevergabe für eine Verarbeitung von
+im Fachverfahren nach § 64a verarbeiteten personenbezogenen Daten
+erfolgt ausschließlich über das Fachverfahren nach § 64c und soweit
+diese für die Gewährung des Zugangs nach Absatz 1 Satz 1 sowie die
+Zwecke nach Absatz 3 und 4 erforderlich ist.
+
+Die Übermittlung von personenbezogenen Daten vom Fachverfahren nach
+Absatz 1 an die Fachverfahren nach § 64a und § 64c ist zulässig, soweit
+dies nach Satz 1 erforderlich ist.
+
+# <par id="P65">§ 65</par> Evaluation, wissenschaftliche Untersuchungen in Schulen,
+statistische Erhebungen
 
 <abs id="P65A1">(1)</abs> Vor der Durchführung einer Evaluation nach § 9 Abs. 1 muss die
 durchführende Stelle
 
-1\. den Kreis der einbezogenen Personen, 2. den Erhebungs- und
-Berichtszeitraum, 3. die Art der Testverfahren und die
-Evaluationsmethoden, 4. Zweck, Art und Umfang von Befragungen und
-Beobachtungen, 5. die einzelnen Erhebungs- und Hilfsmerkmale bei einer
-Befragung, 6. die Trennung und Löschung der Daten und 7. die
-verantwortliche Leiterin oder den verantwortlichen Leiter der
+1\.
+den Kreis der einbezogenen Personen,
+
+2\.
+den Erhebungs- und Berichtszeitraum,
+
+3\.
+die Art der Testverfahren und die Evaluationsmethoden,
+
+4\.
+Zweck, Art und Umfang von Befragungen und Beobachtungen,
+
+5\.
+die einzelnen Erhebungs- und Hilfsmerkmale bei einer Befragung,
+
+6\.
+die Trennung und Löschung der Daten und
+
+7\.
+die verantwortliche Leiterin oder den verantwortlichen Leiter der
 Evaluationsmaßnahme
 
 schriftlich oder elektronisch festlegen.
 
-Einzeldaten der Schülerinnen und Schüler sowie der
-Erziehungsberechtigten sind bei der internen Evaluation vor Beginn der
-Auswertung zu anonymisieren oder ersatzweise zu pseudonymisieren.
+Einzeldaten der Schülerinnen und Schüler, Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43 sowie der Erziehungsberechtigten sind bei der internen
+Evaluation vor Beginn der Auswertung zu anonymisieren oder ersatzweise
+zu pseudonymisieren.
 
 Bei anderen Maßnahmen der Evaluation gilt dies zusätzlich für die
 Lehrkräfte und die sonstigen schulischen Mitarbeiterinnen und
@@ -4420,16 +5220,18 @@ Die Schulkonferenz ist vor der Erteilung der Genehmigung zu informieren.
 
 <abs id="P65A3">(3)</abs> Personenbezogene Daten dürfen im Rahmen wissenschaftlicher
 Untersuchungen nach Absatz 2 in der Regel nur mit der Einwilligung der
-Schülerinnen und Schüler verarbeitet werden.
+Schülerinnen und Schüler oder Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und §
+43 verarbeitet werden.
 
 Für Schülerinnen und Schüler, die das 14. Lebensjahr noch nicht
 vollendet haben, bedarf es der schriftlichen Einwilligung der
 Erziehungsberechtigten.
 
-Die Schülerinnen und Schüler und die Erziehungsberechtigten sind zuvor
-über das Ziel und den wesentlichen Inhalt des Forschungsvorhabens, die
-Art ihrer Beteiligung an der Untersuchung sowie die Verarbeitung der
-erhobenen Daten zu informieren.
+Die Schülerinnen und Schüler, die Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a>
+und § 43 und die Erziehungsberechtigten sind zuvor über das Ziel und den
+wesentlichen Inhalt des Forschungsvorhabens, die Art ihrer Beteiligung
+an der Untersuchung sowie die Verarbeitung der erhobenen Daten zu
+informieren.
 
 Die personenbezogenen Daten dürfen ohne Einwilligung nur verarbeitet
 werden, wenn das öffentliche Interesse an der Durchführung des
@@ -4444,11 +5246,14 @@ und nicht an Dritte übermittelt werden.
 
 <abs id="P65A4">(4)</abs> Die Schulen sind verpflichtet, der zuständigen Schulbehörde und
 der Schulaufsichtsbehörde für statistische Zwecke Einzelangaben der
-Schülerinnen und Schüler und des an der Schule tätigen Personals zu
-übermitteln. Der Name, der Tag der Geburt und die genaue Adresse der in
-Satz 1 genannten Personen dürfen nicht übermittelt werden. Die Art der
-zu übermittelnden Einzelangaben ergibt sich im Übrigen aus den die
-jeweilige statistische Erhebung anordnenden Rechtsvorschriften.
+Schülerinnen und Schüler, der Schulpflichtigen nach <a href="#P41A3">§ 41 Absatz 3</a> und §
+43 und des an der Schule tätigen Personals zu übermitteln.
+
+Der Name, der Tag der Geburt und die genaue Adresse der in Satz 1
+genannten Personen dürfen nicht übermittelt werden.
+
+Die Art der zu übermittelnden Einzelangaben ergibt sich im Übrigen aus
+den die jeweilige statistische Erhebung anordnenden Rechtsvorschriften.
 
 <abs id="P65A5">(5)</abs> Soweit dieses Gesetz, die Rechtsvorschriften im Sinne von Absatz 4
 Satz 3 oder die auf Grund des § 66 erlassene Rechtsverordnung keine
@@ -4464,33 +5269,73 @@ Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt, das
 Nähere über die Verarbeitung personenbezogener Daten durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. Art und Umfang der Daten, auf die sich die Auskunftspflicht nach
-§ 64 Abs. 1 bezieht, 2. ihre Verarbeitung in Dateien und auf sonstigen
-Datenträgern, die Sicherung ihrer Zweckbindung, die Zugriffsrechte und
-die technisch-organisatorischen Maßnahmen im Sinne der
-Datenschutz-Grundverordnung, 3. ihre Übermittlung beim Schulwechsel, 4.
-die Aufbewahrungsfristen, 5. ihre Löschung, 6. die Datensicherung, 7.
-das Verfahren der Akteneinsicht, 8. Art und Umfang der Daten für die
-Schulstatistik und deren Organisation, 9. die Einzelheiten zu Art und
-Umfang der gemäß § 64a automatisiert zu verarbeitenden personenbezogenen
-Daten, 10. Einzelheiten der Datenverarbeitung bei der Erbringung von
-Leistungen der Bildung und Teilhabe unter Mitwirkung der Schule und 11.
-Art und Umfang der Daten, die nach <a href="#P64A8">§ 64 Absatz 8</a> verarbeitet werden, 12.
+1\.
+Art und Umfang der Daten, auf die sich die Auskunftspflicht nach § 64
+Abs. 1 bezieht,
+
+2\.
+ihre Verarbeitung in Dateien und auf sonstigen Datenträgern, die
+Sicherung ihrer Zweckbindung, die Zugriffsrechte und die
+technisch-organisatorischen Maßnahmen im Sinne der
+Datenschutz-Grundverordnung,
+
+3\.
+ihre Übermittlung beim Schulwechsel,
+
+4\.
+die Aufbewahrungsfristen,
+
+5\.
+ihre Löschung,
+
+6\.
+die Datensicherung,
+
+7\.
+das Verfahren der Akteneinsicht,
+
+8\.
+Art und Umfang der Daten für die Schulstatistik und deren Organisation,
+
+9\.
+die Einzelheiten zu Art und Umfang der gemäß § 64a automatisiert zu
+verarbeitenden personenbezogenen Daten,
+
+10\.
+Einzelheiten der Datenverarbeitung bei der Erbringung von Leistungen der
+Bildung und Teilhabe unter Mitwirkung der Schule und
+
+11\.
+Art und Umfang der Daten, die nach <a href="#P64A8">§ 64 Absatz 8</a> verarbeitet werden,
+
+12\.
 Art und Umfang der Zugriffsrechte der Schulbehörden während der
-Aufnahme- und Übergangsverfahren nach <a href="#P64aA8">§ 64a Absatz 8</a>, 13. Art und Umfang
-der Daten sowie spezifische technische und organisatorische Maßnahmen
-bei der Verarbeitung besonderer Kategorien personenbezogener Daten und
-14. über die Verarbeitung von zur Identifikation und Authentifizierung
-von Nutzerinnen und Nutzern erforderlichen Daten im
-informationstechnischen System gemäß § 64c.
+Aufnahme- und Übergangsverfahren nach § 64a Absatz 8,
 
+13\.
+Art und Umfang der Daten sowie spezifische technische und
+organisatorische Maßnahmen bei der Verarbeitung besonderer Kategorien
+personenbezogener Daten,
 
+14\.
+die Verarbeitung von zur Identifikation und Authentifizierung von
+Nutzerinnen und Nutzern erforderlichen Daten im informationstechnischen
+System gemäß § 64c,
 
-## Teil VI - Schulverfassung
+15\.
+die Bereitstellung der im Fachverfahren nach § 64a verarbeiteten
+personenbezogenen Daten an die Fachverfahren nach § 64c und § 64d,
 
-## Abschnitt I - Schulpersonal, Schulleitung
+16\.
+die Verarbeitung personenbezogener Daten bei der Verwendung digitaler
+Lehr- und Lernmittel sowie digitaler Kommunikationswerkzeuge und
 
+17\.
+die Verarbeitung personenbezogener Daten im Fachverfahren nach § 64d.
 
+Teil VI Schulverfassung
+
+Abschnitt I Schulpersonal, Schulleitung
 
 # <par id="P67">§ 67</par> Aufgaben und Stellung der Lehrkräfte
 
@@ -4555,7 +5400,13 @@ Die schulinterne Fortbildung hat dabei Vorrang.
 Die Fortbildung wird durch entsprechende Angebote der Schulbehörden
 ergänzt.
 
-# <par id="P68">§ 68</par> Schulische Mitarbeiterinnen und Mitarbeiter, Mitwirkung anderer Personen
+<abs id="P67A8">(8)</abs> Lehrkräfte an den öffentlichen Schulen des Landes sind in der
+Regel Beamtinnen und Beamte, wenn sie die für ihre Laufbahn
+erforderliche Befähigung besitzen und die sonstigen beamtenrechtlichen
+Voraussetzungen erfüllen.
+
+# <par id="P68">§ 68</par> Schulische Mitarbeiterinnen und Mitarbeiter, Mitwirkung anderer
+Personen
 
 <abs id="P68A1">(1)</abs> Schulische Mitarbeiterinnen und Mitarbeiter sind Personen, die
 nicht selbständig Unterricht erteilen (pädagogische Mitarbeiterinnen und
@@ -4576,58 +5427,74 @@ Ein Anspruch auf Entschädigung besteht nicht.
 
 Sie oder er
 
-1\. trägt die Gesamtverantwortung für die Arbeit der Schule,
+1\.
+trägt die Gesamtverantwortung für die Arbeit der Schule,
 
-2\. sorgt für die Einhaltung der Rechts- und Verwaltungsvorschriften und
+2\.
+sorgt für die Einhaltung der Rechts- und Verwaltungsvorschriften und
 nimmt das Hausrecht wahr,
 
-3\. entscheidet nach Maßgabe von <a href="#P76A1">§ 76 Absatz 1</a> über die Verteilung und
-Verwendung der der Schule zur eigenen Bewirtschaftung zugewiesenen
+3\.
+entscheidet nach Maßgabe von § 76 Absatz 1 Nummer 1 über die Verteilung
+und Verwendung der der Schule zur eigenen Bewirtschaftung zugewiesenen
 Personal- und Sachmittel (<a href="#P7A3">§ 7 Absatz 3</a>, 5 und 6),
 
-4\. schließt im Rahmen der Eigenverantwortung der Schule Rechtsgeschäfte
-für das Land Berlin ab und entscheidet über die Stellung eines Antrags
-nach § 7 Abs. 3 Satz 4,
+4\.
+schließt im Rahmen der Eigenverantwortung der Schule Rechtsgeschäfte für
+das Land Berlin ab und entscheidet über die Stellung eines Antrags nach
+# <par id="P7">§ 7</par> Abs. 3 Satz 4,
 
-5\. wirkt im Rahmen von § 7 Abs. 3 Satz 1 und 2 bei der Einstellung und
+5\.
+wirkt im Rahmen von § 7 Abs. 3 Satz 1 und 2 bei der Einstellung und
 Umsetzung der Lehrkräfte mit,
 
-6\. entscheidet über den Unterrichtseinsatz der Lehrkräfte und des
-sonstigen pädagogischen Personals und
+6\.
+entscheidet über den Unterrichtseinsatz der Lehrkräfte und des sonstigen
+pädagogischen Personals und
 
-7\. vertritt die Schule im Rahmen der Beschlüsse der schulischen Gremien
+7\.
+vertritt die Schule im Rahmen der Beschlüsse der schulischen Gremien
 nach außen.
 
-<abs id="P69A2">(2)</abs> Aufgabe der Schulleiterin oder des Schulleiters ist es,
+<abs id="P7A2">(2)</abs> Aufgabe der Schulleiterin oder des Schulleiters ist es,
 insbesondere
 
-1\. die Zusammenarbeit der Lehrkräfte, der sonstigen schulischen
+1\.
+die Zusammenarbeit der Lehrkräfte, der sonstigen schulischen
 Mitarbeiterinnen und Mitarbeiter, der Schülerinnen und Schüler, der
 Erziehungsberechtigten sowie der Schulbehörden zu fördern und auf die
 kontinuierliche Verbesserung der Unterrichts- und Erziehungsarbeit
-hinzuwirken, 2. für die Entwicklung, Fortschreibung und Umsetzung des
-Schulprogramms und für die Qualitätssicherung und interne Evaluation der
-schulischen Arbeit zu sorgen sowie der Schulkonferenz und der
-Gesamtkonferenz jährlich einen Bericht über die Entwicklung der Schule
-vorzulegen, 3. die Schüler- und Elternvertretung über alle
-Angelegenheiten zu informieren, die für die Schülerinnen und Schüler,
-die Erziehungsberechtigten und die Schule wichtig sind, und deren Arbeit
-zu unterstützen, 4. mit anderen Bildungseinrichtungen, den für die
-Berufsausbildung und die Arbeitsverwaltung verantwortlichen Stellen, den
-Behörden und Einrichtungen der Kinder- und Jugendhilfe, den
-Sozialhilfeträgern sowie sonstigen Beratungsstellen und Behörden, die
-die Belange der Schülerinnen und Schüler und der Schule betreffen,
-zusammenzuarbeiten und die Öffnung der Schule zu ihrem sozialen und
-kulturellen Umfeld zu fördern.
+hinzuwirken,
 
-<abs id="P69A3">(3)</abs> Die Schulleiterin oder der Schulleiter nimmt im Auftrag der
+2\.
+für die Entwicklung, Fortschreibung und Umsetzung des Schulprogramms und
+für die Qualitätssicherung und interne Evaluation der schulischen Arbeit
+zu sorgen sowie der Schulkonferenz und der Gesamtkonferenz jährlich
+einen Bericht über die Entwicklung der Schule vorzulegen,
+
+3\.
+die Schüler- und Elternvertretung über alle Angelegenheiten zu
+informieren, die für die Schülerinnen und Schüler, die
+Erziehungsberechtigten und die Schule wichtig sind, und deren Arbeit zu
+unterstützen,
+
+4\.
+mit anderen Bildungseinrichtungen, den für die Berufsausbildung und die
+Arbeitsverwaltung verantwortlichen Stellen, den Behörden und
+Einrichtungen der Kinder- und Jugendhilfe, den Sozialhilfeträgern sowie
+sonstigen Beratungsstellen und Behörden, die die Belange der
+Schülerinnen und Schüler und der Schule betreffen, zusammenzuarbeiten
+und die Öffnung der Schule zu ihrem sozialen und kulturellen Umfeld zu
+fördern.
+
+<abs id="P7A3">(3)</abs> Die Schulleiterin oder der Schulleiter nimmt im Auftrag der
 zuständigen Schulbehörde die Schülerinnen und Schüler in die Schule auf.
 
 Sie oder er verwaltet die Schulanlagen im Auftrag der zuständigen
 Schulbehörde und bewirtschaftet die der Schule zugewiesenen
 Haushaltsmittel.
 
-<abs id="P69A4">(4)</abs> Die Schulleiterin oder der Schulleiter ist im Rahmen der
+<abs id="P7A4">(4)</abs> Die Schulleiterin oder der Schulleiter ist im Rahmen der
 Verwaltungsaufgaben gegenüber den an der Schule tätigen Lehrkräften und
 den schulischen Mitarbeiterinnen und Mitarbeitern weisungsbefugt.
 
@@ -4637,17 +5504,25 @@ einheitliche Bewertungsmaßstäbe an der Schule.
 
 Dazu ist sie oder er verpflichtet,
 
-1\. sich über den ordnungsgemäßen Ablauf der Unterrichts- und
-Erziehungsarbeit zu informieren, 2. die Lehrkräfte sowie die
-pädagogischen Mitarbeiterinnen und Mitarbeiter zu beraten, 3. in die
-Unterrichts- oder Erziehungsarbeit bei Verstoß gegen Rechts- oder
+1\.
+sich über den ordnungsgemäßen Ablauf der Unterrichts- und
+Erziehungsarbeit zu informieren,
+
+2\.
+die Lehrkräfte sowie die pädagogischen Mitarbeiterinnen und Mitarbeiter
+zu beraten,
+
+3\.
+in die Unterrichts- oder Erziehungsarbeit bei Verstoß gegen Rechts- oder
 Verwaltungsvorschriften, Weisungen der Schulaufsichtsbehörde und der
 Schulbehörde oder Beschlüsse der schulischen Gremien oder bei Mängeln in
-der Qualität der pädagogischen Arbeit einzugreifen und 4. auf eine
-partizipative, diskriminierungsfreie und demokratische Schulkultur
-hinzuwirken.
+der Qualität der pädagogischen Arbeit einzugreifen und
 
-<abs id="P69A5">(5)</abs> Die Schulleiterin oder der Schulleiter wirkt auf die Fortbildung
+4\.
+auf eine partizipative, diskriminierungsfreie und demokratische
+Schulkultur hinzuwirken.
+
+<abs id="P7A5">(5)</abs> Die Schulleiterin oder der Schulleiter wirkt auf die Fortbildung
 der Lehrkräfte und der sonstigen schulischen Mitarbeiterinnen und
 Mitarbeiter hin und überprüft die Einhaltung der
 Fortbildungsverpflichtung.
@@ -4656,14 +5531,19 @@ Sie oder er fördert die schulische Ausbildung der Lehramtsanwärterinnen
 und Lehramtsanwärter und informiert sich regelmäßig über die Qualität
 der Ausbildung.
 
-<abs id="P69A6">(6)</abs> Die Schulleiterin oder der Schulleiter nimmt im Rahmen der
+<abs id="P7A6">(6)</abs> Die Schulleiterin oder der Schulleiter nimmt im Rahmen der
 Selbstgestaltung und Eigenverantwortung der Schule folgende Aufgaben der
 oder des Dienstvorgesetzten wahr:
 
-1\. die Anordnung von Mehrarbeit oder Überstunden, 2. die Bewilligung
-von Nebentätigkeiten, Sonderurlaub, Dienstbefreiungen, Dienstreisen und
-Fortbildungsanträgen sowie 3. sonstige von der Dienstbehörde übertragene
-Aufgaben.
+1\.
+die Anordnung von Mehrarbeit oder Überstunden,
+
+2\.
+die Bewilligung von Nebentätigkeiten, Sonderurlaub, Dienstbefreiungen,
+Dienstreisen und Fortbildungsanträgen sowie
+
+3\.
+sonstige von der Dienstbehörde übertragene Aufgaben.
 
 Darüber hinaus erstellt die Schulleiterin oder der Schulleiter
 dienstliche Beurteilungen und Berichte über die Bewährung des Personals
@@ -4680,9 +5560,17 @@ Personals an der Schule übertragen.
 <abs id="P70A1">(1)</abs> Die Schulleiterin oder der Schulleiter muss innerhalb von drei
 Werktagen Beschlüsse der schulischen Gremien beanstanden, wenn sie
 
-1\. gegen Rechts- oder Verwaltungsvorschriften, 2. gegen Weisungen der
-Schulaufsichtsbehörde oder Schulbehörde oder 3. gegen allgemein
-anerkannte pädagogische Grundsätze oder Bewertungsmaßstäbe verstoßen.
+1\.
+gegen Rechts- oder Verwaltungsvorschriften,
+
+2\.
+gegen Weisungen der Schulaufsichtsbehörde oder Schulbehörde oder
+
+3\.
+gegen allgemein anerkannte pädagogische Grundsätze oder
+Bewertungsmaßstäbe
+
+verstoßen.
 
 Die Beanstandung hat aufschiebende Wirkung und ist schriftlich oder
 elektronisch zu begründen.
@@ -4741,7 +5629,7 @@ herzustellen; es gilt zwei Wochen nach der Beteiligung als erteilt.
 <abs id="P72A3">(3)</abs> Die Schulkonferenz führt binnen eines Monats eine Anhörung der
 vorgeschlagenen Bewerberinnen und Bewerber durch.
 
-(4) Die Schulkonferenz schlägt in den Fällen des Absatzes 2 Satz 1 der
+<abs id="P72A4">(4)</abs> Die Schulkonferenz schlägt in den Fällen des Absatzes 2 Satz 1 der
 Schulaufsichtsbehörde binnen einer Woche nach der Anhörung eine
 Bewerberin oder einen Bewerber vor.
 
@@ -4768,16 +5656,17 @@ In diesem Fall wählt die Schulaufsichtsbehörde die Schulleiterin oder
 den Schulleiter aus.
 
 <abs id="P72A6">(6)</abs> Die Absätze 1 bis 5 finden keine Anwendung bei dem Wechsel einer
-Lehrkraft, die nach einer Tätigkeit in der Schulaufsichtsbehörde, an
-einer anderen öffentlichen Schule oder im Auslandsschuldienst in einer
-ihrem Amt entsprechenden Stelle eingesetzt werden soll.
+Lehrkraft, die nach einer Tätigkeit in der Schulaufsichtsbehörde, im
+Berliner Landesinstitut, an einer anderen öffentlichen Schule oder im
+Auslandsschuldienst in einer ihrem Amt entsprechenden Stelle eingesetzt
+werden soll.
 
 Die Schulkonferenz und das für die Schule zuständige Bezirksamt erhalten
 vor dem Wechsel Gelegenheit zur Stellungnahme.
 
 <abs id="P72A7">(7)</abs> Im Übrigen bleiben die dienst- und personalvertretungsrechtlichen
-Vorschriften sowie das Landesgleichstellungsgesetz in der Fassung vom
-6. September 2002 (GVBl. S. 280) in der jeweils geltenden Fassung
+Vorschriften sowie das Landesgleichstellungsgesetz in der Fassung vom 6.
+September 2002 (GVBl. S. 280) in der jeweils geltenden Fassung
 unberührt.
 
 # <par id="P73">§ 73</par> Funktionsstellen
@@ -4807,19 +5696,25 @@ Schulleiterin oder dem Schulleiter vorbehalten.
 
 <abs id="P74A3">(3)</abs> Der erweiterten Schulleitung gehören an:
 
-1\. die Schulleiterin oder der Schulleiter,
+1\.
+die Schulleiterin oder der Schulleiter,
 
-2\. die Funktionsstelleninhaberinnen oder Funktionsstelleninhaber gemäß
-<a href="#P73A1">§ 73 Absatz 1</a> und
+2\.
+die Funktionsstelleninhaberinnen oder Funktionsstelleninhaber gemäß <a href="#P73A1">§ 73 Absatz 1</a> und
 
-3\. die Primarstufenleiterin oder der Primarstufenleiter,
+3\.
+die Primarstufenleiterin oder der Primarstufenleiter,
 
-4\. die Leitung der ergänzenden Förderung und Betreuung im Sinne von <a href="#P19A6">§ 19 Absatz 6</a>,
+4\.
+die koordinierende Fachkraft der außerunterrichtlichen Förderung und
+Betreuung sowie der ergänzenden Förderung und Betreuung im Sinne von <a href="#P19A6">§ 19 Absatz 6</a>,
 
-5\. die sozialpädagogische Fachkraft der schulbezogenen
-Jugendsozialarbeit gemäß § 5b und
+5\.
+die sozialpädagogische Fachkraft der schulbezogenen Jugendsozialarbeit
+gemäß § 5b und
 
-6\. bis zu vier von der Gesamtkonferenz gewählte stimmberechtigte
+6\.
+bis zu vier von der Gesamtkonferenz gewählte stimmberechtigte
 Mitglieder.
 
 # <par id="P74a">§ 74a</par> Krisenteams
@@ -4843,11 +5738,7 @@ Die Schulleiterin oder der Schulleiter oder eine
 Funktionsstelleninhaberin oder ein Funktionsstelleninhaber nach § 73 ist
 verpflichtend Mitglied des Krisenteams.
 
-
-
-## Abschnitt II - Schulkonferenz
-
-
+Abschnitt II Schulkonferenz
 
 # <par id="P75">§ 75</par> Stellung und Aufgaben
 
@@ -4883,137 +5774,206 @@ Lehrkraft den Unterricht besuchen.
 Verwaltungsvorschriften mit einer Mehrheit von zwei Dritteln der
 stimmberechtigten Mitglieder über
 
-1. die Grundsätze der Verteilung und Verwendung der der Schule zur
-eigenen Bewirtschaftung zugewiesenen Personal- und Sachmittel (<a href="#P7A3">§ 7 Absatz 3</a>, 5 und 6), der Beschluss der Schulkonferenz wird umgehend
-schulöffentlich bekannt gemacht, die Schulkonferenz nimmt die planmäßige
-Verwendung der Mittel zur Kenntnis,
+1\.
+die Grundsätze der Verteilung und Verwendung der der Schule zur eigenen
+Bewirtschaftung zugewiesenen Personal- und Sachmittel (<a href="#P7A3">§ 7 Absatz 3</a>, 5
+und 6), der Beschluss der Schulkonferenz wird umgehend schulöffentlich
+bekannt gemacht, die Schulkonferenz nimmt die planmäßige Verwendung der
+Mittel zur Kenntnis,
 
-2. das Schulprogramm und sich daraus ergebende Grundsätze für die
+2\.
+das Schulprogramm und sich daraus ergebende Grundsätze für die
 Organisation von Schule und Unterricht (§ 8),
 
-3. die Aufnahmekriterien und das Verfahren für die Aufnahme bei
+3\.
+die Aufnahmekriterien und das Verfahren für die Aufnahme bei
 Übernachfrage (<a href="#P56A6">§ 56 Absatz 6</a>) auf Vorschlag der Schulleiterin oder des
 Schulleiters,
 
-4\. die Grundsätze des Dualen Lernens,
+4\.
+die Grundsätze des Dualen Lernens,
 
-5. das Evaluationsprogramm der Schule (§ 9 Abs. 2),
+5\.
+das Evaluationsprogramm der Schule (§ 9 Abs. 2),
 
-6. die Unterrichtung in Unterrichtsfächern oder als Lernbereich (§ 12
-Abs. 3),
+6\.
+die Unterrichtung in Unterrichtsfächern oder als Lernbereich (§ 12 Abs.
+3),
 
-7\. die Berücksichtigung der Querschnittsaufgaben bei der Ausgestaltung
-des Schulprogramms (<a href="#P12A4">§ 12 Absatz 4</a>),
+7\.
+die Berücksichtigung der Querschnittsaufgaben bei der Ausgestaltung des
+Schulprogramms (<a href="#P12A4">§ 12 Absatz 4</a>),
 
-8. die Abweichungen von der Stundentafel (§ 14 Abs. 4),
+8\.
+die Abweichungen von der Stundentafel (§ 14 Abs. 4),
 
-9. das Ersetzen von Zeugnissen durch schriftliche Informationen zur
-Lern-, Leistungs- und Kompetenzentwicklung und das Ersetzen von
+9\.
+das Ersetzen von Zeugnissen durch schriftliche Informationen zur Lern-,
+Leistungs- und Kompetenzentwicklung und das Ersetzen von
 Halbjahreszeugnissen durch verbindliche Gespräche mit den
 Erziehungsberechtigten (<a href="#P58A4">§ 58 Absatz 4</a> Satz 6 und 7),
 
-10. einen Vorschlag für die Bestellung der Schulleiterin oder des
-Schulleiters (§ 72 Absatz 4 Satz 1), der ständigen Vertreterin oder des
+10\.
+einen Vorschlag für die Bestellung der Schulleiterin oder des
+Schulleiters (<a href="#P72A4">§ 72 Absatz 4</a> Satz 1), der ständigen Vertreterin oder des
 ständigen Vertreters der Schulleiterin oder des Schulleiters und der
 Abteilungsleiterinnen oder Abteilungsleiter an Oberstufenzentren (<a href="#P73A1">§ 73 Absatz 1</a>),
 
-11. Grundsätze über den Umfang und die Verteilung der Hausaufgaben, im
-Einvernehmen mit der zuständigen Schulbehörde,
+11\.
+Grundsätze über den Umfang und die Verteilung der Hausaufgaben,
 
-12. die Stellung eines Antrags auf Wechsel zu einem Träger der
-Jugendhilfe oder auf Wechsel des Trägers der Jugendhilfe und, sofern der
-Antrag von der Schulaufsichtsbehörde im Einvernehmen mit dem Schulträger
-genehmigt ist, die konkrete Auswahl des Trägers der Jugendhilfe im
-Rahmen der ergänzenden Förderung und Betreuung (<a href="#P19A6">§ 19 Absatz 6</a>)
-einschließlich der außerunterrichtlichen Förderung und Betreuung, die
-Stellung eines Antrags auf Wechsel von einem Träger der Jugendhilfe zu
-öffentlichem Personal sowie die Grundsätze über weitere Kooperationen
-mit anderen Schulen und außerschulischen Partnern,
+12\.
+die Stellung eines Antrags auf Wechsel zu einem Träger der freien
+Jugendhilfe oder auf Wechsel des Trägers der freien Jugendhilfe und,
+sofern der Antrag von der Schulaufsichtsbehörde im Einvernehmen mit der
+zuständigen Schulbehörde genehmigt ist, die konkrete Auswahl des Trägers
+der freien Jugendhilfe im Rahmen der ergänzenden Förderung und Betreuung
+(<a href="#P19A6">§ 19 Absatz 6</a>) einschließlich der außerunterrichtlichen Förderung und
+Betreuung, die Stellung eines Antrags auf Wechsel von einem Träger der
+freien Jugendhilfe zu öffentlichem Personal sowie die Grundsätze über
+weitere Kooperationen mit anderen Schulen und außerschulischen Partnern,
 
-13. die Stellung eines Antrags auf Umwandlung einer Schule in eine
-Schule einer anderen Schulart, auf Einrichtung einer gymnasialen
-Oberstufe im Verbund oder einer Inklusiven Schwerpunktschule,
+13\.
+die Stellung eines Antrags auf Umwandlung einer Schule in eine Schule
+einer anderen Schulart, auf Einrichtung einer gymnasialen Oberstufe im
+Verbund oder einer Inklusiven Schwerpunktschule,
 
-14\. die Erweiterung der Schulanfangsphase um die Jahrgangsstufe 3 (<a href="#P20A1">§ 20 Absatz 1</a>) und
+14\.
+die Erweiterung der Schulanfangsphase um die Jahrgangsstufe 3 (§ 20
+Absatz 1),
 
-15. die Dauer der Schulwoche (§ 53 Abs. 2) und
+15\.
+die Durchführung von Klassenräten gemäß § 84a Satz 2,
 
-16. die Durchführung von Klassenräten im Sinne von § 84a Satz 2 sowie
+16\.
+die Dauer der Schulwoche (<a href="#P53A2">§ 53 Absatz 2</a>) und
 
-17. die Namensgebung für die Schule.
+17\.
+die Namensgebung für die Schule.
+
+In den Fällen von Satz 1 Nummer 16 und 17 entscheidet die Schulkonferenz
+im Einvernehmen mit der zuständigen Schulbehörde.
 
 <abs id="P76A2">(2)</abs> Die Schulkonferenz entscheidet ferner mit einfacher Mehrheit über
 
-1. die Stellung eines Antrags auf Durchführung eines Schulversuchs oder
-auf Einrichtung als Schule besonderer pädagogischer Prägung (§ 18),
-2. den täglichen Unterrichtsbeginn, die Stellung eines Antrags auf
+1\.
+die Stellung eines Antrags auf Durchführung eines Schulversuchs oder auf
+Einrichtung als Schule besonderer pädagogischer Prägung (§ 18),
+
+2\.
+den täglichen Unterrichtsbeginn, die Stellung eines Antrags auf
 Einrichtung als Ganztagsschule einschließlich des gebundenen
-Ganztagsbetriebs (<a href="#P19A1">§ 19 Absatz 1</a>), 3. Grundsätze für die Betätigung von
-Schülergruppen (§ 49 Abs. 2), 4. die Bewertung des Arbeits- und
-Sozialverhaltens (§ 58 Abs. 7), 5. Grundsätze für die Mitarbeit von
-Eltern und anderen Personen im Unterricht und bei sonstigen
-Schulveranstaltungen (§ 68 Abs. 2), 6. eine Stellungnahme für die
-Bestellung der Schulleiterin oder des Schulleiters (§ 72 Absatz 4 Satz
-2), der ständigen Vertreterin oder des ständigen Vertreters der
-Schulleiterin oder des Schulleiters sowie der Abteilungsleiterinnen und
-Abteilungsleiter an Oberstufenzentren (<a href="#P73A1">§ 73 Absatz 1</a>), 7. Grundsätze für
-die Einrichtung von freiwilligem Unterricht, für besondere
-Schulveranstaltungen sowie Vereinbarungen mit Dritten im Rahmen von
-Projekten zur Öffnung der Schule und zur Berufsvorbereitung,
-8. Grundsätze des Schüleraustausches, der internationalen
-Zusammenarbeit, der Schülerfahrten und Wandertage sowie über
-Vereinbarungen zu Schulpartnerschaften und 9. Verhaltensregeln für den
-geordneten Ablauf des äußeren Schulbetriebs (Hausordnung) einschließlich
-der schuleigenen Grundsätze über a) das Warenangebot zum Verkauf in der
-Schule im Rahmen zugelassener gewerblicher Tätigkeit sowie b) die
-Werbung an der Schule sowie Art und Umfang des Sponsoring, 10. die
-Einrichtung von Lernmittelfonds, 11. die Einrichtung einer
-Schulbibliothek gemäß <a href="#P16A2">§ 16 Absatz 2</a>a, 12. den Zeitpunkt der Durchführung
-von Studientagen.
+Ganztagsbetriebs (<a href="#P19A1">§ 19 Absatz 1</a>),
+
+3\.
+Grundsätze für die Betätigung von Schülergruppen (§ 49 Abs. 2),
+
+4\.
+die Bewertung des Arbeits- und Sozialverhaltens (§ 58 Abs. 7),
+
+5\.
+Grundsätze für die Mitarbeit von Eltern und anderen Personen im
+Unterricht und bei sonstigen Schulveranstaltungen (§ 68 Abs. 2),
+
+6\.
+eine Stellungnahme für die Bestellung der Schulleiterin oder des
+Schulleiters (<a href="#P72A4">§ 72 Absatz 4</a> Satz 2), der ständigen Vertreterin oder des
+ständigen Vertreters der Schulleiterin oder des Schulleiters sowie der
+Abteilungsleiterinnen und Abteilungsleiter an Oberstufenzentren (<a href="#P73A1">§ 73 Absatz 1</a>),
+
+7\.
+Grundsätze für die Einrichtung von freiwilligem Unterricht, für
+besondere Schulveranstaltungen sowie Vereinbarungen mit Dritten im
+Rahmen von Projekten zur Öffnung der Schule und zur Berufsvorbereitung,
+
+8\.
+Grundsätze des Schüleraustausches, der internationalen Zusammenarbeit,
+der Schülerfahrten und Wandertage sowie über Vereinbarungen zu
+Schulpartnerschaften und
+
+9\.
+Verhaltensregeln für den geordneten Ablauf des äußeren Schulbetriebs
+(Hausordnung) einschließlich der schuleigenen Grundsätze über
+
+a\)
+das Warenangebot zum Verkauf in der Schule im Rahmen zugelassener
+gewerblicher Tätigkeit sowie
+
+b\)
+die Werbung an der Schule sowie Art und Umfang des Sponsoring,
+
+10\.
+
+die Einrichtung von Lernmittelfonds,
+
+11\.
+
+die Einrichtung einer Schulbibliothek gemäß <a href="#P16A2">§ 16 Absatz 2</a>a,
+
+12\.
+
+den Zeitpunkt der Durchführung von Studientagen.
 
 <abs id="P76A3">(3)</abs> Die Schulkonferenz ist anzuhören
 
-1. vor Anträgen der Schulleiterin oder des Schulleiters nach § 7 Abs. 3
-Satz 4, 2. bei Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 4 und 5,
-3. vor Entscheidungen über Änderungen der Schulorganisation,
-insbesondere Erweiterung, Teilung, Zusammenlegung und Schließung der
-Schule, über die vorzeitige Beendigung eines Schulversuchs an der Schule
-sowie vor Entscheidungen über die Einrichtung und Ausgestaltung von
+1\.
+vor Anträgen der Schulleiterin oder des Schulleiters nach § 7 Abs. 3
+Satz 4,
+
+2\.
+bei Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 4 und 5,
+
+3\.
+vor Entscheidungen über Änderungen der Schulorganisation, insbesondere
+Erweiterung, Teilung, Zusammenlegung und Schließung der Schule, über die
+vorzeitige Beendigung eines Schulversuchs an der Schule sowie vor
+Entscheidungen über die Einrichtung und Ausgestaltung von
 Ganztagsangeboten oder die Einrichtung eines Schulversuchs, sofern die
-Einrichtung nicht von der Schule beantragt worden ist, 4. vor
-Entscheidungen über größere bauliche Maßnahmen an der Schule, 5. vor der
-Einrichtung von neuen Bildungsgängen, Fachrichtungen und Schwerpunkten
-in beruflichen Schulen, 6. vor wichtigen die Schule betreffenden
-Entscheidungen der zuständigen Schulbehörde über
-Schulentwicklungsplanung und Schulwegsicherung sowie vor Bildung und
-Änderung von Schuleinzugsbereichen an Grundschulen sowie 7. vor dem
-Abschluss eines Schulvertrages gemäß § 9 sowie 8. vor der Auswahl des
-Essensanbieters für das Mittagessen an der Schule.
+Einrichtung nicht von der Schule beantragt worden ist,
+
+4\.
+vor Entscheidungen über größere bauliche Maßnahmen an der Schule,
+
+5\.
+vor der Einrichtung von neuen Bildungsgängen, Fachrichtungen und
+Schwerpunkten in beruflichen Schulen,
+
+6\.
+vor wichtigen die Schule betreffenden Entscheidungen der zuständigen
+Schulbehörde über Schulentwicklungsplanung und Schulwegsicherung sowie
+vor Bildung und Änderung von Einschulungsbereichen an Grundschulen sowie
+
+7\.
+vor dem Abschluss eines Schulvertrages gemäß § 9.
 
 Der Schulkonferenz kann eine Frist von vier Unterrichtswochen zur
 Stellungnahme gesetzt werden.
-
-Weicht die zuständige Schulbehörde in den Fällen des Satzes 1 Nummer 8
-bei der Auswahl des Essensanbieters von der Stellungnahme der
-Schulkonferenz ab, so hat sie dies gegenüber der Schulkonferenz zu
-begründen.
 
 # <par id="P77">§ 77</par> Mitglieder
 
 <abs id="P77A1">(1)</abs> Stimmberechtigte Mitglieder der Schulkonferenz sind
 
-1\. die Schulleiterin oder der Schulleiter, 2. vier von der
-Gesamtkonferenz gewählte Vertreterinnen und Vertreter, wobei mindestens
-eine dieser Personen dem sonstigen pädagogischen Personal aus der
-ergänzenden Förderung und Betreuung oder der schulbezogenen
-Jugendsozialarbeit angehören soll, 3. vier von der
-Gesamtschülervertretung, an Grundschulen von den Sprecherinnen und
-Sprechern der Schülerinnen und Schüler gewählte Schülerinnen oder
-Schüler, 4. vier von der Gesamtelternvertretung gewählte
-Erziehungsberechtigte und 5. eine von den Mitgliedern nach den Nummer 1
-bis 4 vorgeschlagene und gewählte, der Schule nicht angehörende Person,
-die die Schule in der Wahrnehmung ihrer pädagogischen Aufgaben
-unterstützen soll.
+1\.
+die Schulleiterin oder der Schulleiter,
+
+2\.
+vier von der Gesamtkonferenz gewählte Vertreterinnen und Vertreter,
+wobei mindestens eine dieser Personen dem sonstigen pädagogischen
+Personal aus der ergänzenden Förderung und Betreuung oder der
+schulbezogenen Jugendsozialarbeit angehören soll,
+
+3\.
+vier von der Gesamtschülervertretung, an Grundschulen von den
+Sprecherinnen und Sprechern der Schülerinnen und Schüler gewählte
+Schülerinnen oder Schüler,
+
+4\.
+vier von der Gesamtelternvertretung gewählte Erziehungsberechtigte und
+
+5\.
+eine von den Mitgliedern nach den Nummer 1 bis 4 vorgeschlagene und
+gewählte, der Schule nicht angehörende Person, die die Schule in der
+Wahrnehmung ihrer pädagogischen Aufgaben unterstützen soll.
 
 Der Schulkonferenz soll eine Vertreterin oder ein Vertreter der
 nichtpädagogischen Mitarbeiterinnen und Mitarbeiter mit beratender
@@ -5026,12 +5986,26 @@ Arbeitnehmer; Absatz 2 Satz 2 gilt entsprechend.
 <abs id="P77A2">(2)</abs> Abweichend von Absatz 1 sind stimmberechtigte Mitglieder der
 Schulkonferenz an Oberstufenzentren
 
-1\. die Schulleiterin oder der Schulleiter, 2. die Abteilungsleiterinnen
-und Abteilungsleiter, 3. je eine Vertreterin oder ein Vertreter der
-Abteilungskonferenz der Lehrkräfte, 4. je eine Vertreterin oder ein
-Vertreter der Schülerinnen und Schüler der Abteilung, 5. je eine
-Vertreterin oder ein Vertreter der Abteilungselternvertretung und 6. je
-eine Vertreterin oder ein Vertreter der Arbeitgeber und der
+1\.
+die Schulleiterin oder der Schulleiter,
+
+2\.
+die Abteilungsleiterinnen und Abteilungsleiter,
+
+3\.
+je eine Vertreterin oder ein Vertreter der Abteilungskonferenz der
+Lehrkräfte,
+
+4\.
+je eine Vertreterin oder ein Vertreter der Schülerinnen und Schüler der
+Abteilung,
+
+5\.
+je eine Vertreterin oder ein Vertreter der Abteilungselternvertretung
+und
+
+6\.
+je eine Vertreterin oder ein Vertreter der Arbeitgeber und der
 Arbeitnehmer.
 
 Die Mitglieder nach Satz 1 Nummer 6 werden von den jeweils zuständigen
@@ -5080,10 +6054,16 @@ Mittagessensausschuss.
 
 Der Ausschuss dient insbesondere
 
-1\. der Unterstützung der Schulkonferenz bei der Stellungnahme zu der
-Auswahl des Essensanbieters, 2. der Qualitätssicherung und
-Qualitätskontrolle des Mittagessens, 3. dem Informationsaustausch mit
-der für die Kontrolle des Mittagessens zuständigen Stelle im Bezirk.
+1\.
+der Unterstützung der zuständigen Schulbehörde bei der Vorbereitung und
+Durchführung des Verfahrens zur Vergabe des Mittagessens,
+
+2\.
+der Qualitätssicherung und Qualitätskontrolle des Mittagessens,
+
+3\.
+dem Informationsaustausch mit der für die Kontrolle der Qualität des
+Mittagessens zuständigen Stelle im Bezirk.
 
 Über die Zahl der Mitglieder und die Zusammensetzung der Ausschüsse
 entscheidet die Schulkonferenz; dabei soll jede in der Schulkonferenz
@@ -5092,7 +6072,8 @@ vertretene Gruppe angemessen vertreten sein.
 Dem Mittagessensausschuss soll eine Vertreterin oder ein Vertreter der
 pädagogischen Mitarbeiterinnen und Mitarbeiter der Schule oder von
 Trägern der freien Jugendhilfe, die in Kooperation mit der Schule
-Leistungen der ergänzenden Förderung und Betreuung im Sinne von <a href="#P19A6">§ 19 Absatz 6</a> erbringen, angehören.
+Leistungen der außerunterrichtlichen oder ergänzenden Förderung und
+Betreuung erbringen, angehören.
 
 Der Essensanbieter der Schule soll auf Wunsch des
 Mittagessensausschusses als Gast an den Sitzungen teilnehmen.
@@ -5105,36 +6086,52 @@ Aufgaben.
 
 Er befasst sich insbesondere mit
 
-1\. der Koordinierung der schulischen und der betrieblichen Ausbildung,
-2. der weiteren Entwicklung der Ausbildung an der Schule, 3. dem Ausbau
-der Fachräume und der Lehrmittelsammlung, 4. Meinungsverschiedenheiten
-von allgemeiner Bedeutung zwischen Schule und Betrieb, 5. Fragen der
-fachpraktischen Ausbildung in den Bildungsgängen des Oberstufenzentrums.
+1\.
+der Koordinierung der schulischen und der betrieblichen Ausbildung,
+
+2\.
+der weiteren Entwicklung der Ausbildung an der Schule,
+
+3\.
+dem Ausbau der Fachräume und der Lehrmittelsammlung,
+
+4\.
+Meinungsverschiedenheiten von allgemeiner Bedeutung zwischen Schule und
+Betrieb,
+
+5\.
+Fragen der fachpraktischen Ausbildung in den Bildungsgängen des
+Oberstufenzentrums.
 
 <abs id="P78A4">(4)</abs> Dem Fachausschuss gehören an:
 
-1\. die Schulleiterin oder der Schulleiter, 2. zwei Vertreterinnen oder
-Vertreter der Lehrkräfte in der Schulkonferenz, 3. die Vertreterin oder
-der Vertreter der Arbeitgeber und der Arbeitnehmer in der Schulkonferenz
-und 4. je zwei bis fünf weitere Vertreterinnen oder Vertreter der
-Arbeitgeber und der Arbeitnehmer.
+1\.
+die Schulleiterin oder der Schulleiter,
+
+2\.
+zwei Vertreterinnen oder Vertreter der Lehrkräfte in der Schulkonferenz,
+
+3\.
+die Vertreterin oder der Vertreter der Arbeitgeber und der Arbeitnehmer
+in der Schulkonferenz und
+
+4\.
+je zwei bis fünf weitere Vertreterinnen oder Vertreter der Arbeitgeber
+und der Arbeitnehmer.
 
 Die Anzahl der Mitglieder nach Satz 1 Nr. 4 soll so bemessen sein, dass
 die an der Schule überwiegend vertretenen Berufssparten berücksichtigt
 werden.
 
-§ 77 Abs. 2 Satz 2 gilt entsprechend; die Benennung erfolgt für vier
+# <par id="P77">§ 77</par> Abs. 2 Satz 2 gilt entsprechend; die Benennung erfolgt für vier
 Jahre.
 
 Die oder der Vorsitzende wird jeweils für zwei Jahre abwechselnd aus dem
 Kreis der Vertreterinnen und Vertreter der Arbeitgeber und der
 Arbeitnehmer gewählt.
 
-
-
-## Abschnitt III - Konferenzen der Lehrkräfte und pädagogischen Mitarbeiterinnen und Mitarbeiter
-
-
+Abschnitt III Konferenzen der Lehrkräfte und pädagogischen
+Mitarbeiterinnen und Mitarbeiter
 
 # <par id="P79">§ 79</par> Gesamtkonferenz
 
@@ -5148,21 +6145,29 @@ Sie berät und beschließt über alle wichtigen Angelegenheiten der Schule,
 insbesondere über die pädagogische und fachliche Gestaltung der
 Bildungs- und Erziehungsarbeit sowie die kontinuierliche Entwicklung und
 Sicherung der schulischen Qualität, soweit nicht die Schulkonferenz nach
-§ 76 Abs. 1 und 2 entscheidet.
+# <par id="P76">§ 76</par> Abs. 1 und 2 entscheidet.
 
-<abs id="P79A2">(2)</abs> Die Gesamtkonferenz fördert die Zusammenarbeit der Lehrkräfte und
+<abs id="P76A2">(2)</abs> Die Gesamtkonferenz fördert die Zusammenarbeit der Lehrkräfte und
 pädagogischen Mitarbeiterinnen und Mitarbeiter sowie die pädagogische
 und fachliche Kooperation mit anderen, insbesondere den benachbarten
 Schulen.
 
 Sie wählt aus ihrer Mitte
 
-1\. ihre Vertreterinnen und Vertreter für die Schulkonferenz, 2. zwei
-Mitglieder für den Bezirksausschuss des pädagogischen Personals oder den
-Lehrkräfteausschuss Berufliche Schulen, 3. bis zu vier Mitglieder in die
-erweiterte Schulleitung (§ 74 Abs. 3 Nr. 3) und 4. je zwei
-Vertreterinnen oder Vertreter für die Gesamtschülervertretung und die
-Gesamtelternvertretung.
+1\.
+ihre Vertreterinnen und Vertreter für die Schulkonferenz,
+
+2\.
+zwei Mitglieder für den Bezirksausschuss des pädagogischen Personals
+oder den Lehrkräfteausschuss Berufliche Schulen,
+
+3\.
+bis zu vier Mitglieder in die erweiterte Schulleitung (§ 74 Abs. 3
+Nr. 3) und
+
+4\.
+je zwei Vertreterinnen oder Vertreter für die Gesamtschülervertretung
+und die Gesamtelternvertretung.
 
 Die Gesamtkonferenz tritt mindestens dreimal im Jahr auf Einladung der
 Schulleiterin oder des Schulleiters zusammen.
@@ -5171,37 +6176,65 @@ An Schulen, an denen nach <a href="#P80A2">§ 80 Absatz 2</a> Abteilungskonferen
 werden, tritt die Gesamtkonferenz mindestens zweimal im Jahr auf
 Einladung der Schulleiterin oder des Schulleiters zusammen.
 
-<abs id="P79A3">(3)</abs> Die Gesamtkonferenz entscheidet im Rahmen der Rechts- und
+<abs id="P76A3">(3)</abs> Die Gesamtkonferenz entscheidet im Rahmen der Rechts- und
 Verwaltungsvorschriften mit der Mehrheit von zwei Dritteln ihrer
 stimmberechtigten Mitglieder über die Einrichtung einer erweiterten
 Schulleitung (§ 74 Abs. 1) und mit einfacher Mehrheit insbesondere über
 
-1\. Vorschläge für das Schulprogramm sowie die fachliche und
-pädagogische Entwicklung und innere Organisation der Schule, 2. die
-Organisation des Dualen Lernens, 3. Grundsätze für die Koordinierung und
-Auswertung der Unterrichtsgestaltung, der Unterrichtsmethoden sowie für
-die Lernerfolgskontrollen und anderen pädagogischen Beurteilungen, 4.
+1\.
+Vorschläge für das Schulprogramm sowie die fachliche und pädagogische
+Entwicklung und innere Organisation der Schule,
+
+2\.
+die Organisation des Dualen Lernens,
+
+3\.
+Grundsätze für die Koordinierung und Auswertung der
+Unterrichtsgestaltung, der Unterrichtsmethoden sowie für die
+Lernerfolgskontrollen und anderen pädagogischen Beurteilungen,
+
+4\.
 Grundsätze für Art, Umfang und Verteilung der Klassenarbeiten
 einschließlich der Anerkennung von Schulleistungstests (§ 58 Abs. 6) als
-Klassenarbeiten, 5. die Qualitätsstandards von verbindlichen
-grundsätzlichen Unterrichtsinhalten im Rahmen der schulischen
-Selbstgestaltungsmöglichkeiten sowie die Instrumente zur Evaluation und
-Sicherung der Qualität ihrer fachlichen und pädagogischen Arbeit, 6.
-Grundsätze der Erziehungsarbeit einschließlich von Maßnahmen bei
-Erziehungskonflikten, 7. die Zusammenarbeit mit anderen Schulen zur
-Erweiterung des Kursangebots in der gymnasialen Oberstufe, 8. Grundsätze
-für die Einführung von Schulbüchern und anderen Unterrichtsmedien sowie
-die Auswahl von Lern- und Lehrmitteln, 9. Grundsätze der Verteilung der
-Lehrerstunden aus dem Gesamtstundenpool, des Einsatzes der Lehrkräfte
-und der sonstigen pädagogischen Mitarbeiterinnen und Mitarbeiter in
-Unterricht, Betreuung, Aufsicht und Vertretung, der Verteilung
-besonderer dienstlicher Aufgaben sowie besondere Formen der
-Arbeitszeitregelung, 10. Grundsätze der Fort- und Weiterbildung der
-Lehrkräfte und des sonstigen pädagogischen Personals an der Schule, 11.
-Vorschläge zur Verwendung der der Schule zur Verfügung stehenden
-Haushaltsmittel, 12. Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 3.
+Klassenarbeiten,
 
-<abs id="P79A4">(4)</abs> Die Gesamtkonferenz kann Ausschüsse bilden und ihnen Aufgaben zur
+5\.
+die Qualitätsstandards von verbindlichen grundsätzlichen
+Unterrichtsinhalten im Rahmen der schulischen
+Selbstgestaltungsmöglichkeiten sowie die Instrumente zur Evaluation und
+Sicherung der Qualität ihrer fachlichen und pädagogischen Arbeit,
+
+6\.
+Grundsätze der Erziehungsarbeit einschließlich von Maßnahmen bei
+Erziehungskonflikten,
+
+7\.
+die Zusammenarbeit mit anderen Schulen zur Erweiterung des Kursangebots
+in der gymnasialen Oberstufe,
+
+8\.
+Grundsätze für die Einführung von Schulbüchern und anderen
+Unterrichtsmedien sowie die Auswahl von Lern- und Lehrmitteln,
+
+9\.
+Grundsätze der Verteilung der Lehrerstunden aus dem Gesamtstundenpool,
+des Einsatzes der Lehrkräfte und der sonstigen pädagogischen
+Mitarbeiterinnen und Mitarbeiter in Unterricht, Betreuung, Aufsicht und
+Vertretung, der Verteilung besonderer dienstlicher Aufgaben sowie
+besondere Formen der Arbeitszeitregelung,
+
+10\.
+Grundsätze der Fort- und Weiterbildung der Lehrkräfte und des sonstigen
+pädagogischen Personals an der Schule,
+
+11\.
+Vorschläge zur Verwendung der der Schule zur Verfügung stehenden
+Haushaltsmittel,
+
+12\.
+Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 3.
+
+<abs id="P76A4">(4)</abs> Die Gesamtkonferenz kann Ausschüsse bilden und ihnen Aufgaben zur
 Beratung und Entscheidung übertragen.
 
 Die Ausschüsse wählen eine Vorsitzende oder einen Vorsitzenden.
@@ -5218,13 +6251,23 @@ Die Fachkonferenzen entscheiden im Rahmen der Beschlüsse der
 Gesamtkonferenz über die Angelegenheiten, die den jeweiligen fachlichen
 Bereich betreffen, insbesondere über
 
-1\. die Umsetzung der Rahmenlehrpläne für Unterricht und Erziehung, 2.
+1\.
+die Umsetzung der Rahmenlehrpläne für Unterricht und Erziehung,
+
+2\.
 die fachbezogenen Regelungen für den fachübergreifenden und
-fächerverbindenden Unterricht, 3. die Auswahl der Lern- und Lehrmittel,
-4. die Koordinierung und Kursangebote für das betreffende Fach, den
-betreffenden Lernbereich oder den betreffenden Fachbereich, 5. den
-zeitweise getrennten Unterricht für Schülerinnen und Schüler (§ 4 Abs.
-9).
+fächerverbindenden Unterricht,
+
+3\.
+die Auswahl der Lern- und Lehrmittel,
+
+4\.
+die Koordinierung und Kursangebote für das betreffende Fach, den
+betreffenden Lernbereich oder den betreffenden Fachbereich,
+
+5\.
+den zeitweise getrennten Unterricht für Schülerinnen und Schüler (§ 4
+Abs. 9).
 
 In den Fachkonferenzen wird regelmäßig über die wissenschaftliche
 Weiterentwicklung des Faches, des Lernbereichs oder des Fachbereichs
@@ -5262,22 +6305,43 @@ Erziehungsarbeit in der Klasse.
 
 Sie entscheidet insbesondere über
 
-1\. die Versetzung, Zeugnisse und Abschlüsse sowie das Arbeits- und
-Sozialverhalten, 2. die Förderprognose (<a href="#P56A2">§ 56 Absatz 2</a>), 3. Umfang und
-Verteilung der Hausaufgaben und der Lernerfolgskontrolle, 4. die
-Zusammenarbeit der Lehrkräfte, 5. die Koordinierung fachübergreifender
-und fächerverbindender Unterrichtsveranstaltungen, 6. die Einzelheiten
-der Mitarbeit von Erziehungsberechtigten und anderen Personen im
-Unterricht und bei sonstigen Schulveranstaltungen, 7. Fragen der
-Zusammenarbeit mit den Erziehungsberechtigten und den Schülerinnen und
-Schülern, 8. Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 1 und 2.
+1\.
+die Versetzung, Zeugnisse und Abschlüsse sowie das Arbeits- und
+Sozialverhalten,
+
+2\.
+die Förderprognose (§ 56 Absatz 2),
+
+3\.
+Umfang und Verteilung der Hausaufgaben und der Lernerfolgskontrolle,
+
+4\.
+die Zusammenarbeit der Lehrkräfte,
+
+5\.
+die Koordinierung fachübergreifender und fächerverbindender
+Unterrichtsveranstaltungen,
+
+6\.
+die Einzelheiten der Mitarbeit von Erziehungsberechtigten und anderen
+Personen im Unterricht und bei sonstigen Schulveranstaltungen,
+
+7\.
+Fragen der Zusammenarbeit mit den Erziehungsberechtigten und den
+Schülerinnen und Schülern,
+
+8\.
+Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 1 und 2,
+
+9\.
+Anträge nach <a href="#P43bA1">§ 43b Absatz 1</a> Satz 2.
 
 <abs id="P81A2">(2)</abs> Soweit die Schule insgesamt oder in Teilen nicht in Klassen
 gegliedert ist, werden die Aufgaben der Klassenkonferenz durch die
 Jahrgangskonferenz oder die Semesterkonferenz, die jeweils Ausschüsse
 bilden können, mit der Maßgabe wahrgenommen, dass die Schulleiterin oder
 der Schulleiter den Vorsitz führt und die Entscheidungen der
-Jahrgangskonferenz nach Absatz 1 Satz 3 Nr. 1, 2 und 8 die Lehrkräfte
+Jahrgangskonferenz nach Absatz 1 Satz 3 Nr. 1, 2, 8 und 9 die Lehrkräfte
 und pädagogischen Mitarbeiterinnen und Mitarbeiter treffen, die die
 betreffende Schülerin oder den betreffenden Schüler zuletzt regelmäßig
 unterrichtet haben.
@@ -5294,18 +6358,23 @@ entsprechend.
 <abs id="P82A1">(1)</abs> Stimmberechtigte und zur Teilnahme verpflichtete Mitglieder der
 Gesamtkonferenz sind
 
-1\. die Schulleiterin oder der Schulleiter als Vorsitzende oder
+1\.
+die Schulleiterin oder der Schulleiter als Vorsitzende oder
 Vorsitzender,
 
-2\. die Lehrkräfte, die mindestens sechs Wochenstunden selbständig
+2\.
+die Lehrkräfte, die mindestens sechs Wochenstunden selbständig
 Unterricht erteilen,
 
-3\. die pädagogischen Mitarbeiterinnen und Mitarbeiter der Schule und
-von Trägern der Jugendhilfe, die in Kooperation mit der Schule
-Leistungen der ergänzenden Förderung und Betreuung im Sinne von <a href="#P19A6">§ 19 Absatz 6</a> Satz 6 sowie Leistungen der schulbezogenen Jugendsozialarbeit
-im Sinne von § 5b erbringen, sowie
+3\.
+die pädagogischen Mitarbeiterinnen und Mitarbeiter der Schule und von
+Trägern der Jugendhilfe, die in Kooperation mit der Schule Leistungen
+der ergänzenden Förderung und Betreuung im Sinne von <a href="#P19A6">§ 19 Absatz 6</a> Satz
+7 sowie Leistungen der schulbezogenen Jugendsozialarbeit im Sinne von §
+5b erbringen, sowie
 
-4\. die der Schule zur Ausbildung zugewiesenen Personen im
+4\.
+die der Schule zur Ausbildung zugewiesenen Personen im
 Vorbereitungsdienst nach dem Lehrkräftebildungsgesetz mit mindestes
 sechs Wochenstunden selbständigem Unterricht, sofern nicht
 Ausbildungsverpflichtungen entgegenstehen.
@@ -5313,16 +6382,20 @@ Ausbildungsverpflichtungen entgegenstehen.
 <abs id="P82A2">(2)</abs> An den Sitzungen der Gesamtkonferenz und ihrer Ausschüsse nehmen
 mit beratender Stimme teil
 
-1\. die Lehrkräfte und die im Vorbereitungsdienst nach dem
+1\.
+die Lehrkräfte und die im Vorbereitungsdienst nach dem
 Lehrkräftebildungsgesetz stehenden Personen, die weniger als sechs
 Wochenstunden selbständig Unterricht erteilen,
 
-2\. die gemäß § 13 Abs. 2 mit der Erteilung von Religions- und
+2\.
+die gemäß § 13 Abs. 2 mit der Erteilung von Religions- und
 Weltanschauungsunterricht betrauten Personen,
 
-3\. zwei Vertreterinnen oder Vertreter der Gesamtschülervertretung und
+3\.
+zwei Vertreterinnen oder Vertreter der Gesamtschülervertretung und
 
-4\. zwei Vertreterinnen oder Vertreter der Gesamtelternvertretung.
+4\.
+zwei Vertreterinnen oder Vertreter der Gesamtelternvertretung.
 
 An beruflichen Schulen nehmen beratend zusätzlich je zwei Vertreterinnen
 oder Vertreter der Arbeitgeber und der Arbeitnehmer teil, die gemäß § 77
@@ -5334,11 +6407,16 @@ hinzuziehen.
 <abs id="P82A3">(3)</abs> Stimmberechtigte und zur Teilnahme verpflichtete Mitglieder der
 Fachkonferenzen sind
 
-1\. die Fachbereichsleiterin oder der Fachbereichsleiter oder die
-Fachleiterin oder der Fachleiter als Vorsitzende oder Vorsitzender, 2.
+1\.
+die Fachbereichsleiterin oder der Fachbereichsleiter oder die
+Fachleiterin oder der Fachleiter als Vorsitzende oder Vorsitzender,
+
+2\.
 die Lehrkräfte, die eine Lehrbefähigung für das betreffende Fach oder
 die betreffende Fachrichtung besitzen oder darin unterrichten, sowie die
-sonstigen pädagogischen Mitarbeiterinnen und Mitarbeiter des Faches, 3.
+sonstigen pädagogischen Mitarbeiterinnen und Mitarbeiter des Faches,
+
+3\.
 die in dem jeweiligen Teilbereich selbständig Unterricht erteilenden
 Personen im Vorbereitungsdienst nach dem Lehrkräftebildungsgesetz,
 sofern nicht Ausbildungsverpflichtungen entgegenstehen.
@@ -5362,38 +6440,42 @@ entscheidet, an welcher Fachkonferenz die Lehrkraft teilnimmt.
 <abs id="P82A4">(4)</abs> Stimmberechtigte und zur Teilnahme verpflichtete Mitglieder der
 Klassenkonferenz sind
 
-1\. die Klassenlehrerin oder der Klassenlehrer als Vorsitzende oder
-Vorsitzender, 2. die Lehrkräfte, die regelmäßig in der Klasse
-unterrichten, 3. die pädagogischen Mitarbeiterinnen und Mitarbeiter, die
-regelmäßig in der Klasse tätig sind, und 4. je zwei Vertreterinnen oder
-Vertreter der Schülerinnen und Schüler der Klasse sowie der
-Erziehungsberechtigten.
+1\.
+die Klassenlehrerin oder der Klassenlehrer als Vorsitzende oder
+Vorsitzender,
+
+2\.
+die Lehrkräfte, die regelmäßig in der Klasse unterrichten,
+
+3\.
+die pädagogischen Mitarbeiterinnen und Mitarbeiter, die regelmäßig in
+der Klasse tätig sind, und
+
+4\.
+je zwei Vertreterinnen oder Vertreter der Schülerinnen und Schüler der
+Klasse sowie der Erziehungsberechtigten.
 
 Die in der Klasse mit der Erteilung von Religions- und
 Weltanschauungsunterricht betrauten Personen können an den Sitzungen der
 Klassenkonferenz mit beratender Stimme teilnehmen.
 
 <abs id="P82A5">(5)</abs> Die Klassenkonferenz berät und beschließt in den Fällen des § 81
-Abs. 1 Satz 3 Nr. 1, 2 und 8 unter Vorsitz der Schulleiterin oder des
+Abs. 1 Satz 3 Nr. 1, 2, 8 und 9 unter Vorsitz der Schulleiterin oder des
 Schulleiters; sie oder er kann den Vorsitz im Einzelfall auf eine andere
 Funktionsstelleninhaberin oder einen anderen Funktionsstelleninhaber
 nach § 73 oder die Klassenlehrerin oder den Klassenlehrer übertragen.
 
 Die Vertreterinnen und Vertreter der Schülerinnen und Schüler sowie der
 Erziehungsberechtigten nehmen an den Beratungen und Entscheidungen nach
-§ 81 Abs. 1 Satz 3 Nr. 1 und 2 nicht teil; an der Beratung und der
-Beschlussfassung über Ordnungsmaßnahmen nach § 81 Abs. 1 Satz 3 Nr. 8
-nehmen sie nur teil, wenn die betroffene Schülerin oder der betroffene
-Schüler und ihre oder seine Erziehungsberechtigten dies wünschen.
+# <par id="P81">§ 81</par> Abs. 1 Satz 3 Nr. 1 und 2 nicht teil; an den Beratungen und
+Entscheidungen nach § 81 Abs. 1 Satz 3 Nr. 8 und 9 nehmen sie nur teil,
+wenn die betroffene Schülerin oder der betroffene Schüler und ihre oder
+seine Erziehungsberechtigten dies wünschen.
 
 In den in Satz 1 genannten Fällen dürfen sich die stimmberechtigten
 Mitglieder nicht ihrer Stimme enthalten.
 
-
-
-## Abschnitt IV - Mitwirkung der Schülerinnen und Schüler in der Schule
-
-
+Abschnitt IV Mitwirkung der Schülerinnen und Schüler in der Schule
 
 # <par id="P83">§ 83</par> Aufgaben der Schülervertretung
 
@@ -5508,13 +6590,20 @@ Stellvertreterinnen oder Stellvertreter.
 
 <abs id="P85A4">(4)</abs> Die Gesamtschülervertretung wählt aus ihrer Mitte
 
-1\. vier Mitglieder der Schulkonferenz, 2. zwei Mitglieder des
-Bezirksschülerausschusses, 3. je zwei beratende Mitglieder der
-Gesamtkonferenz und der Fachkonferenzen sowie der Gesamtelternvertretung
-und 4. je ein beratendes Mitglied weiterer Teilkonferenzen der
-Lehrkräfte und der Erziehungsberechtigten an der Schule, sofern nicht
-entsprechende Teilkonferenzen der Schülerinnen und Schüler gebildet
-wurden.
+1\.
+vier Mitglieder der Schulkonferenz,
+
+2\.
+zwei Mitglieder des Bezirksschülerausschusses,
+
+3\.
+je zwei beratende Mitglieder der Gesamtkonferenz und der Fachkonferenzen
+sowie der Gesamtelternvertretung und
+
+4\.
+je ein beratendes Mitglied weiterer Teilkonferenzen der Lehrkräfte und
+der Erziehungsberechtigten an der Schule, sofern nicht entsprechende
+Teilkonferenzen der Schülerinnen und Schüler gebildet wurden.
 
 <abs id="P85A5">(5)</abs> Die Schulsprecherin oder der Schulsprecher kann die
 Gesamtschülervertretung während der Unterrichtszeit bis zu zweimal im
@@ -5570,8 +6659,6 @@ Sie können zu diesem Zweck auch Schülerinnen und Schüler der Schule mit
 beratender Stimme hinzuziehen, die nicht Mitglied der
 Gesamtschülervertretung oder der Teilschülervertretung sind.
 
-
-
 # <par id="P86">§ 86</par> Mitwirkung an Oberstufenzentren und beruflichen Schulen
 
 <abs id="P86A1">(1)</abs> An Oberstufenzentren wird für jede Abteilung eine
@@ -5595,11 +6682,17 @@ bilden die Gesamtschülervertretung des Oberstufenzentrums.
 
 Die Gesamtschülervertretung wählt aus ihrer Mitte
 
-1\. eine Schulsprecherin oder einen Schulsprecher und bis zu drei
-Stellvertreterinnen oder Stellvertreter, 2. für jede Abteilung eine
-Vertreterin oder einen Vertreter für die Schulkonferenz und 3. eine
-Vertreterin oder einen Vertreter für den Schülerausschuss Berufliche
-Schulen.
+1\.
+eine Schulsprecherin oder einen Schulsprecher und bis zu drei
+Stellvertreterinnen oder Stellvertreter,
+
+2\.
+für jede Abteilung eine Vertreterin oder einen Vertreter für die
+Schulkonferenz und
+
+3\.
+eine Vertreterin oder einen Vertreter für den Schülerausschuss
+Berufliche Schulen.
 
 <abs id="P86A3">(3)</abs> An Oberstufenzentren treten an die Stelle von Schülerversammlungen
 Versammlungen der Schülerinnen und Schüler einer Abteilung
@@ -5641,17 +6734,13 @@ anderer beruflicher Schulen, so sind die Studierendensprecherinnen oder
 Studierendensprecher der Semestergruppen Mitglieder der
 Abteilungsschülervertretung.
 
-<a href="#P86A1">§ 86 Absatz 1</a> Satz 4 gilt mit der Maßgabe, dass die
+# <par id="P86">§ 86</par> Absatz 1 Satz 4 gilt mit der Maßgabe, dass die
 Abteilungsschülervertretung eine Studierendensprecherin oder einen
 Studierendensprecher und eine Schülersprecherin oder einen
 Schülersprecher als Vertreterin oder Vertreter wählt, die an den
 Sitzungen der Abteilungskonferenz mit beratender Stimme teilnehmen.
 
-
-
-## Abschnitt V - Mitwirkung der Erziehungsberechtigten in der Schule
-
-
+Abschnitt V Mitwirkung der Erziehungsberechtigten in der Schule
 
 # <par id="P88">§ 88</par> Aufgaben der Elternvertretung
 
@@ -5696,7 +6785,8 @@ wahrnehmen, denen die Erziehung des Kindes mit Einverständnis der
 Sorgeberechtigten anvertraut oder mit anvertraut ist; das Einverständnis
 ist der Schule auf Verlangen schriftlich nachzuweisen.
 
-# <par id="P89">§ 89</par> Elternversammlungen, Sprecherinnen und Sprecher der Erziehungsberechtigten
+# <par id="P89">§ 89</par> Elternversammlungen, Sprecherinnen und Sprecher der
+Erziehungsberechtigten
 
 <abs id="P89A1">(1)</abs> Die Erziehungsberechtigten der Schülerinnen und Schüler jeder
 Klasse, die zu Beginn des Schuljahres in der Mehrzahl minderjährige
@@ -5726,9 +6816,12 @@ werden.
 <abs id="P89A3">(3)</abs> Die Elternversammlung wählt spätestens einen Monat nach Beginn des
 Unterrichts im neuen Schuljahr aus ihrer Mitte
 
-1\. zwei gleichberechtigte Klassenelternsprecherinnen oder
-Klassenelternsprecher und 2. zwei Vertreterinnen oder Vertreter für die
-Klassenkonferenz.
+1\.
+zwei gleichberechtigte Klassenelternsprecherinnen oder
+Klassenelternsprecher und
+
+2\.
+zwei Vertreterinnen oder Vertreter für die Klassenkonferenz.
 
 Bei neu gebildeten Klassen lädt die Klassenlehrerin oder der
 Klassenlehrer zu dieser Sitzung ein.
@@ -5770,14 +6863,24 @@ minderjährigen Schülerinnen und Schüler der Schule
 <abs id="P90A2">(2)</abs> Die Gesamtelternvertretung wählt aus der Mitte ihrer
 stimmberechtigten Mitglieder
 
-1\. eine Elternsprecherin oder einen Elternsprecher der Schule und bis
-zu drei Stellvertreterinnen und Stellvertreter, 2. vier Mitglieder der
-Schulkonferenz, 3. zwei Mitglieder des Bezirkselternausschusses, 4. je
-zwei beratende Mitglieder der Gesamtkonferenz und der Fachkonferenzen
-sowie der Gesamtschülervertretung und 5. je ein beratendes Mitglied
-weiterer Teilkonferenzen der Lehrkräfte und der Schülerinnen und Schüler
-an der Schule, sofern nicht entsprechende Teilelternkonferenzen gebildet
-wurden.
+1\.
+eine Elternsprecherin oder einen Elternsprecher der Schule und bis zu
+drei Stellvertreterinnen und Stellvertreter,
+
+2\.
+vier Mitglieder der Schulkonferenz,
+
+3\.
+zwei Mitglieder des Bezirkselternausschusses,
+
+4\.
+je zwei beratende Mitglieder der Gesamtkonferenz und der Fachkonferenzen
+sowie der Gesamtschülervertretung und
+
+5\.
+je ein beratendes Mitglied weiterer Teilkonferenzen der Lehrkräfte und
+der Schülerinnen und Schüler an der Schule, sofern nicht entsprechende
+Teilelternkonferenzen gebildet wurden.
 
 <abs id="P90A3">(3)</abs> Die Elternsprecherin oder der Elternsprecher der Schule lädt die
 Gesamtelternvertretung mindestens dreimal im Schuljahr ein; einem Antrag
@@ -5842,13 +6945,10 @@ Die Sprecherinnen und Sprecher aller Abteilungselternvertretungen wählen
 aus ihrer Mitte zwei Mitglieder für den Elternausschuss Berufliche
 Schulen, die verschiedenen Abteilungen angehören sollen.
 
+Abschnitt VI Ergänzende Vorschriften
 
-
-## Abschnitt VI - Ergänzende Vorschriften
-
-
-
-# <par id="P92">§ 92</par> Schulen mit sonderpädagogischem Förderschwerpunkt und berufliche Schulen
+# <par id="P92">§ 92</par> Schulen mit sonderpädagogischem Förderschwerpunkt und berufliche
+Schulen
 
 An Schulen mit sonderpädagogischem Förderschwerpunkt und an beruflichen
 Schulen kann die Schulaufsichtsbehörde auf Antrag von zwei Dritteln der
@@ -5862,23 +6962,34 @@ Die für das Schulwesen zuständige Senatsverwaltung wird ermächtigt, für
 Schulen, deren pädagogische und organisatorische Bedingungen es
 erfordern, insbesondere für
 
-1\. die John-F.-Kennedy-Schule (Deutsch-Amerikanische Schule), 2. das
-Französische Gymnasium (Collège Français), 3. die Eliteschulen des
-Sports, 4. die Staatliche Europa-Schule Berlin, 5. die Staatliche
-Ballettschule Berlin und Schule für Artistik, 6. das Musikgymnasium Carl
-Philipp Emanuel Bach, 7. Einrichtungen des Zweiten Bildungswegs zum
-nachträglichen Erwerb allgemein bildender und beruflicher Abschlüsse,
+1\.
+die John-F.-Kennedy-Schule (Deutsch-Amerikanische Schule),
+
+2\.
+das Französische Gymnasium (Lycée Français),
+
+3\.
+die Eliteschulen des Sports,
+
+4\.
+die Staatliche Europa-Schule Berlin,
+
+5\.
+die Staatliche Ballett- und Artistikschule Berlin,
+
+6\.
+das Musikgymnasium Carl Philipp Emanuel Bach,
+
+7\.
+Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb
+allgemein bildender und beruflicher Abschlüsse,
 
 Abweichungen von den Abschnitten I bis V durch Rechtsverordnung zu
 regeln.
 
+Teil VII Schulen in freier Trägerschaft
 
-
-## Teil VII - Schulen in freier Trägerschaft
-
-## Abschnitt I - Allgemeine Bestimmungen
-
-
+Abschnitt I Allgemeine Bestimmungen
 
 # <par id="P94">§ 94</par> Schulen in freier Trägerschaft
 
@@ -5905,24 +7016,22 @@ für die öffentlichen Schulen.
 Schulaufsichtsbehörde.
 
 Die Aufsicht beschränkt sich auf die Einhaltung der Genehmigungs- und
-Anerkennungsvoraussetzungen (§ § 98, 100 und 103) und der in Absatz 4
-für anwendbar erklärten Vorschriften sowie die Aufsicht über
+Anerkennungsvoraussetzungen (§§ 98, 100 und 103) und der in Absatz 4 für
+anwendbar erklärten Vorschriften sowie die Aufsicht über
 Ergänzungsschulen gemäß § 102 Abs. 2 und 3.
 
 <abs id="P95A3">(3)</abs> Die Schulaufsichtsbehörde kann sich im Rahmen des Absatzes 2
 jederzeit über die Angelegenheiten der Schulen in freier Trägerschaft
 informieren und Unterrichtsbesuche durchführen.
 
-(4) Auf die Schulen in freier Trägerschaft finden die §§ 1 und 3
+<abs id="P95A4">(4)</abs> Auf die Schulen in freier Trägerschaft finden die §§ 1 und 3
 (Bildungs- und Erziehungsziele) sowie § 5a Anwendung; für Ersatzschulen
 gelten zusätzlich <a href="#P18A1">§ 18 Absatz 1</a> und 2 Satz 1 bis 3 (Schulversuche), § 52
 (Schulgesundheitspflege) und die §§ 64 bis 66 (Datenschutz).
 
-Auf ergänzende Betreuungsangebote an Schulen in freier Trägerschaft
-sowie an Schulen mit sonderpädagogischem Förderschwerpunkt in freier
-Trägerschaft sind <a href="#P19A6">§ 19 Absatz 6</a> Satz 8 bis 15 und die nach <a href="#P19A7">§ 19 Absatz 7</a>
-Nummer 1, 5 bis 7, 9, 10 und 12 erlassenen Rechtsverordnungen
-anzuwenden.
+Auf ergänzende Betreuungsangebote an Ersatzschulen einschließlich
+Ersatzschulen mit sonderpädagogischem Förderschwerpunkt sind <a href="#P19A6">§ 19 Absatz 6</a> Satz 8 bis 14 und die nach <a href="#P19A7">§ 19 Absatz 7</a> Satz 1 Nummer 1 und 3 bis 7
+erlassenen Rechtsverordnungen anzuwenden.
 
 # <par id="P96">§ 96</par> Bezeichnung
 
@@ -5938,11 +7047,7 @@ Trägerschaft sie entspricht.
 Ein Zusatz, der auf die staatliche Genehmigung oder Anerkennung
 hinweist, ist zulässig.
 
-
-
-## Abschnitt II - Ersatzschulen
-
-
+Abschnitt II Ersatzschulen
 
 # <par id="P97">§ 97</par> Ersatzschulen
 
@@ -5964,36 +7069,57 @@ Schülerinnen und Schüler aufzunehmen.
 <abs id="P98A3">(3)</abs> Die Genehmigung ist nach Maßgabe der Absätze 5 bis 7 zu erteilen,
 wenn
 
-1\. die Schule in ihren Lehrzielen und Einrichtungen nicht hinter den
-öffentlichen Schulen zurücksteht, 2. die Lehrkräfte eine
-wissenschaftliche Ausbildung und Prüfung nachweisen, die hinter der
-Ausbildung der Lehrkräfte an öffentlichen Schulen nicht zurücksteht,
-oder die wissenschaftliche und pädagogische Eignung der Lehrkräfte durch
-gleichwertige freie Leistungen nachgewiesen werden kann, 3. die
-wirtschaftliche und rechtliche Stellung der Lehrkräfte genügend
-gesichert ist, 4. eine Sonderung der Schülerinnen und Schüler nach den
-Besitzverhältnissen ihrer Erziehungsberechtigten nicht gefördert wird,
-5. der Schulträger oder, falls dieser keine natürliche Person ist,
-dessen Vertreterin oder Vertreter geeignet ist, eine Schule
-verantwortlich zu führen, und er die Gewähr dafür bietet, nicht gegen
-die verfassungsmäßige Ordnung zu verstoßen, und 6. die Schulgebäude und
--anlagen den allgemeinen gesetzlichen und ordnungsbehördlichen
-Anforderungen an einen geordneten Schulbetrieb entsprechen.
+1\.
+die Schule in ihren Lehrzielen und Einrichtungen nicht hinter den
+öffentlichen Schulen zurücksteht,
+
+2\.
+die Lehrkräfte eine wissenschaftliche Ausbildung und Prüfung nachweisen,
+die hinter der Ausbildung der Lehrkräfte an öffentlichen Schulen nicht
+zurücksteht, oder die wissenschaftliche und pädagogische Eignung der
+Lehrkräfte durch gleichwertige freie Leistungen nachgewiesen werden
+kann,
+
+3\.
+die wirtschaftliche und rechtliche Stellung der Lehrkräfte genügend
+gesichert ist,
+
+4\.
+eine Sonderung der Schülerinnen und Schüler nach den Besitzverhältnissen
+ihrer Erziehungsberechtigten nicht gefördert wird,
+
+5\.
+der Schulträger oder, falls dieser keine natürliche Person ist, dessen
+Vertreterin oder Vertreter geeignet ist, eine Schule verantwortlich zu
+führen, und er die Gewähr dafür bietet, nicht gegen die
+verfassungsmäßige Ordnung zu verstoßen, und
+
+6\.
+die Schulgebäude und -anlagen den allgemeinen gesetzlichen und
+ordnungsbehördlichen Anforderungen an einen geordneten Schulbetrieb
+entsprechen.
 
 <abs id="P98A4">(4)</abs> Grundschulen in freier Trägerschaft sind nur zu genehmigen, wenn
 
-1\. die Voraussetzungen des Absatzes 3 vorliegen und 2. ein besonderes
-pädagogisches Interesse für die Zulassung der Schule vorliegt oder die
-Erziehungsberechtigten die Errichtung einer Gemeinschafts-, Bekenntnis-
-oder Weltanschauungsschule beantragen und eine öffentliche Grundschule
-dieser Art in zumutbarer Entfernung nicht besteht.
+1\.
+die Voraussetzungen des Absatzes 3 vorliegen und
 
-Die Genehmigung von ergänzenden Betreuungsangeboten an Grundschulen in
-freier Trägerschaft sowie an Schulen mit sonderpädagogischem
-Förderschwerpunkt (Primarstufe) in freier Trägerschaft richtet sich nach
-§ 19.
+2\.
+ein besonderes pädagogisches Interesse für die Zulassung der Schule
+vorliegt oder die Erziehungsberechtigten die Errichtung einer
+Gemeinschafts-, Bekenntnis- oder Weltanschauungsschule beantragen und
+eine öffentliche Grundschule dieser Art in zumutbarer Entfernung nicht
+besteht.
 
-Die Genehmigung als Ersatzschule und die Genehmigung von ergänzenden
+Die Genehmigung von außerunterrichtlichen und ergänzenden Förderungs-
+und Betreuungsangeboten an Grundschulen in freier Trägerschaft, in der
+Primarstufe an Gemeinschaftsschulen, in der Primarstufe an Schulen mit
+sonderpädagogischem Förderschwerpunkt sowie in der Primar- und
+Sekundarstufe an Schulen mit dem sonderpädagogischen Förderschwerpunkt
+„Geistige Entwicklung“ in freier Trägerschaft richtet sich nach § 19.
+
+Die Genehmigung als Ersatzschule und die Genehmigung von
+außerunterrichtlichen und ergänzenden Förderungs- und
 Betreuungsangeboten sollen miteinander verbunden werden.
 
 <abs id="P98A5">(5)</abs> Lehrkräfte bedürfen zur Ausübung ihrer Tätigkeit der Genehmigung
@@ -6020,12 +7146,21 @@ vorliegen oder später weggefallen sind.
 <abs id="P98A6">(6)</abs> Die wirtschaftliche und rechtliche Stellung der Lehrkräfte gemäß
 Absatz 3 Nr. 3 ist genügend gesichert, wenn
 
-1\. über das Angestelltenverhältnis ein schriftlicher Vertrag
-abgeschlossen ist, 2. der Anspruch auf Urlaub und die regelmäßige
-Pflichtstundenzahl festgelegt sind, 3. die Vergütungen bei
-entsprechenden Anforderungen hinter den Gehältern der Lehrkräfte an
-gleichartigen oder gleichwertigen öffentlichen Schulen nicht wesentlich
-zurückbleiben und in regelmäßigen Zeitabständen gezahlt werden und 4.
+1\.
+über das Angestelltenverhältnis ein schriftlicher Vertrag abgeschlossen
+ist,
+
+2\.
+der Anspruch auf Urlaub und die regelmäßige Pflichtstundenzahl
+festgelegt sind,
+
+3\.
+die Vergütungen bei entsprechenden Anforderungen hinter den Gehältern
+der Lehrkräfte an gleichartigen oder gleichwertigen öffentlichen Schulen
+nicht wesentlich zurückbleiben und in regelmäßigen Zeitabständen gezahlt
+werden und
+
+4\.
 für die Lehrkräfte eine Anwartschaft auf Versorgung erworben wird, die
 mindestens den Bestimmungen der Angestelltenversicherung entspricht.
 
@@ -6060,11 +7195,14 @@ und Schüler mit.
 ermächtigt, das Nähere über die Erteilung der Genehmigung durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. die Bedingungen, unter denen eine Sonderung der Schülerinnen und
-Schüler nach den Besitzverhältnissen ihrer Erziehungsberechtigten nicht
-gefördert wird (Absatz 3 Nr. 4), 2. die Bedingungen, unter denen die
-wirtschaftliche und rechtliche Stellung der Lehrkräfte genügend
-gesichert ist (Absatz 3 Nr. 3 und Absatz 6).
+1\.
+die Bedingungen, unter denen eine Sonderung der Schülerinnen und Schüler
+nach den Besitzverhältnissen ihrer Erziehungsberechtigten nicht
+gefördert wird (Absatz 3 Nr. 4),
+
+2\.
+die Bedingungen, unter denen die wirtschaftliche und rechtliche Stellung
+der Lehrkräfte genügend gesichert ist (Absatz 3 Nr. 3 und Absatz 6).
 
 # <par id="P99">§ 99</par> Aufhebung, Erlöschen und Übergang der Genehmigung
 
@@ -6129,11 +7267,14 @@ Vorsitz.
 
 <abs id="P100A4">(4)</abs> Die Anerkennung ist aufzuheben, wenn
 
-1\. die Voraussetzungen nach Absatz 1 Satz 1 zum Zeitpunkt der
-Verleihung nicht gegeben waren oder später weggefallen sind und dem
-Mangel trotz Aufforderung der Schulaufsichtsbehörde innerhalb einer
-bestimmten Frist nicht abgeholfen worden ist oder 2. die Schule
-wiederholt gegen die ihr nach Absatz 3 Satz 1 obliegenden
+1\.
+die Voraussetzungen nach Absatz 1 Satz 1 zum Zeitpunkt der Verleihung
+nicht gegeben waren oder später weggefallen sind und dem Mangel trotz
+Aufforderung der Schulaufsichtsbehörde innerhalb einer bestimmten Frist
+nicht abgeholfen worden ist oder
+
+2\.
+die Schule wiederholt gegen die ihr nach Absatz 3 Satz 1 obliegenden
 Verpflichtungen verstoßen hat.
 
 <abs id="P100A5">(5)</abs> Für den Übergang der staatlichen Anerkennung auf einen anderen
@@ -6147,11 +7288,14 @@ Verfügung.
 
 <abs id="P101A2">(2)</abs> Die Zuschüsse für genehmigte Ersatzschulen betragen
 
-1\. bei beruflichen Schulen 100 Prozent der Personalkosten der
-Ersatzschulen (tatsächliche Personalkosten), höchstens 93 Prozent der
-Personalkosten entsprechender öffentlicher Schulen (vergleichbare
-Personalkosten) und 2. bei allgemein bildenden Schulen 93 Prozent der
-vergleichbaren Personalkosten.
+1\.
+bei beruflichen Schulen 100 Prozent der Personalkosten der Ersatzschulen
+(tatsächliche Personalkosten), höchstens 93 Prozent der Personalkosten
+entsprechender öffentlicher Schulen (vergleichbare Personalkosten) und
+
+2\.
+bei allgemein bildenden Schulen 93 Prozent der vergleichbaren
+Personalkosten.
 
 Darin enthalten ist ein Zuschuss für Sachkosten und die Kosten, die dem
 Träger für die Beschaffung und den Betrieb der erforderlichen Schulräume
@@ -6171,10 +7315,10 @@ einer Schule verbundenen Wohnheims (Internat) werden bei der Berechnung
 der Personalkosten nicht berücksichtigt.
 
 Die Finanzierung von ergänzenden Betreuungsangeboten gemäß § 19 Abs. 6
-und die Finanzierung der Kosten, die im Rahmen der verlässlichen
-Halbtagsgrundschule für außerunterrichtliche Betreuung und Förderung
-entstehen, werden durch Rechtsverordnung nach § 19 Abs. 7 Nr. 5
-geregelt.
+und die Finanzierung der Kosten, die im Rahmen der verlässlichen Zeit
+der offenen Ganztagsschule der Primarstufe für außerunterrichtliche
+Betreuung und Förderung entstehen, werden durch Rechtsverordnung nach §
+19 Abs. 7 Satz 1 Nummer 3 geregelt.
 
 <abs id="P101A3">(3)</abs> Ersatzschulen mit den sonderpädagogischen Förderschwerpunkten
 „Körperliche und motorische Entwicklung“ und „Geistige Entwicklung“
@@ -6187,12 +7331,12 @@ der erste Schülerjahrgang die letzte Jahrgangsstufe erreicht hat
 (Wartefrist).
 
 Diese Wartefrist gilt nicht für die Finanzierung der ergänzenden
-Betreuungsangebote gemäß § 19 Abs. 6 und für die Finanzierung der
-Kosten, die in der Zeit der verlässlichen Halbtagsgrundschule für
-außerunterrichtliche Betreuung und Förderung derjenigen Schülerinnen und
-Schüler entstehen, die einen festgestellten Bedarf für die ergänzende
-Betreuung im Anschluss an die Zeit der verlässlichen Halbtagsgrundschule
-haben.
+Förderung und Betreuung gemäß <a href="#P19A6">§ 19 Absatz 6</a> und für die Finanzierung der
+Kosten, die in der verlässlichen Zeit der offenen Ganztagsschule der
+Primarstufe für außerunterrichtliche Förderung und Betreuung derjenigen
+Schülerinnen und Schüler entstehen, die einen festgestellten Bedarf für
+die ergänzende Förderung und Betreuung im Anschluss an die verlässliche
+Zeit der offenen Ganztagsschule der Primarstufe haben.
 
 Bei Schulen, die mehrere Schulstufen umfassen, werden die Zuschüsse
 frühestens gewährt, wenn der erste Schülerjahrgang die letzte
@@ -6258,20 +7402,22 @@ Schulen und deren Erziehungsberechtigte.
 ermächtigt, das Nähere über die Bewilligung von Zuschüssen durch
 Rechtsverordnung zu regeln, insbesondere
 
-1\. das Verfahren der Zuschussgewährung einschließlich der Rückforderung
-überzahlter Beträge sowie deren Verzinsung, 2. den Umfang der zu
-berücksichtigenden Einnahmen der Schule, 3. die Berechnungsgrundlagen
-für die vergleichbaren Personalkosten und den Umfang der als
-tatsächliche Personalkosten geltenden Ausgaben der Schule.
+1\.
+das Verfahren der Zuschussgewährung einschließlich der Rückforderung
+überzahlter Beträge sowie deren Verzinsung,
+
+2\.
+den Umfang der zu berücksichtigenden Einnahmen der Schule,
+
+3\.
+die Berechnungsgrundlagen für die vergleichbaren Personalkosten und den
+Umfang der als tatsächliche Personalkosten geltenden Ausgaben der
+Schule.
 
 Kosten der Gebäudereinigung werden weder bei den tatsächlichen noch bei
 den vergleichbaren Personalkosten berücksichtigt.
 
-
-
-## Abschnitt III - Ergänzungsschulen
-
-
+Abschnitt III Ergänzungsschulen
 
 # <par id="P102">§ 102</par> Ergänzungsschulen
 
@@ -6336,11 +7482,7 @@ Die Anerkennung erlischt, wenn die Ergänzungsschule ohne Zustimmung der
 Schulaufsichtsbehörde ein Jahr keinen Unterricht erteilt hat oder auf
 Dauer geschlossen wird.
 
-
-
-## Abschnitt IV - Ergänzende Bestimmungen
-
-
+Abschnitt IV Ergänzende Bestimmungen
 
 # <par id="P104">§ 104</par> Freie Einrichtungen und Privatunterricht
 
@@ -6372,11 +7514,7 @@ Es gelten die Vorschriften des Teils V Abschnitt 1a des
 Verwaltungsverfahrensgesetzes in Verbindung mit § 1 Absatz 1 des
 Gesetzes über das Verfahren der Berliner Verwaltung.
 
-
-
-## Teil VIII - Schulverwaltung
-
-
+Teil VIII Schulverwaltung
 
 # <par id="P105">§ 105</par> Schulaufsicht
 
@@ -6430,27 +7568,52 @@ Schulen im Bezirk, zu informieren.
 
 <abs id="P105A5">(5)</abs> Die Schulaufsichtsbehörde verwaltet als zuständige Schulbehörde
 die äußeren Schulangelegenheiten der beruflichen Schulen, der
-Staatlichen Technikerschule, der Staatlichen Ballettschule und Schule
-für Artistik, der Schulfarm Insel Scharfenberg, des Musikgymnasiums Carl
+Staatlichen Technikerschule, der Staatlichen Ballett- und Artistikschule
+Berlin, der Schulfarm Insel Scharfenberg, des Musikgymnasiums Carl
 Philipp Emanuel Bach, des Abendgymnasiums Prenzlauer Berg, der
-Eliteschulen des Sports, des Französischen Gymnasiums (Collège
-Français), der John-F.-Kennedy-Schule (Deutsch-Amerikanische Schule) und
-der Staatlichen Internationalen Schulen (zentral verwaltete Schulen).
+Eliteschulen des Sports, des Französischen Gymnasiums (Lycée Français),
+der John-F.-Kennedy-Schule (Deutsch-Amerikanische Schule) und der
+Staatlichen Internationalen Schulen (zentral verwaltete Schulen).
+
+Die Schulaufsichtsbehörde überwacht die Einhaltung der Schulpflicht,
+soweit diese an einer zentral verwalteten Schule erfüllt wird.
 
 Die Bestimmungen des § 109 Abs. 1 Satz 2 und Abs. 2 und 3 gelten
 sinngemäß.
 
 <abs id="P105A6">(6)</abs> Die Schulaufsichtsbehörde trifft insbesondere Bestimmungen über
 
-1\. die Ziele, Inhalte, Organisation und Qualitätsanforderungen des
-Unterrichts, 2. die Zahl der Unterrichtsstunden und die Dauer des
-Unterrichts, 3. die Rahmenvorgaben für Prüfungen, 4. die
-Unterrichtsversorgung, 5. die Arbeitszeit der Lehrkräfte im Rahmen der
-geltenden Rechtsvorschriften, 6. die Grundsätze über den Einsatz von
-Informations- und Kommunikationsmedien in den Schulen und legt die Ziele
-und Standards fest für 7. die Verfahren zur Sicherung und Evaluation
-schulischer Qualität nach § 9, 8. die Fort- und Weiterbildung des
-Personals der öffentlichen Schulen und der Schulaufsichtsbehörde und 9.
+1\.
+die Ziele, Inhalte, Organisation und Qualitätsanforderungen des
+Unterrichts,
+
+2\.
+die Zahl der Unterrichtsstunden und die Dauer des Unterrichts,
+
+3\.
+die Rahmenvorgaben für Prüfungen,
+
+4\.
+die Unterrichtsversorgung,
+
+5\.
+die Arbeitszeit der Lehrkräfte im Rahmen der geltenden
+Rechtsvorschriften,
+
+6\.
+die Grundsätze über den Einsatz von Informations- und
+Kommunikationsmedien in den Schulen und legt die Ziele und Standards
+fest für
+
+7\.
+die Verfahren zur Sicherung und Evaluation schulischer Qualität nach §
+9,
+
+8\.
+die Fort- und Weiterbildung des Personals der öffentlichen Schulen und
+der Schulaufsichtsbehörde und
+
+9\.
 die Beratung im Schulwesen.
 
 <abs id="P105A7">(7)</abs> Die Aufsicht über die Schulen darf nur ausüben, wer dazu geeignet
@@ -6519,7 +7682,8 @@ Den Schulen soll Gelegenheit gegeben werden, die von ihnen getroffenen
 Maßnahmen vor der Entscheidung der Schulaufsichtsbehörde noch einmal zu
 überprüfen.
 
-# <par id="P107">§ 107</par> Schulpsychologische und inklusionspädagogische Beratung und Unterstützung
+# <par id="P107">§ 107</par> Schulpsychologische und inklusionspädagogische Beratung und
+Unterstützung
 
 <abs id="P107A1">(1)</abs> Die Schulpsychologischen und Inklusionspädagogischen Beratungs-
 und Unterstützungszentren (SIBUZ) sind Einrichtungen der
@@ -6544,21 +7708,30 @@ Evaluationen im Rahmen des <a href="#P9A3">§ 9 Absatz 3</a>.
 <abs id="P107A2">(2)</abs> Die Tätigkeit des Schulpsychologischen Dienstes im Fachbereich
 Schulpsychologie umfasst insbesondere
 
-1\. die präventive und die auf akute Probleme bezogene
-schulpsychologische Diagnostik und Beratung sowie die Beratung und
-Unterstützung von Schülerinnen und Schülern und ihren
-Erziehungsberechtigten bei besonderen Auffälligkeiten im Lern-,
-Leistungs- und Verhaltensbereich und im Zusammenleben und gemeinsamen
-Lernen in der Schule, 2. die schulpsychologische Beratung von
-Lehrkräften und pädagogischen Mitarbeiterinnen und Mitarbeitern im
-Umgang mit einer heterogenen Schülerschaft, bei Konflikten und Störungen
-in der pädagogischen Arbeit, in der Zusammenarbeit mit den Kolleginnen
-und Kollegen und in ihrer Einbindung in das gesamte Schulleben, 3. die
-notfallpsychologische Beratung und Unterstützung von Schulangehörigen
-und Schulen bei Gewaltvorfällen, Krisen und Notfällen, 4. die Beratung
-und Unterstützung der Schulen bei der Entwicklung und Umsetzung
-schulischer Präventionsmaßnahmen wie der Gesundheitsförderung, der
-Suchtprävention, des Sozialen Lernens und der Gewaltprävention sowie 5.
+1\.
+die präventive und die auf akute Probleme bezogene schulpsychologische
+Diagnostik und Beratung sowie die Beratung und Unterstützung von
+Schülerinnen und Schülern und ihren Erziehungsberechtigten bei
+besonderen Auffälligkeiten im Lern-, Leistungs- und Verhaltensbereich
+und im Zusammenleben und gemeinsamen Lernen in der Schule,
+
+2\.
+die schulpsychologische Beratung von Lehrkräften und pädagogischen
+Mitarbeiterinnen und Mitarbeitern im Umgang mit einer heterogenen
+Schülerschaft, bei Konflikten und Störungen in der pädagogischen Arbeit,
+in der Zusammenarbeit mit den Kolleginnen und Kollegen und in ihrer
+Einbindung in das gesamte Schulleben,
+
+3\.
+die notfallpsychologische Beratung und Unterstützung von
+Schulangehörigen und Schulen bei Gewaltvorfällen, Krisen und Notfällen,
+
+4\.
+die Beratung und Unterstützung der Schulen bei der Entwicklung und
+Umsetzung schulischer Präventionsmaßnahmen wie der Gesundheitsförderung,
+der Suchtprävention, des Sozialen Lernens und der Gewaltprävention sowie
+
+5\.
 die Mitwirkung in Fragen der inklusiven Beschulung, der Einschulung, der
 Umschulung, der Schullaufbahn und bei der Förderung von Begabungen.
 
@@ -6569,17 +7742,28 @@ sofern sie keine fachaufsichtlichen Aufgaben nach § 106 betreffen.
 <abs id="P107A3">(3)</abs> Die Tätigkeit des Fachbereichs Inklusionspädagogik umfasst
 insbesondere
 
-1\. die Beratung und Unterstützung von Schulen im Bereich der inklusiven
+1\.
+die Beratung und Unterstützung von Schulen im Bereich der inklusiven
 Schulentwicklung und bei der Einführung von Konzepten zur individuellen
 Förderplanung und Förderung in Kooperation und Abstimmung mit der
-regionalen Fortbildung, 2. die individuelle pädagogische und
-sonderpädagogische Diagnostik sowie die Beratung von
-Erziehungsberechtigten, Schülerinnen und Schülern sowie Pädagoginnen und
-Pädagogen bei Bedarfslagen in allen Bereichen des Lernens und des
-Verhaltens, 3. die sonderpädagogische Diagnostik und Beratung im Rahmen
-des Verfahrens der Feststellung des sonderpädagogischen Förderbedarfs
-sowie deren Koordination, 4. die Prüfung und Organisation der
-ergänzenden Pflege und Hilfe sowie die Beratung bei der Umsetzung, 5.
+regionalen Fortbildung,
+
+2\.
+die individuelle pädagogische und sonderpädagogische Diagnostik sowie
+die Beratung von Erziehungsberechtigten, Schülerinnen und Schülern sowie
+Pädagoginnen und Pädagogen bei Bedarfslagen in allen Bereichen des
+Lernens und des Verhaltens,
+
+3\.
+die sonderpädagogische Diagnostik und Beratung im Rahmen des Verfahrens
+der Feststellung des sonderpädagogischen Förderbedarfs sowie deren
+Koordination,
+
+4\.
+die Prüfung und Organisation der ergänzenden Pflege und Hilfe sowie die
+Beratung bei der Umsetzung,
+
+5\.
 Unterstützungsleistungen bei komplexem Hilfebedarf.
 
 <abs id="P107A4">(4)</abs> Die Mitarbeiterinnen und Mitarbeiter im SIBUZ unterliegen einer
@@ -6594,15 +7778,42 @@ Würde eine Unterrichtung der Erziehungsberechtigten die Gesundheit oder
 das Wohlergehen betroffener Minderjähriger gefährden, gilt diese
 Schweigepflicht auch gegenüber den Erziehungsberechtigten.
 
-# <par id="P108">§ 108</par> Landesinstitut für Schule und Medien Berlin-Brandenburg
+# <par id="P108">§ 108</par> Berliner Landesinstitut
 
 Die Aufgaben im Bereich der qualitativen Weiterentwicklung von Schule
-und Weiterbildung/Erwachsenenbildung werden durch ein von den Ländern
-Berlin und Brandenburg errichtetes gemeinsames Landesinstitut für Schule
-und Medien Berlin-Brandenburg wahrgenommen, soweit nicht Berliner
-Landesrecht etwas anderes bestimmt.
+und Unterricht werden durch das Berliner Landesinstitut wahrgenommen,
+insbesondere
 
-Das Nähere wird durch Staatsvertrag bestimmt.
+1\.
+die Qualifizierung der Lehrkräfte und des sonstigen pädagogischen
+Personals an den Schulen, der Schulleiterinnen und Schulleiter, der
+Funktionsstelleninhaberinnen und Funktionsstelleninhaber, des Personals
+der Schulaufsichtsbehörde sowie weiterer Personen,
+
+2\.
+die Aufgaben im Rahmen der Vorbereitung und Abnahme von Staatsprüfungen
+für Lehramtsanwärterinnen und Lehramtsanwärter,
+
+3\.
+die Erstellung und Verteilung von Prüfungsaufgaben für die zentralen
+Prüfungen an den allgemeinbildenden und beruflichen Schulen,
+
+4\.
+die Weiterentwicklung der Rahmenlehrpläne,
+
+5\.
+die evidenzbasierte Schul- und Unterrichtsentwicklung in den Fächern, in
+den übergreifenden Themen des Rahmenlehrplans und in den Lernfeldern,
+
+6\.
+die Bildung in der Digitalen Welt sowie die Erstellung von
+Bildungsmedien, Handreichungen und weiteren Veröffentlichungen,
+
+7\.
+die Beratung und Unterstützung des schulischen Personals und
+
+8\.
+die Durchführung von Tagungen und Veranstaltungen.
 
 # <par id="P109">§ 109</par> Aufgaben der Bezirke
 
@@ -6613,9 +7824,9 @@ verwalteten Schulen (zuständige Schulbehörde).
 Hierzu zählen die Maßnahmen zur Schaffung der äußeren Voraussetzungen
 für das Lehren und Lernen in der Schule, insbesondere der Bau, die
 Ausstattung und die Unterhaltung der Schulen nach Maßgabe des § 7, die
-Kontrolle der Qualität des Mittagessens an den Schulen sowie die
-Bereitstellung des für den ordnungsgemäßen Betrieb der Schulen
-notwendigen Personals mit Ausnahme der Schulsekretärinnen und
+Bereitstellung und die Kontrolle der Qualität des Mittagessens an den
+Schulen sowie die Bereitstellung des für den ordnungsgemäßen Betrieb der
+Schulen notwendigen Personals mit Ausnahme der Schulsekretärinnen und
 Schulsekretäre.
 
 Des Weiteren entscheiden die Bezirke über die außerschulische Nutzung
@@ -6623,10 +7834,12 @@ der Schulanlagen im Benehmen mit den Schulleiterinnen oder den
 Schulleitern.
 
 <abs id="P109A2">(2)</abs> Die Bezirke überwachen die Einhaltung der allgemeinen Schulpflicht
-in Zusammenarbeit mit den Schulen und der Schulaufsichtsbehörde, legen
-die Einschulungsbereiche für die Grundschulen fest und sind im Rahmen
-ihrer schulorganisatorischen Befugnisse insbesondere für die Festsetzung
-der Aufnahmekapazität der von ihnen verwalteten Schulen verantwortlich.
+und der Schulpflicht, die an einer allgemein bildenden Schule erfüllt
+wird, in Zusammenarbeit mit den Schulen und der Schulaufsichtsbehörde,
+legen die Einschulungsbereiche für die Grundschulen fest und sind im
+Rahmen ihrer schulorganisatorischen Befugnisse insbesondere für die
+Festsetzung der Aufnahmekapazität der von ihnen verwalteten Schulen
+verantwortlich.
 
 <abs id="P109A3">(3)</abs> Die Bezirke entscheiden über die Gründung, Zusammenlegung,
 Umwandlung und Aufhebung der von ihnen verwalteten Schulen sowie über
@@ -6641,11 +7854,7 @@ Diese sind mit den Planungen und Angeboten der benachbarten Bezirke und
 der unmittelbar angrenzenden Träger der Schulentwicklungsplanung des
 Landes Brandenburg abzustimmen; § 105 Abs. 3 gilt entsprechend.
 
-
-
-## Teil IX - Bezirks- und Landesgremien
-
-
+Teil IX Bezirks- und Landesgremien
 
 # <par id="P110">§ 110</par> Bezirksausschüsse
 
@@ -6659,11 +7868,15 @@ Bezirk sowie der Vorbereitung und Koordinierung der Arbeit im
 Bezirksschulbeirat.
 
 <abs id="P110A2">(2)</abs> Den Bezirksausschüssen gehören jeweils die nach § 79 Abs. 2 Satz 2
-Nr. 2 (Lehrkräfte und pädagogische Mitarbeiterinnen und Mitarbeiter),
-§ 85 Abs. 4 Nr. 2 (Schülerinnen und Schüler) und § 90 Abs. 2 Nr. 3
+Nr. 2 (Lehrkräfte und pädagogische Mitarbeiterinnen und Mitarbeiter), §
+85 Abs. 4 Nr. 2 (Schülerinnen und Schüler) und § 90 Abs. 2 Nr. 3
 (Eltern) von den entsprechenden Gremien gewählten Vertreterinnen und
-Vertreter der Schulen im Bezirk an, soweit für sie nicht Ausschüsse nach
-§ 112 Abs. 1 gebildet sind.
+Vertreter der Schulen im Bezirk an.
+
+Dies schließt die nach <a href="#P105A5">§ 105 Absatz 5</a> verwalteten und im Bezirk
+liegenden Schulen ein, soweit für sie und für die in Satz 1 genannten
+Vertreterinnen und Vertreter nicht Ausschüsse nach <a href="#P112A1">§ 112 Absatz 1</a>
+gebildet sind.
 
 Sofern an staatlich anerkannten Ersatzschulen Sprecherinnen oder
 Sprecher der Lehrkräfte, Schülerinnen und Schüler oder
@@ -6673,10 +7886,18 @@ dem jeweiligen Bezirksausschuss mit beratender Stimme an.
 <abs id="P110A3">(3)</abs> Die Bezirksausschüsse wählen jeweils aus der Mitte ihrer
 stimmberechtigten Mitglieder
 
-1\. eine Vorsitzende oder einen Vorsitzenden, 2. zwölf Vertreterinnen
-oder Vertreter für den Bezirksschulbeirat, 3. zwei Vertreterinnen oder
-Vertreter für den betreffenden Landesausschuss und 4. eine Vertreterin
-oder einen Vertreter für den Landesschulbeirat.
+1\.
+eine Vorsitzende oder einen Vorsitzenden,
+
+2\.
+zwölf Vertreterinnen oder Vertreter für den Bezirksschulbeirat,
+
+3\.
+zwei Vertreterinnen oder Vertreter für den betreffenden Landesausschuss
+und
+
+4\.
+eine Vertreterin oder einen Vertreter für den Landesschulbeirat.
 
 Bei der Wahl der Vertreterinnen oder Vertreter für den
 Bezirksschulbeirat sollen Vertreterinnen oder Vertreter aller im Bezirk
@@ -6701,7 +7922,7 @@ Vertreterinnen und Vertretern sowie einer Vertreterin oder einem
 Vertreter des bezirklichen Jugendhilfeausschusses, die oder der von
 diesem benannt wird.
 
-Des Weiteren gehören ihm je zwei der in <a href="#P110A2">§ 110 Absatz 2</a> Satz 2 genannten
+Des Weiteren gehören ihm je zwei der in § 110 Absatz 2 Satz 2 genannten
 Vertreterinnen und Vertreter sowie eine Vertreterin oder ein Vertreter
 des Ausschusses für Partizipation und Integration der
 Bezirksverordnetenversammlung mit beratender Stimme an.
@@ -6725,12 +7946,27 @@ Er kooperiert mit dem bezirklichen Jugendhilfeausschuss.
 <abs id="P111A3">(3)</abs> Der Bezirksschulbeirat ist vom Bezirksamt in folgenden
 Angelegenheiten zu hören:
 
-1\. Schulentwicklungsplanung des Bezirks, 2. Errichtung, Zusammenlegung,
-Umwandlung, Verlegung und Aufhebung von Schulen, 3. Festlegung und
-Veränderung von Einschulungsbezirken, 4. Planung bezirklicher
-Schulbaumaßnahmen, 5. bezirkliche Maßnahmen zur Verbesserung des
-Zusammenwirkens der Schulen, 6. Schulversuche an Schulen des Bezirks und
-7. bezirkliche Maßnahmen zur Verbesserung, Planung und Durchführung der
+1\.
+Schulentwicklungsplanung des Bezirks,
+
+2\.
+Errichtung, Zusammenlegung, Umwandlung, Verlegung und Aufhebung von
+Schulen,
+
+3\.
+Festlegung und Veränderung von Einschulungsbereichen,
+
+4\.
+Planung bezirklicher Schulbaumaßnahmen,
+
+5\.
+bezirkliche Maßnahmen zur Verbesserung des Zusammenwirkens der Schulen,
+
+6\.
+Schulversuche an Schulen des Bezirks und
+
+7\.
+bezirkliche Maßnahmen zur Verbesserung, Planung und Durchführung der
 Kooperation zwischen Jugendhilfe und Schule.
 
 <abs id="P111A4">(4)</abs> Ein Mitglied des Bezirksamts und eine Vertreterin oder ein
@@ -6754,8 +7990,8 @@ Berufliche Schulen.
 
 <abs id="P112A2">(2)</abs> Den Ausschüssen Berufliche Schulen gehören jeweils die nach § 79
 Abs. 2 Satz 2 Nr. 2 (Lehrkräfte), § 86 Abs. 2 Satz 2 Nr. 3 (Schülerinnen
-und Schüler) und § 87 Abs. 1 Satz 4 (Studentinnen und Studenten) sowie
-§ 91 Abs. 2 Satz 4 (Eltern) von den entsprechenden Gremien gewählten
+und Schüler) und § 87 Abs. 1 Satz 4 (Studentinnen und Studenten) sowie §
+91 Abs. 2 Satz 4 (Eltern) von den entsprechenden Gremien gewählten
 Vertreterinnen und Vertreter der beruflichen Schulen an.
 
 Sofern an staatlich anerkannten Ersatzschulen Sprecherinnen oder
@@ -6766,12 +8002,20 @@ dem jeweiligen Bezirksausschuss mit beratender Stimme an.
 <abs id="P112A3">(3)</abs> Die Ausschüsse Berufliche Schulen wählen jeweils aus der Mitte
 ihrer stimmberechtigten Mitglieder
 
-1\. eine Vorsitzende oder einen Vorsitzenden sowie 2. vier
-Vertreterinnen oder Vertreter für den Beirat Berufliche Schulen.
+1\.
+eine Vorsitzende oder einen Vorsitzenden,
 
-§ 110 Abs. 3 Satz 3 gilt entsprechend.
+2\.
+vier Vertreterinnen oder Vertreter für den Beirat Berufliche Schulen und
 
-<abs id="P112A4">(4)</abs> Die jeweils erste Sitzung der Ausschüsse Berufliche Schulen wird
+3\.
+je zwei Vertreterinnen oder Vertreter für den Landesschülerausschuss,
+den Landesausschuss des pädagogischen Personals und den
+Landeselternausschuss.
+
+# <par id="P110">§ 110</par> Abs. 3 Satz 3 gilt entsprechend.
+
+<abs id="P110A4">(4)</abs> Die jeweils erste Sitzung der Ausschüsse Berufliche Schulen wird
 von einer Vertreterin oder einem Vertreter der Schulaufsichtsbehörde
 einberufen; in dieser Sitzung werden die oder der Vorsitzende des
 jeweiligen Ausschusses Berufliche Schulen und die Stellvertreterin oder
@@ -6786,18 +8030,22 @@ Er berät die für das Schulwesen zuständige Senatsverwaltung in allen die
 beruflichen Schulen betreffenden Angelegenheiten von wesentlicher
 Bedeutung.
 
+Er kann der Schulaufsichtsbehörde Vorschläge unterbreiten; dazu erhält
+er von dieser die für seine Arbeit notwendigen Auskünfte.
+
 <abs id="P113A2">(2)</abs> Der Beirat Berufliche Schulen wird aus den von den Ausschüssen
 Berufliche Schulen gewählten Vertreterinnen und Vertretern gebildet.
 
 Ferner gehören ihm jeweils zwei Vertreterinnen oder Vertreter der
 Arbeitgeber und der Arbeitnehmer an.
 
-Des Weiteren gehören ihm je eine Vertreterin oder ein Vertreter der in
-§ 112 Abs. 2 Satz 2 genannten Mitglieder mit beratender Stimme an.
+Des Weiteren gehören ihm je eine Vertreterin oder ein Vertreter der in §
+112 Abs. 2 Satz 2 genannten Mitglieder sowie eine Vertreterin oder ein
+Vertreter des Landesbeirats für Partizipation mit beratender Stimme an.
 
 <abs id="P113A3">(3)</abs> Die Vertreterinnen und Vertreter der Arbeitgeber und der
 Arbeitnehmer werden aus der Mitte aller Vertreterinnen und Vertreter der
-Arbeitgeber und der Arbeitnehmer in den Schulkonferenzen (<a href="#P77A2">§ 77 Absatz 2</a>
+Arbeitgeber und der Arbeitnehmer in den Schulkonferenzen (§ 77 Absatz 2
 Satz 1 Nummer 6) gewählt.
 
 Diese bilden jeweils Versammlungen, die einmal im Schulhalbjahr
@@ -6809,16 +8057,19 @@ Sprecher.
 <abs id="P113A4">(4)</abs> Die Mitglieder des Beirats Berufliche Schulen wählen aus ihrer
 Mitte
 
-1\. eine Vorsitzende oder einen Vorsitzenden
+1\.
+eine Vorsitzende oder einen Vorsitzenden und für den Landesschulbeirat
 
-und für den Landesschulbeirat
-
-2\. jeweils zwei Vertreterinnen oder Vertreter aus der Gruppe der
+2\.
+jeweils zwei Vertreterinnen oder Vertreter aus der Gruppe der
 Lehrkräfte, der Schülerinnen oder Schüler und der Erziehungsberechtigten
-und 3. jeweils eine Vertreterin oder einen Vertreter aus der Gruppe der
+und
+
+3\.
+jeweils eine Vertreterin oder einen Vertreter aus der Gruppe der
 Arbeitgeber und Arbeitnehmer.
 
-§ 110 Abs. 3 Satz 3 und § 112 Abs. 4 gelten entsprechend.
+# <par id="P110">§ 110</par> Abs. 3 Satz 3 und # <par id="P112">§ 112</par> Abs. 4 gelten entsprechend.
 
 # <par id="P114">§ 114</par> Landesausschüsse
 
@@ -6832,7 +8083,8 @@ sowie der Vorbereitung und Koordinierung der Arbeit im
 Landesschulbeirat.
 
 <abs id="P114A2">(2)</abs> Die Landesausschüsse bestehen aus den in den jeweiligen
-Bezirksausschüssen gewählten Vertreterinnen und Vertretern.
+Bezirksausschüssen und in den Ausschüssen für die beruflichen Schulen
+gewählten Vertreterinnen und Vertretern.
 
 Ferner gehören dem jeweiligen Landesausschuss von den Sprecherinnen und
 Sprechern des pädagogischen Personals, Schülerinnen und Schüler oder
@@ -6865,13 +8117,28 @@ Bedeutung sind.
 
 <abs id="P115A2">(2)</abs> Er ist insbesondere in folgenden Angelegenheiten zu hören:
 
-1\. Rahmenlehrplanentwürfe für Unterricht und Erziehung, 2. Änderung der
-Struktur und der Organisation des Schulwesens, 3. Grundsätze für den
-Schulbau und die Ausstattung von Schulen, 4. Schulversuche, 5. Entwürfe
-von Rechts- und Verwaltungsvorschriften, die pädagogisch von
-grundsätzlicher Bedeutung sind, 6. Grundzüge der
-Schulentwicklungsplanung, 7. Maßnahmen zur Verbesserung, Planung und
-Durchführung der Kooperation zwischen Jugendhilfe und Schule.
+1\.
+Rahmenlehrplanentwürfe für Unterricht und Erziehung,
+
+2\.
+Änderung der Struktur und der Organisation des Schulwesens,
+
+3\.
+Grundsätze für den Schulbau und die Ausstattung von Schulen,
+
+4\.
+Schulversuche,
+
+5\.
+Entwürfe von Rechts- und Verwaltungsvorschriften, die pädagogisch von
+grundsätzlicher Bedeutung sind,
+
+6\.
+Grundzüge der Schulentwicklungsplanung,
+
+7\.
+Maßnahmen zur Verbesserung, Planung und Durchführung der Kooperation
+zwischen Jugendhilfe und Schule.
 
 <abs id="P115A3">(3)</abs> Der Landesschulbeirat dient dem Austausch von Informationen und
 Erfahrungen der Mitglieder untereinander und mit der für das Schulwesen
@@ -6888,45 +8155,59 @@ Er kooperiert mit dem Landesjugendhilfeausschuss.
 
 <abs id="P115A4">(4)</abs> Stimmberechtigte Mitglieder des Landesschulbeirats sind
 
-1\. die jeweiligen von den Bezirksausschüssen gewählten Vertreterinnen
-oder Vertreter,
+1\.
+die jeweiligen von den Bezirksausschüssen gewählten Vertreterinnen oder
+Vertreter,
 
-2\. die vom Beirat Berufliche Schulen gewählten Vertreterinnen oder
+2\.
+die vom Beirat Berufliche Schulen gewählten Vertreterinnen oder
 Vertreter der Lehrkräfte, Schülerinnen oder Schüler und
 Erziehungsberechtigten,
 
-3\. die oder der vom Beirat Berufliche Schulen gewählte Vertreterin oder
+3\.
+die oder der vom Beirat Berufliche Schulen gewählte Vertreterin oder
 Vertreter der Arbeitgeber und Arbeitnehmer,
 
-4\. je eine Vertreterin oder ein Vertreter der Landesverbände des
-Deutschen Gewerkschaftsbundes und des Deutschen Beamtenbundes, die von
-diesen benannt werden,
+4\.
+je eine Vertreterin oder ein Vertreter der Landesverbände des Deutschen
+Gewerkschaftsbundes und des Deutschen Beamtenbundes, die von diesen
+benannt werden,
 
-5\. je eine Vertreterin oder ein Vertreter der Industrie- und
-Handelskammer, der Handwerkskammer sowie der Vereinigung der
-Unternehmensverbände, die von diesen benannt werden,
+5\.
+je eine Vertreterin oder ein Vertreter der Industrie- und Handelskammer,
+der Handwerkskammer sowie der Vereinigung der Unternehmensverbände, die
+von diesen benannt werden,
 
-6\. je eine Vertreterin oder ein Vertreter der Religions- und
+6\.
+je eine Vertreterin oder ein Vertreter der Religions- und
 Weltanschauungsgemeinschaften, die nach <a href="#P13A1">§ 13 Absatz 1</a> Religions- oder
 Weltanschauungsunterricht anbieten und von denen jene benannt werden,
 
-7\. eine Vertreterin oder ein Vertreter des Landessportbundes Berlin,
-die oder der von diesem benannt wird, und
+7\.
+eine Vertreterin oder ein Vertreter des Landessportbundes Berlin, die
+oder der von diesem benannt wird, und
 
-8\. eine Vertreterin oder ein Vertreter des
-Landesjugendhilfeausschusses, die oder der von diesem benannt wird.
+8\.
+eine Vertreterin oder ein Vertreter des Landesjugendhilfeausschusses,
+die oder der von diesem benannt wird.
 
 (4a) Mit beratender Stimme gehören dem Landesschulbeirat an,
 
-1\. die Sprecherinnen oder Sprecher der Lehrkräfte, Schülerinnen und
-Schüler oder Erziehungsberechtigten der staatlich anerkannten
-Ersatzschulen, die Mitglieder der Landesausschüsse sind,
+1\.
+die Sprecherinnen oder Sprecher der Lehrkräfte, Schülerinnen und Schüler
+oder Erziehungsberechtigten der staatlich anerkannten Ersatzschulen, die
+Mitglieder der Landesausschüsse sind,
 
-2\. eine Vertreterin oder ein Vertreter des Landesbeirats für
-Integrations- und Migrationsfragen,
+2\.
+eine Vertreterin oder ein Vertreter des Landesbeirats für Partizipation,
 
-3\. die Vertreterin oder der Vertreter eines für die staatliche
-Europaschule zu errichtenden Beirats.
+3\.
+die Vertreterin oder der Vertreter eines für die staatliche Europaschule
+zu errichtenden Beirats,
+
+4\.
+eine Vertreterin oder ein Vertreter des Landesbeirats für Menschen mit
+Behinderungen.
 
 <abs id="P115A5">(5)</abs> Das für das Schulwesen zuständige Mitglied des Senats hat das
 Recht, an den Sitzungen des Landesschulbeirats mit beratender Stimme
@@ -6938,11 +8219,7 @@ für die Tagesordnung sind zu behandeln.
 Beauftragte der für das Schulwesen zuständigen Senatsverwaltung können
 als Gäste teilnehmen.
 
-
-
-## Teil X - Gemeinsame Bestimmungen
-
-
+Teil X Gemeinsame Bestimmungen
 
 # <par id="P116">§ 116</par> Grundsätze für die Arbeit von Gremien
 
@@ -7013,19 +8290,22 @@ ermöglicht.
 Die für das Schulwesen zuständige Senatsverwaltung ist verpflichtet,
 eine Mustergeschäftsordnung zu erlassen.
 
-Sofern ein Gremium mit absoluter Mehrheit von der allgemeinen
-Geschäftsordnung abweicht oder sich eine eigene Geschäftsordnung gibt,
-gilt diese in entsprechender Fassung für die Länge der Wahlperiode.
+Sofern ein Gremium mit der Mehrheit seiner stimmberechtigten Mitglieder
+von der Mustergeschäftsordnung abweicht oder sich eine eigene
+Geschäftsordnung gibt, gilt diese in entsprechender Fassung für die
+Länge der Wahlperiode.
 
-<abs id="P116A8">(8)</abs> Gremien und Versammlungen von Schülerinnen und Schülern sowie
-Gremien und Versammlungen von Eltern können mit der Mehrheit ihrer
-stimmberechtigten Mitglieder beschließen, dass zukünftige Sitzungen als
-Videokonferenz durchgeführt und Beschlüsse in einem elektronischen
-Verfahren oder in einem schriftlichen Verfahren gefasst werden.
+<abs id="P116A8">(8)</abs> Gremien können mit der Mehrheit ihrer stimmberechtigten Mitglieder
+beschließen, dass zukünftige Sitzungen als Videokonferenz durchgeführt
+und Beschlüsse in einem elektronischen Verfahren oder in einem
+schriftlichen Verfahren gefasst werden.
 
-# <par id="P117">§ 117</par> Grundsätze für die Wahlen
+Gleiches gilt für Versammlungen von Schülerinnen und Schülern sowie
+Versammlungen von Eltern.
 
-Die in diesem Gesetz vorgesehenen Wahlen sind geheim.
+# <par id="P117">§ 117</par> Grundsätze für Wahlen
+
+<abs id="P117A1">(1)</abs> Die in diesem Gesetz vorgesehenen Wahlen sind geheim.
 
 Sie können offen erfolgen, wenn alle anwesenden Wahlberechtigten
 einverstanden sind.
@@ -7045,8 +8325,8 @@ Gremiums wird mindestens eine Stellvertreterin oder ein Stellvertreter
 gewählt.
 
 <abs id="P117A3">(3)</abs> In allen Gremien sollen Frauen und Männer sowie Schülerinnen und
-Schüler gleichermaßen vertreten sein; ergänzend gilt § 15 des
-Landesgleichstellungsgesetzes in der jeweils geltenden Fassung.
+Schüler gleichermaßen vertreten sein; <a href="#P15A1">§ 15 Absatz 1</a> des
+Landesgleichstellungsgesetzes gilt in der jeweils geltenden Fassung.
 
 <abs id="P117A4">(4)</abs> Die Mitglieder eines Gremiums sowie die Stellvertreterinnen oder
 Stellvertreter werden in getrennten Wahlgängen gewählt.
@@ -7068,10 +8348,18 @@ die Einberufung des neu zu bildenden Gremiums bestimmten Frist.
 
 Die Amtszeit endet auch
 
-1\. durch Abwahl, 2. durch Niederlegung des Amtes, 3. mit Ablauf der
-Zugehörigkeit zu der jeweiligen Schule oder 4. bei
-Erziehungsberechtigten mit Ablauf des Schuljahres, in dem die Schülerin
-oder der Schüler volljährig wird.
+1\.
+durch Abwahl,
+
+2\.
+durch Niederlegung des Amtes,
+
+3\.
+mit Ablauf der Zugehörigkeit zu der jeweiligen Schule oder
+
+4\.
+bei Erziehungsberechtigten mit Ablauf des Schuljahres, in dem die
+Schülerin oder der Schüler volljährig wird.
 
 Für die Abwahl eines Mitglieds ist ein Gremium beschlussfähig, wenn
 mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
@@ -7105,11 +8393,17 @@ Stelle einzulegen.
 <abs id="P118A2">(2)</abs> Über Einsprüche entscheidet nach Anhörung der Wahlleiterin oder
 des Wahlleiters
 
-1\. bei schulischen Gremien die Schulleiterin oder der Schulleiter
-innerhalb einer Woche nach Eingang, 2. bei bezirklichen Gremien die
-Schulaufsichtsbehörde innerhalb von drei Wochen nach Eingang oder 3. bei
-Landesgremien die Schulaufsichtsbehörde innerhalb von drei Wochen nach
-Eingang.
+1\.
+bei schulischen Gremien die Schulleiterin oder der Schulleiter innerhalb
+einer Woche nach Eingang,
+
+2\.
+bei bezirklichen Gremien die Schulaufsichtsbehörde innerhalb von drei
+Wochen nach Eingang oder
+
+3\.
+bei Landesgremien die Schulaufsichtsbehörde innerhalb von drei Wochen
+nach Eingang.
 
 <abs id="P118A3">(3)</abs> Ist bei einer Wahl gegen Rechtsvorschriften verstoßen worden und
 kann dadurch das Wahlergebnis beeinflusst worden sein, so hat die
@@ -7142,15 +8436,19 @@ Mitglied oder dessen Angehörige persönlich betreffen, beschränkt sich
 die Mitwirkung auf seine Anwesenheit in der Sitzung; an der
 Beschlussfassung darf sich das Mitglied nicht beteiligen.
 
-Im Übrigen gelten die § § 20 und 21 des Verwaltungsverfahrensgesetzes in
+Im Übrigen gelten die §§ 20 und 21 des Verwaltungsverfahrensgesetzes in
 der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102) in
 der jeweils geltenden Fassung entsprechend.
 
 <abs id="P120A3">(3)</abs> Die Mitglieder der in diesem Gesetz genannten Gremien sind zur
 Verschwiegenheit verpflichtet
 
-1\. in allen Personalangelegenheiten und 2. in allen Angelegenheiten,
-für die das Gremium die Vertraulichkeit der Beratung beschlossen hat.
+1\.
+in allen Personalangelegenheiten und
+
+2\.
+in allen Angelegenheiten, für die das Gremium die Vertraulichkeit der
+Beratung beschlossen hat.
 
 Die Pflicht zur Verschwiegenheit der Angehörigen des öffentlichen
 Dienstes richtet sich nach den dienst- und personalrechtlichen
@@ -7198,9 +8496,20 @@ sind.
 
 Das Protokoll muss mindestens Angaben enthalten über
 
-1\. den Ort und den Tag der Sitzung, 2. die Namen der anwesenden
-Mitglieder, 3. den behandelten Gegenstand und die gestellten Anträge, 4.
-die gefassten Beschlüsse und 5. das Ergebnis von Wahlen.
+1\.
+den Ort und den Tag der Sitzung,
+
+2\.
+die Namen der anwesenden Mitglieder,
+
+3\.
+den behandelten Gegenstand und die gestellten Anträge,
+
+4\.
+die gefassten Beschlüsse und
+
+5\.
+das Ergebnis von Wahlen.
 
 <abs id="P122A2">(2)</abs> Lehrkräften, Schülerinnen und Schülern sowie
 Erziehungsberechtigten ist Gelegenheit zu geben, die Sitzungsprotokolle
@@ -7221,11 +8530,8 @@ Verfügung.
 
 Absatz 2 Satz 2 gilt entsprechend.
 
-
-
-## Teil XI - Musikschulen, Jugendkunstschulen, Jugendverkehrsschulen und Gartenarbeitsschulen
-
-
+Teil XI Musikschulen, Jugendkunstschulen, Jugendverkehrsschulen und
+Gartenarbeitsschulen
 
 # <par id="P123">§ 123</par> Musikschulen
 
@@ -7252,10 +8558,30 @@ instrumentale und vokale Angebote und das Musizieren in Ensembles.
 <abs id="P123A3">(3)</abs> Musikschulen halten ein kontinuierliches Unterrichtsangebot in
 folgenden Bereichen vor:
 
-1\. Elementarbereich (Grundstufe), a) musikalische Früherziehung, b)
-musikalische Grundausbildung, 2. instrumentale und vokale Hauptfächer
-(Unter-, Mittel- und Oberstufe), 3. Ensemble- und Ergänzungsfächer, 4.
-musiktheoretische Fächer und 5. studienvorbereitende Ausbildung.
+1\.
+Elementarbereich (Grundstufe),
+
+a\)
+musikalische Früherziehung,
+
+b\)
+musikalische Grundausbildung,
+
+2\.
+
+instrumentale und vokale Hauptfächer (Unter-, Mittel- und Oberstufe),
+
+3\.
+
+Ensemble- und Ergänzungsfächer,
+
+4\.
+
+musiktheoretische Fächer und
+
+5\.
+
+studienvorbereitende Ausbildung.
 
 <abs id="P123A4">(4)</abs> Zur Sicherung der Qualität ihres Bildungsangebots sind die
 Musikschulen verpflichtet, geeignete Verfahren der Qualitätssicherung
@@ -7289,8 +8615,8 @@ erforderlichen Verwaltungsvorschriften.
 # <par id="P124">§ 124</par> Jugendkunstschulen, Jugendverkehrsschulen und Gartenarbeitsschulen
 
 <abs id="P124A1">(1)</abs> Jeder Bezirk unterhält eine Jugendkunstschule, eine
-Jugendverkehrsschule und eine Gartenarbeitsschule, mit einem
-oder mehreren Standorten.
+Jugendverkehrsschule und eine Gartenarbeitsschule, mit einem oder
+mehreren Standorten.
 
 Diese Verpflichtung kann auch dadurch erfüllt werden, dass der Bezirk
 die Aufgabe in andere Trägerschaft übergibt.
@@ -7312,7 +8638,7 @@ erforderlichen Verwaltungsvorschriften.
 
 Sie entwickelt gemeinsame Qualitätsstandards für die Jugendkunstschulen.
 
-<abs id="P124A3">(3)</abs> Die Jugendverkehrsschulen haben die Aufgabe, Kindern und
+<abs id="P124A3">(3)</abs> Die Jugendverkehrsschulen \[1\] haben die Aufgabe, Kindern und
 Jugendlichen den chancengerechten Zugang zu Mobilitätsbildung und
 Verkehrserziehung zu eröffnen.
 
@@ -7338,13 +8664,9 @@ Sie können auch Ausbildungsorte sein.
 Die für die Gartenarbeitsschulen zuständige Senatsverwaltung entwickelt
 gemeinsame Qualitätsstandards für die Gartenarbeitsschulen.
 
-
-
-------------------------------------------------------------------------
-
-Das vierte Gesetz zur Änderung des Schulgesetzes vom 27. September 2021
-(GVBl. Berlin 2021, S. 1125) enthält folgende Änderungsanweisung: 41. In
-§ 124a Absatz 3 Satz 1 werden nach den Wörtern „Die
+\[1\] Das vierte Gesetz zur Änderung des Schulgesetzes vom 27. September
+2021 (GVBl. Berlin 2021, S. 1125) enthält folgende Änderungsanweisung:
+41. In § 124a Absatz 3 Satz 1 werden nach den Wörtern „Die
 Jugendverkehrsschulen“ die Wörter „als zentrale außerschulische Orte des
 schulischen Mobilitätsmanagements gemäß § 17a des Berliner
 Mobilitätsgesetzes“ eingefügt. Diese Änderung kann so nicht umgesetzt
@@ -7352,11 +8674,7 @@ werden, da die Regelungen in § 124a (a.F.) durch das Gesetz über die
 Erwachsenenbildung im Land Berlin vom 07.Juni 2021 in § 124 (n.F.)
 übertragen wurden.
 
-
-
-## Teil XII Übergangs- und Schlussvorschriften
-
-
+Teil XII Übergangs- und Schlussvorschriften
 
 # <par id="P125">§ 125</par> Fortführung von Schulen
 
@@ -7368,13 +8686,13 @@ Gleiches gilt für abweichende Organisationsformen und Schulversuche.
 
 Für die Aufnahme in diese Schulen gelten bis zum Erlass einer
 Rechtsverordnung nach § 18 Abs. 3 die Aufnahmeregelungen des § 58 Abs. 1
-des bisherigen Schulgesetzes für Berlin in der Fassung vom
-20. August 1980 (GVBl. S. 2103), das zuletzt durch Gesetz vom
-3. Juli 2003 (GVBl. S. 251, 306) geändert worden ist.
+des bisherigen Schulgesetzes für Berlin in der Fassung vom 20. August
+1980 (GVBl. S. 2103), das zuletzt durch Gesetz vom 3. Juli 2003 (GVBl.
+S. 251, 306) geändert worden ist.
 
-Für die John-F.-Kennedy-Schule (Deutsch-Amerikanische ) gelten die
-Vorschriften des Gesetzes über die John-F.-Kennedy-Schule vom
-3. November 1987 (GVBl. S. 2574), zuletzt geändert durch Artikel XVI des
+Für die John-F.-Kennedy-Schule (Deutsch-Amerikanische Schule) gelten die
+Vorschriften des Gesetzes über die John-F.-Kennedy-Schule vom 3.
+November 1987 (GVBl. S. 2574), zuletzt geändert durch Artikel XVI des
 Gesetzes vom 19. Juli 2002 (GVBl. S. 199), in der jeweils geltenden
 Fassung.
 
@@ -7388,18 +8706,28 @@ Bestimmungen in Teil VII.
 
 <abs id="P126A1">(1)</abs> Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1\. als Erziehungsberechtigter oder Ausbildender den Bestimmungen über
-die Schulpflicht (§ 44) zuwiderhandelt, 2. ohne die nach § 98
-erforderliche Genehmigung eine Ersatzschule betreibt oder leitet oder
-beim weiteren Betrieb gegen die Grundsätze der Genehmigung nach § 98
-verstößt, 3. eine nach § 102 Abs. 2 anzeigepflichtige Ergänzungsschule
-oder nach § 104 Abs. 1 anzeigepflichtige freie Einrichtung betreibt oder
-leitet und es unterlässt, diese Schule oder Einrichtung der
-Schulaufsichtsbehörde anzuzeigen, 4. der Bestimmung des § 96
-zuwiderhandelt oder 5. als Erziehungsberechtigte oder
-Erziehungsberechtigter den Bestimmungen über die Teilnahme an der
-Sprachstandsfeststellung oder an der vorschulischen Sprachförderung nach
-<a href="#P55A3">§ 55 Absatz 3</a> zuwiderhandelt.
+1\.
+als Erziehungsberechtigter oder Ausbildender den Bestimmungen über die
+Schulpflicht (§ 44) zuwiderhandelt,
+
+2\.
+ohne die nach § 98 erforderliche Genehmigung eine Ersatzschule betreibt
+oder leitet oder beim weiteren Betrieb gegen die Grundsätze der
+Genehmigung nach § 98 verstößt,
+
+3\.
+eine nach § 102 Abs. 2 anzeigepflichtige Ergänzungsschule oder nach §
+104 Abs. 1 anzeigepflichtige freie Einrichtung betreibt oder leitet und
+es unterlässt, diese Schule oder Einrichtung der Schulaufsichtsbehörde
+anzuzeigen,
+
+4\.
+der Bestimmung des § 96 zuwiderhandelt oder
+
+5\.
+als Erziehungsberechtigte oder Erziehungsberechtigter den Bestimmungen
+über die Teilnahme an der Sprachstandsfeststellung oder an der
+vorschulischen Sprachförderung nach <a href="#P55A3">§ 55 Absatz 3</a> zuwiderhandelt.
 
 <abs id="P126A2">(2)</abs> Ordnungswidrig handelt auch, wer vorsätzlich Schulpflichtige oder
 die in § 44 genannten Personen dazu veranlasst, den Bestimmungen über
@@ -7425,7 +8753,8 @@ des Grundgesetzes, Artikel 8 Abs. 1 Satz 1 der Verfassung von Berlin)
 wird nach Maßgabe des § 52 Abs. 2 (Untersuchungen), das Grundrecht der
 Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes, Artikel
 8 Abs. 1 Satz 2 der Verfassung von Berlin) nach Maßgabe des § 46 Abs. 2
-(Schulverhältnis), eingeschränkt.
+(Schulverhältnis), der §§ 41 bis 45 (Schulpflicht) und des § 55
+(vorgezogene Sprachförderung) eingeschränkt.
 
 # <par id="P128">§ 128</par> Verwaltungsvorschriften
 
@@ -7468,8 +8797,8 @@ bildende Ersatzschulen gemäß §§ 98, 100 genehmigt oder anerkannt sind
 und die in Integrierte Sekundarschulen umgewandelt werden, gelten die
 Genehmigung oder Anerkennung fort.
 
-Sie erhalten bei Fortbestehen der Voraussetzungen die Zuschüsse nach
-<a href="#P101A2">§ 101 Absatz 2</a>.
+Sie erhalten bei Fortbestehen der Voraussetzungen die Zuschüsse nach §
+101 Absatz 2.
 
 Die Erfüllung der Anforderungen des <a href="#P98A3">§ 98 Absatz 3</a> an eine Integrierte
 Sekundarschule in freier Trägerschaft ist innerhalb eines Jahres nach
@@ -7493,21 +8822,21 @@ weiter Anwendung mit der Maßgabe, dass diese Ersatzschule, für die die
 Bezuschussung beantragt wird, spätestens mit Beginn des Schuljahres
 2014/2015 eröffnet.
 
-<a href="#P101A7">§ 101 Absatz 7</a> Satz 4 findet auf Ersatzschulen eines bewährten
+# <par id="P101">§ 101</par> Absatz 7 Satz 4 findet auf Ersatzschulen eines bewährten
 Schulträgers Anwendung, die nach dem in Satz 1 genannten Zeitpunkt
 genehmigt worden sind.
 
-<abs id="P129A5">(5)</abs> Bei der Aufnahme zum Schuljahr 2014/2015 ist <a href="#P56A3">§ 56 Absatz 3</a> in der
+<abs id="P101A5">(5)</abs> Bei der Aufnahme zum Schuljahr 2014/2015 ist § 56 Absatz 3 in der
 bis zum Inkrafttreten des Gesetzes zur Änderung des Schulgesetzes und
 weiterer Gesetze vom 26. März 2014 (GVBl. S. 78) geltenden Fassung
 anzuwenden.
 
-<abs id="P129A6">(6)</abs> Für Kinder nach <a href="#P55A1">§ 55 Absatz 1</a>, die im Schuljahr 2015/2016
+<abs id="P101A6">(6)</abs> Für Kinder nach <a href="#P55A1">§ 55 Absatz 1</a>, die im Schuljahr 2015/2016
 regelmäßig schulpflichtig werden, ist § 55 in der bis zum Inkrafttreten
 des Gesetzes zur Änderung des Schulgesetzes und weitere Gesetze vom 26.
 März 2014 (GVBl. S. 78) geltenden Fassung anzuwenden.
 
-<abs id="P129A7">(7)</abs> Für den Beginn der regelmäßigen Schulpflicht der Kinder, die
+<abs id="P101A7">(7)</abs> Für den Beginn der regelmäßigen Schulpflicht der Kinder, die
 zwischen dem 1. Oktober und 31. Dezember 2010 geboren sind, gilt <a href="#P42A1">§ 42 Absatz 1</a> in der bis zum Inkrafttreten des Gesetzes zur Änderung des
 Schulgesetzes und des Allgemeinen Zuständigkeitsgesetzes vom 4. Februar
 2016 (GVBl. S. 33) geltenden Fassung.
@@ -7515,9 +8844,9 @@ Schulgesetzes und des Allgemeinen Zuständigkeitsgesetzes vom 4. Februar
 Für die in Satz 1 genannten Kinder erfolgt die Rückstellung von der
 Schulbesuchspflicht für das Schuljahr 2016/2017 abweichend von <a href="#P42A3">§ 42 Absatz 3</a> allein aufgrund des Antrags der Erziehungsberechtigten.
 
-<abs id="P129A8">(8)</abs> Die Einschulungsbereiche für Gemeinschaftsschulen werden beginnend
+<abs id="P101A8">(8)</abs> Die Einschulungsbereiche für Gemeinschaftsschulen werden beginnend
 mit dem Einschulungsverfahren zum Schuljahr 2020/2021 verbindlich gemäß
-<a href="#P54A5">§ 54 Absatz 5</a> in der ab dem Inkrafttreten von Artikel 1 Nummer 32 des
+# <par id="P54">§ 54</par> Absatz 5 in der ab dem Inkrafttreten von Artikel 1 Nummer 32 des
 Gesetzes zur Änderung des Schulgesetzes und weiterer Rechtsvorschriften
 vom 18. Dezember 2018 (GVBl. S. 710) geltenden Fassung festgelegt.
 
@@ -7525,14 +8854,14 @@ Für das Einschulungsverfahren und das Aufnahmeverfahren für das
 Schuljahr 2019/2020 findet § 17a Absatz 5 in der bis zum Inkrafttreten
 von Artikel 1 Nummer 13 des vorgenannten Gesetzes geltenden Fassung
 weiter Anwendung, sofern die zuständige Schulbehörde nicht bereits
-Einschulungsbereiche gemäß <a href="#P54A5">§ 54 Absatz 5</a> in der in Satz 1 genannten
+Einschulungsbereiche gemäß § 54 Absatz 5 in der in Satz 1 genannten
 Fassung gebildet hat.
 
 Für das Übergangs- und Aufnahmeverfahren für das Schuljahr 2019/2020 in
 die Sekundarstufe I der Gemeinschaftsschule findet § 17a Absatz 5 in der
 in Satz 2 genannten Fassung ebenfalls weiter Anwendung.
 
-<abs id="P129A9">(9)</abs> Beschlüsse der Schulkonferenz gemäß <a href="#P76A1">§ 76 Absatz 1</a> Nummer 9 und <a href="#P58A4">§ 58 Absatz 4</a> Satz 6 und 7 in der ab dem Inkrafttreten von Artikel 1
+<abs id="P54A9">(9)</abs> Beschlüsse der Schulkonferenz gemäß § 76 Absatz 1 Nummer 9 und <a href="#P58A4">§ 58 Absatz 4</a> Satz 6 und 7 in der ab dem Inkrafttreten von Artikel 1
 Nummer 44 des Gesetzes zur Änderung des Schulgesetzes und weiterer
 Rechtsvorschriften vom 18. Dezember 2018 (GVBl. S. 710) geltenden
 Fassung können erstmals mit Wirkung für das Schuljahr 2019/2020
@@ -7543,37 +8872,91 @@ in der bis zum Inkrafttreten von Artikel 1 Nummer 13 des in Satz 1
 genannten Gesetzes geltenden Fassung gelten für das Schuljahr 2018/19
 fort.
 
-<abs id="P129A10">(10)</abs> Schulen, die an der Pilotphase der Gemeinschaftsschule gemäß §
+<abs id="P54A10">(10)</abs> Schulen, die an der Pilotphase der Gemeinschaftsschule gemäß §
 17a in der bis zum Inkrafttreten von Artikel 1 Nummer 13 des Gesetzes
 zur Änderung des Schulgesetzes und weiterer Rechtsvorschriften vom 18.
 Dezember 2018 (GVBl. S. 710) geltenden Fassung teilgenommen haben, sind
 ab dem Zeitpunkt des Inkrafttretens von Artikel 1 Nummer 17 des
 vorgenannten Gesetzes Gemeinschaftsschulen im Sinne dieses Gesetzes.
 
-<abs id="P129A11">(11)</abs> Schülerinnen und Schüler, die zum Zeitpunkt des Inkrafttretens
+<abs id="P54A11">(11)</abs> Schülerinnen und Schüler, die zum Zeitpunkt des Inkrafttretens
 von Artikel 1 Nummer 21 und 22 des Gesetzes zur Änderung des
 Schulgesetzes und weiterer Rechtsvorschriften vom 18. Dezember 2018
-(GVBl. S. 710) Lehrgänge nach <a href="#P29A3">§ 29 Absatz 3</a> und 4 oder einjährige
-Bildungsgänge nach <a href="#P30A1">§ 30 Absatz 1</a> in der bis zu diesem Zeitpunkt
+(GVBl. S. 710) Lehrgänge nach § 29 Absatz 3 und 4 oder einjährige
+Bildungsgänge nach § 30 Absatz 1 in der bis zu diesem Zeitpunkt
 geltenden Fassung besuchen, beenden diese Lehrgänge nach den bis zu
 diesem Zeitpunkt geltenden Bestimmungen.
 
-<abs id="P129A12">(12)</abs> Die nach <a href="#P8A2">§ 8 Absatz 2</a> Nummer 5, 6, 9, 12 und 13 erforderlichen
+<abs id="P54A12">(12)</abs> Die nach <a href="#P8A2">§ 8 Absatz 2</a> Nummer 5, 6, 9, 12 und 13 erforderlichen
 Konzepte sind von der Schule erstmalig zum Schuljahr 2022/2023
 vorzuhalten oder anzupassen.
 
-<abs id="P129A13">(13)</abs> <a href="#P5A3">§ 5 Absatz 3</a>, <a href="#P7A2">§ 7 Absatz 2</a>a Satz 2, § 15, <a href="#P19A6">§ 19 Absatz 6</a>, <a href="#P22A3">§ 22 Absatz 3</a>, <a href="#P23A3">§ 23 Absatz 3</a>, <a href="#P26A3">§ 26 Absatz 3</a>, § 39 Nummer 3, <a href="#P41A3">§ 41 Absatz 3</a>a, <a href="#P52A2">§ 52 Absatz 2</a>a, <a href="#P55A3">§ 55 Absatz 3</a>, <a href="#P69A1">§ 69 Absatz 1</a>, <a href="#P74A3">§ 74 Absatz 3</a>, <a href="#P76A1">§ 76 Absatz 1</a>, <a href="#P77A1">§ 77 Absatz 1</a>, <a href="#P82A1">§ 82 Absatz 1</a> und 2, <a href="#P84A1">§ 84 Absatz 1</a> und 3, § 84a, <a href="#P85A1">§ 85 Absatz 1</a>, § 95 Absatz 4, <a href="#P115A4">§ 115 Absatz 4</a> und 4a sowie <a href="#P116A1">§ 116 Absatz 1</a>, 7
+<abs id="P54A13">(13)</abs> <a href="#P5A3">§ 5 Absatz 3</a>, <a href="#P7A2">§ 7 Absatz 2</a>a Satz 2, § 15, <a href="#P19A6">§ 19 Absatz 6</a>, § 22
+Absatz 3, <a href="#P23A3">§ 23 Absatz 3</a>, § 26 Absatz 3, § 39 Nummer 3, <a href="#P41A3">§ 41 Absatz 3</a>a, <a href="#P52A2">§ 52 Absatz 2</a>a, <a href="#P55A3">§ 55 Absatz 3</a>, <a href="#P69A1">§ 69 Absatz 1</a>, <a href="#P74A3">§ 74 Absatz 3</a>, § 76 Absatz
+1, § 77 Absatz 1, <a href="#P82A1">§ 82 Absatz 1</a> und 2, <a href="#P84A1">§ 84 Absatz 1</a> und 3, § 84a, <a href="#P85A1">§ 85 Absatz 1</a>, <a href="#P95A4">§ 95 Absatz 4</a>, <a href="#P115A4">§ 115 Absatz 4</a> und 4a sowie <a href="#P116A1">§ 116 Absatz 1</a>, 7
 und 8 in der ab dem Inkrafttreten des Vierten Gesetzes zur Änderung des
 Schulgesetzes vom 27. September 2021 (GVBl. S. 1125) geltenden Fassung
 treten zu Beginn des Schuljahres 2022/2023 in Kraft.
 
+<abs id="P54A14">(14)</abs> Für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in
+der Jahrgangsstufe 6 der Primarstufe befinden, wird die
+Durchschnittsnote der Förderprognose abweichend von § 56 Absatz 3 aus
+den am Ende der Jahrgangsstufe 5 und den im ersten Schulhalbjahr der
+Jahrgangsstufe 6 erteilten Zeugnisnoten gebildet, wobei die Fächer
+Deutsch, Mathematik, Fremdsprache, Gesellschaftswissenschaften und
+Naturwissenschaften verstärkt mit dem Faktor 2 berücksichtigt werden.
 
+Die Durchschnittsnote wird mit einer nicht gerundeten Stelle nach dem
+Komma ausgewiesen.
 
-# <par id="P129a">§ 129a</par> Sonderregelungen auf Grund der Ausbreitung des Coronavirus SARS-CoV-2
+Die Erziehungsberechtigten können ihr Kind, dessen Förderprognose die
+Durchschnittsnote von 2,2 überschreitet, nur dann an einem Gymnasium
+anmelden, wenn die Eignung für den Besuch des Gymnasiums nachgewiesen
+wird.
 
-<abs id="P129aA1">(1)</abs> Bestehen Schülerinnen und Schüler die im Schuljahr 2021/2022
+<abs id="P54A15">(15)</abs> <a href="#P56A5">§ 56 Absatz 5</a> in der Fassung des Zweiten Gesetzes zur Änderung
+des Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024
+(GVBl. S. 465) findet erstmalig auf die Schülerinnen und Schüler
+Anwendung, die sich im Schuljahr 2025/2026 in der Jahrgangsstufe 7
+befinden.
+
+<abs id="P54A16">(16)</abs> Auf Schülerinnen und Schüler in der dualen Ausbildung, die zum
+Zeitpunkt des Inkrafttretens von Artikel 1 Nummer 13 Buchstabe a des
+Zweiten Gesetzes zur Änderung des Schulgesetzes und weiterer
+Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) die Berufsschule
+besuchen, findet § 29 Absatz 2 Satz 1 in der bis zu diesem Zeitpunkt
+geltenden Fassung Anwendung.
+
+# <par id="P29">§ 29</par> Absatz 3 in der Fassung des Zweiten Gesetzes zur Änderung des
+Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024 (GVBl.
+S. 465) findet erstmalig auf die Schülerinnen und Schüler Anwendung, die
+im Schuljahr 2025/2026 den Bildungsgang „Integrierte
+Berufsausbildungsvorbereitung“ aufnehmen.
+
+<abs id="P29A17">(17)</abs> <a href="#P43A1">§ 43 Absatz 1</a> und 4, <a href="#P43aA3">§ 43a Absatz 3</a> und 4 sowie <a href="#P43bA2">§ 43b Absatz 2</a>
+und 3 in der Fassung des Zweiten Gesetzes zur Änderung des Schulgesetzes
+und weiterer Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) finden
+erstmalig auf die Schülerinnen und Schüler Anwendung, die sich im
+Schuljahr 2024/2025 im zehnten Schulbesuchsjahr gemäß <a href="#P42A4">§ 42 Absatz 4</a>
+befinden.
+
+<abs id="P29A18">(18)</abs> <a href="#P57A3">§ 57 Absatz 3</a> in der Fassung des Zweiten Gesetzes zur Änderung
+des Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024
+(GVBl. S. 465) findet erstmalig im Aufnahmeverfahren für das Schuljahr
+2025/2026 Anwendung.
+
+<abs id="P29A19">(19)</abs> <a href="#P59A1">§ 59 Absatz 1</a> Satz 4 und Absatz 3 Satz 3 in der Fassung des
+Zweiten Gesetzes zur Änderung des Schulgesetzes und weiterer
+Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) findet erstmalig auf
+die Schülerinnen und Schüler Anwendung, die im Schuljahr 2025/2026 einen
+Bildungsgang der Fachoberschule aufnehmen.
+
+# <par id="P129a">§ 129a</par> Sonderregelungen auf Grund der Ausbreitung des Coronavirus SARS
+CoV 2
+
+<abs id="P129aA1">(1)</abs> Bestehen Schülerinnen und Schüler die im Schuljahr 2022/2023
 durchgeführte Abiturprüfung nicht, können sie diese wiederholen, ohne
-dass diese Wiederholung auf die Höchstverweildauer gemäß <a href="#P28A1">§ 28 Absatz 1</a>
+dass diese Wiederholung auf die Höchstverweildauer gemäß § 28 Absatz 1
 Satz 3 und 4 und auf die Anzahl von zulässigen Wiederholungen gemäß <a href="#P60A2">§ 60 Absatz 2</a> Satz 3 und 4 angerechnet wird.
 
 Satz 1 gilt für Nichtschülerinnen und Nichtschüler entsprechend.
@@ -7581,30 +8964,38 @@ Satz 1 gilt für Nichtschülerinnen und Nichtschüler entsprechend.
 Eine Wiederholung gemäß Satz 1 ist für Schülerinnen und Schüler
 ausgeschlossen, die im Schuljahr 2020/2021 das Recht auf Wiederholung
 gemäß § 129a Absatz 7 in der bis zum 31. Juli 2021 geltenden Fassung
-oder das Recht auf Rücktritt gemäß § 129a Absatz 8 in der bis zum 31.
-Juli 2021 geltenden Fassung in Anspruch genommen haben.
+oder Rücktritt gemäß § 129a Absatz 8 in der bis zum 31. Juli 2021
+geltenden Fassung oder im Schuljahr 2021/2022 das Recht auf Wiederholung
+gemäß <a href="#P129aA1">§ 129a Absatz 1</a> in der bis zum 31. Juli 2022 geltenden Fassung
+oder Rücktritt gemäß <a href="#P129aA2">§ 129a Absatz 2</a> in der bis zum 31. Juli 2022
+geltenden Fassung in Anspruch genommen haben.
 
 Für Nichtschülerinnen und Nichtschüler, die im Schuljahr 2020/2021 das
 Recht auf Wiederholung gemäß § 129a Absatz 7 in der bis zum 31. Juli
-2021 geltenden Fassung in Anspruch genommen haben, ist eine Wiederholung
-nach Satz 2 in Verbindung mit Satz 1 ausgeschlossen.
+2021 geltenden Fassung oder im Schuljahr 2021/2022 das Recht auf
+Wiederholung gemäß <a href="#P129aA1">§ 129a Absatz 1</a> in der bis zum 31. Juli 2022
+geltenden Fassung in Anspruch genommen haben, ist eine Wiederholung nach
+Satz 2 in Verbindung mit Satz 1 ausgeschlossen.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P129aA2">(2)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2021/2022 in der
-Qualifikationsphase befinden, können im Schuljahr 2021/2022 auf Antrag
+<abs id="P129aA2">(2)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2022/2023 in der
+Qualifikationsphase befinden, können im Schuljahr 2022/2023 auf Antrag
 mit Zustimmung der Erziehungsberechtigten in den folgenden
 Schülerjahrgang zurücktreten.
 
 Ein Rücktritt gemäß Satz 1 ist für Schülerinnen und Schüler
 ausgeschlossen, die im Schuljahr 2020/2021 das Recht auf Wiederholung
 gemäß § 129a Absatz 7 in der bis zum 31. Juli 2021 geltenden Fassung
-oder das Recht auf Rücktritt gemäß § 129a Absatz 8 in der bis zum 31.
-Juli 2021 geltenden Fassung in Anspruch genommen haben.
+oder Rücktritt gemäß § 129a Absatz 8 in der bis zum 31. Juli 2021
+geltenden Fassung oder im Schuljahr 2021/2022 das Recht auf Wiederholung
+gemäß <a href="#P129aA1">§ 129a Absatz 1</a> in der bis zum 31. Juli 2022 geltenden Fassung
+oder Rücktritt gemäß <a href="#P129aA2">§ 129a Absatz 2</a> in der bis zum 31. Juli 2022
+geltenden Fassung in Anspruch genommen haben.
 
 Der durch den Rücktritt verlängerte Besuch der gymnasialen Oberstufe
-wird nicht auf die zulässige Höchstverweildauer gemäß <a href="#P28A1">§ 28 Absatz 1</a> Satz
+wird nicht auf die zulässige Höchstverweildauer gemäß § 28 Absatz 1 Satz
 3 und 4 sowie gemäß § 2 Absatz 5 der Verordnung über die gymnasiale
 Oberstufe vom 18. April 2007 (GVBl. S. 156), die zuletzt durch Artikel 2
 der Verordnung vom 17. Dezember 2021 (GVBl. S. 1390) geändert worden
@@ -7614,15 +9005,15 @@ ist, in der jeweils geltenden Fassung, und § 2 Absatz 5 der Verordnung
 Verordnung vom 17. Dezember 2021 (GVBl. S. 1390) geändert worden ist, in
 der jeweils geltenden Fassung, angerechnet und ergänzt das
 Rücktrittsrecht gemäß § 27 Absatz 1 und <a href="#P35A1">§ 35 Absatz 1</a> und 2 der
-Verordnung über die gymnasiale Oberstufe und gemäß <a href="#P28A2">§ 28 Absatz 2</a> bis 4,
-<a href="#P30A3">§ 30 Absatz 3</a>, <a href="#P36A1">§ 36 Absatz 1</a> und <a href="#P37A2">§ 37 Absatz 2</a> der Verordnung über die
+Verordnung über die gymnasiale Oberstufe und gemäß § 28 Absatz 2 bis 4,
+# <par id="P30">§ 30</par> Absatz 3, # <par id="P36">§ 36</par> Absatz 1 und # <par id="P37">§ 37</par> Absatz 2 der Verordnung über die
 staatlichen Kollegs und Abendgymnasien, das unberührt bleibt.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P129aA3">(3)</abs> Bestehen Schülerinnen und Schüler sowie Studierende die im
-Schuljahr 2021/2022 durchgeführte Abschlussprüfung der Fachschulen, der
+<abs id="P30A3">(3)</abs> Bestehen Schülerinnen und Schüler sowie Studierende die im
+Schuljahr 2022/2023 durchgeführte Abschlussprüfung der Fachschulen, der
 Berufsfachschulen in Bildungsgängen mit schulischer Abschlussprüfung,
 der Fachoberschulen oder der Berufsoberschulen oder die Zusatzprüfung
 zum Erwerb der Fachhochschulreife nicht, können sie diese wiederholen,
@@ -7639,34 +9030,46 @@ Studierende ausgeschlossen, die im Schuljahr 2020/2021 das Recht auf
 Zurückstellung von der Prüfung gemäß § 9a der
 Berufliche-Schulen-COVID-19-Verordnung 2020/2021 vom 7. Januar 2021
 (GVBl. S. 6), die durch Verordnung vom 25. März 2021 (GVBl. S. 310)
-geändert worden ist, in Anspruch genommen haben.
+geändert worden ist, oder im Schuljahr 2021/2022 das Recht auf
+Zurückstellung von der Prüfung gemäß § 5a der
+Berufliche-Schulen-COVID-19-Verordnung 2021/2022 vom 10. November 2021
+(GVBl. S. 1245), die zuletzt durch Artikel 2 der Verordnung vom 19.
+April 2022 (GVBl. S. 166) geändert worden ist, oder Wiederholung gemäß §
+129a Absatz 3 in der bis zum 31. Juli 2022 geltenden Fassung in Anspruch
+genommen haben.
+
+Für Nichtschülerinnen und Nichtschüler, die im Schuljahr 2021/2022 das
+Recht auf Wiederholung gemäß § 129a Absatz 3 in der bis zum 31. Juli
+2022 geltenden Fassung in Anspruch genommen haben, ist eine Wiederholung
+nach Satz 2 in Verbindung mit Satz 1 ausgeschlossen.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P129aA4">(4)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2021/2022 im
+<abs id="P30A4">(4)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2022/2023 im
 zweiten Jahr eines dreijährigen Bildungsgangs einer beruflichen Schule
 oder im dritten Jahr eines vierjährigen Bildungsgangs einer beruflichen
-Schule befinden, können im Schuljahr 2021/2022 auf Antrag der
+Schule befinden, können im Schuljahr 2022/2023 auf Antrag der
 volljährigen Schülerinnen und Schüler oder der Erziehungsberechtigten in
 den folgenden Jahrgang zurücktreten.
 
-Satz 1 gilt für Studierende der Fachschulen mit der Maßgabe, dass diese
-in das folgende Semester zurücktreten.
+Satz 1 gilt für Studierende der Fachschulen entsprechend mit der
+Maßgabe, dass diese in das folgende Semester zurücktreten.
 
 Der durch den Rücktritt verlängerte Besuch des Bildungsgangs wird nicht
-auf die Anzahl von zulässigen Wiederholungen oder Rücktritten gemäß <a href="#P59A4">§ 59 Absatz 4</a> sowie gemäß <a href="#P12A4">§ 12 Absatz 4</a> der Berufsfachschulverordnung vom 14.
+auf die Anzahl von zulässigen Wiederholungen oder Rücktritten gemäß § 59
+Absatz 4 sowie gemäß <a href="#P12A4">§ 12 Absatz 4</a> der Berufsfachschulverordnung vom 14.
 Juli 2009 (GVBl. S. 327), die zuletzt durch Artikel 6 der Verordnung vom
 28. Dezember 2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils
 geltenden Fassung, <a href="#P11A4">§ 11 Absatz 4</a> der Sozialpädagogikverordnung vom 13.
-Juni 2016, die zuletzt durch Artikel 2 der Verordnung vom 28. Dezember
-2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils geltenden
-Fassung, § 17 Absatz 5 der Verordnung über die Ausbildung und Prüfung an
-der staatlichen Fachschule für Heilerziehungspflege und der staatlichen
-Fachschule für Familienpflege im Land Berlin vom 14. Oktober 2008 (GVBl.
-S. 318), die zuletzt durch Artikel 3 der Verordnung vom 28. Dezember
-2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils geltenden
-Fassung, und <a href="#P8A4">§ 8 Absatz 4</a> der Fachschulverordnung Technik,
+Juni 2016 (GVBl. S. 388), die zuletzt durch Artikel 2 der Verordnung vom
+28. Dezember 2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils
+geltenden Fassung, § 17 Absatz 5 der Verordnung über die Ausbildung und
+Prüfung an der staatlichen Fachschule für Heilerziehungspflege und der
+staatlichen Fachschule für Familienpflege im Land Berlin vom 14. Oktober
+2008 (GVBl. S. 318), die zuletzt durch Artikel 3 der Verordnung vom 28.
+Dezember 2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils
+geltenden Fassung, und <a href="#P8A4">§ 8 Absatz 4</a> der Fachschulverordnung Technik,
 Agrarwirtschaft und Wirtschaft vom 30. April 2014 (GVBl. S. 125), die
 zuletzt durch Artikel 5 der Verordnung vom 28. Dezember 2021 (GVBl. 2022
 S. 2) geändert worden ist, in der jeweils geltenden Fassung,
@@ -7676,12 +9079,18 @@ Satz 1 gilt nicht für Schülerinnen und Schüler der Berufsfachschulen für
 Altenpflege sowie Schülerinnen und Schüler, die sich in einer dualen
 Ausbildung befinden.
 
+Ein Rücktritt gemäß Satz 1 oder Satz 2 in Verbindung mit Satz 1 ist für
+Schülerinnen und Schüler sowie Studierende ausgeschlossen, die im
+Schuljahr 2021/2022 das Recht auf Rücktritt gemäß § 129a Absatz 4 in der
+bis zum 31. Juli 2022 geltenden Fassung in Anspruch genommen haben.
+
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P129aA5">(5)</abs> Soweit es auf Grund der Ausbreitung des Coronavirus SARS-CoV-2
-erforderlich ist, können Gremien in den Schuljahren 2019/2020, 2020/2021
-und 2021/2022 ihre Sitzungen als Videokonferenz durchführen.
+<abs id="P30A5">(5)</abs> Soweit es auf Grund der Ausbreitung des Coronavirus SARS-CoV-2
+erforderlich ist, können Gremien in den Schuljahren 2019/2020,
+2020/2021, 2021/2022 und 2022/2023 ihre Sitzungen als Videokonferenz
+durchführen.
 
 Gleiches gilt für Schüler- und Elternversammlungen.
 
@@ -7691,48 +9100,49 @@ oder in einem schriftlichen Verfahren durchgeführt werden.
 Satz 3 findet entsprechende Anwendung auf Beschlüsse eines Gremiums oder
 einer Schüler- oder Elternversammlung.
 
-<abs id="P129aA6">(6)</abs> Für den Erwerb der erweiterten Berufsbildungsreife und des
-mittleren Schulabschlusses gilt im Schuljahr 2021/2022 <a href="#P21A2">§ 21 Absatz 2</a>
-Satz 2 mit den folgenden Maßgaben: Das Abschlussverfahren setzt sich aus
-den schulischen Bewertungen der Jahrgangsstufe und dem Ergebnis der
-Präsentationsprüfung zusammen.
-
-Für den Erwerb der erweiterten Berufsbildungsreife und des mittleren
-Schulabschlusses an beruflichen Schulen, die nicht vom Geltungsbereich
-der Verordnung über die Integrierte Berufsausbildungsvorbereitung vom
-22. Juli 2019 (GVBl. S. 479), die durch Artikel 2 der Verordnung vom 21.
-September 2021 (GVBl. S. 1181) geändert worden ist, in der jeweils
-geltenden Fassung erfasst sind, gelten die bisherigen Regelungen für den
-Bildungsgang auch für die Abschlussverfahren im Schuljahr 2021/2022
-fort.
-
-Satz 1 gilt nicht für die Prüfungen für Nichtschülerinnen und
-Nichtschüler nach Teil 5 der Zweiter Bildungsweg-Lehrgangs-Verordnung,
-der unberührt bleibt.
-
 # <par id="P130">§ 130</par> Aufhebung von Rechtsvorschriften
 
 Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft
 
-1\. das Schulgesetz für Berlin in der Fassung vom 20. August 1980 (GVBl.
-S. 2103), zuletzt geändert durch Gesetz vom 3. Juli 2003 (GVBl. S. 251,
-306), 2. das Schulverfassungsgesetz in der Fassung vom 5. Februar 1979
-(GVBl. S. 398), zuletzt geändert durch Artikel XV des Gesetzes vom
-19. Juli 2002 (GVBl. S. 199), 3. das Privatschulgesetz in der Fassung
-vom 13. Oktober 1987 (GVBl. S. 2458), zuletzt geändert durch Artikel VI
-§ 1 des Gesetzes vom 19. Juli 2002 (GVBl. S. 199), 4. das
-Schulinstitutsgesetz vom 20. April 2000 (GVBl. S. 286, 287), 5. die
-Fünfte Durchführungsverordnung zum Schulgesetz für Berlin vom
-3. November 1952 (GVBl. S. 1008), 6. die Schulpflichtverordnung vom
-7. November 1958 (GVBl. S. 1075), zuletzt geändert durch Verordnung vom
-13. Juli 2000 (GVBl. S. 371), 7. die Verordnung über die Anwendung des
-Schulverfassungsgesetzes auf bestimmte Fachschulen vom 23. Juli 1980
-(GVBl. S. 1501), geändert durch Nummer 62d der Anlage des Gesetzes vom
-30. Oktober 1984 (GVBl. S. 1541), 8. die Verordnung über die Kuratorien
-an Fachschulen des Landes Berlin vom 10. März 1981 (GVBl. S. 480),
-zuletzt geändert durch Verordnung vom 30. Oktober 1995 (GVBl. S. 794),
-und 9. die Erste Durchführungsverordnung zum Gesetz über die
-Privatschulen und den Privatunterricht vom 2. Juli 1955 (GVBl. S. 447).
+1\.
+das Schulgesetz für Berlin in der Fassung vom 20. August 1980 (GVBl. S.
+2103), zuletzt geändert durch Gesetz vom 3. Juli 2003 (GVBl. S. 251,
+306),
+
+2\.
+das Schulverfassungsgesetz in der Fassung vom 5. Februar 1979 (GVBl. S.
+398), zuletzt geändert durch Artikel XV des Gesetzes vom 19. Juli 2002
+(GVBl. S. 199),
+
+3\.
+das Privatschulgesetz in der Fassung vom 13. Oktober 1987 (GVBl. S.
+2458), zuletzt geändert durch Artikel VI § 1 des Gesetzes vom 19. Juli
+2002 (GVBl. S. 199),
+
+4\.
+das Schulinstitutsgesetz vom 20. April 2000 (GVBl. S. 286, 287),
+
+5\.
+die Fünfte Durchführungsverordnung zum Schulgesetz für Berlin vom 3.
+November 1952 (GVBl. S. 1008),
+
+6\.
+die Schulpflichtverordnung vom 7. November 1958 (GVBl. S. 1075), zuletzt
+geändert durch Verordnung vom 13. Juli 2000 (GVBl. S. 371),
+
+7\.
+die Verordnung über die Anwendung des Schulverfassungsgesetzes auf
+bestimmte Fachschulen vom 23. Juli 1980 (GVBl. S. 1501), geändert durch
+Nummer 62d der Anlage des Gesetzes vom 30. Oktober 1984 (GVBl. S. 1541),
+
+8\.
+die Verordnung über die Kuratorien an Fachschulen des Landes Berlin
+vom 10. März 1981 (GVBl. S. 480), zuletzt geändert durch Verordnung
+vom 30. Oktober 1995 (GVBl. S. 794), und
+
+9\.
+die Erste Durchführungsverordnung zum Gesetz über die Privatschulen und
+den Privatunterricht vom 2. Juli 1955 (GVBl. S. 447).
 
 # <par id="P131">§ 131</par> Inkrafttreten
 
@@ -7742,3 +9152,131 @@ Privatschulen und den Privatunterricht vom 2. Juli 1955 (GVBl. S. 447).
 2011/2012 durch Neugründung oder durch Zusammenlegung oder Umwandlung
 von Schulen der Schularten Hauptschule, Realschule, verbundene Haupt-
 und Realschule, Gesamtschule und gegebenenfalls Gymnasium eingerichtet.
+
+Geändert durch folgende Änderungsgesetze
+
+0 Ausgangspunkt: Neufassung SchulG Berlin vom 26.04.2004 vom 26.04.2004
+
+1 Kindertagesbetreuungsreformgesetz vom 23. Juni 2005
+
+2 Erstes Gesetz zur Änderung des Schulgesetzes vom 30. März 2006
+
+3 Staatsvertrag über die Errichtung eines gemeinsamen LISUM vom 11. Juli
+2006
+
+4 Sprachförderungsgesetz vom 19. März 2008
+
+5 Zweites Gesetz zur Änderung des Schulgesetzes vom 17. April 2008
+
+6 Automatisiertes Schülerdateigesetz vom 2. März 2009
+
+7 Dienstrechtsänderungsgesetz vom 19. März 2009
+
+8 Umsetzung der Richtlinie 2006/123/EG über Dienstleistungen im
+Binnenmarkt vom 18. November 2009
+
+9 Berliner Gesetz zum Schutz und Wohl des Kindes vom 17. Dezember 2009
+
+10 Gesetz zur Einführung der Integrierten Sekundarschule vom 25. Januar
+2010
+
+11 Gesetz zur Änderung des Schulgesetzes und weiterer Vorschriften vom
+25. Januar 2010
+
+12 Drittes Gesetz zur Änderung des Schulgesetzes vom 28. Juni 2010
+
+13 Gesetz zur Regelung von Partizipation und Integration in Berlin vom
+15. Dezember 2010
+
+14 Gesetz zur Modernisierung des Hochschulzugangs und zur
+Qualitätssicherung von Studium und Prüfung vom 20. Mai 2011
+
+15 Gesetz zur Änderung des Schulgesetzes, des
+Kindertagesförderungsgesetzes und weiterer Gesetze vom 13. Juli 2011
+
+16 Gesetz zur Änderung des Gesetzes über die John-F.-Kennedy-Schule und
+des Schulgesetzes vom 13. Juli 2011
+
+17 Gesetz zur Ganztagsbetreuung für die Jahrgangsstufen 5 und 6 und für
+Schülerinnen und Schüler mit Behinderungen vom 19. Juni 2012
+
+18 Gesetz über die Qualitätsverbesserung des Schulmittagessens vom 26.
+Juni 2013
+
+19 Gesetz über die Bestimmung der für das Schulwesen zuständigen
+Senatsverwaltung als Dienstbehörde für Schulsekretärinnen und
+Schulsekretäre vom 29. November 2013
+
+20 Gesetz über die Anerkennung ausländischer Berufsqualifikationen vom
+7. Februar 2014
+
+21 Gesetz zur Änderung des Schulgesetzes und weiterer Gesetze vom 26.
+März 2014
+
+22 Gesetz zur Änderung des Schulgesetzes und des Allgemeinen
+Zuständigkeitsgesetzes vom 4. Februar 2016
+
+23 Gesetz zur Umsetzung der Energiewende und zur Förderung des
+Klimaschutzes in Berlin vom 22. März 2016
+
+24 Gesetz zur Umsetzung der Kitagebührenfreiheit und der
+Kitaqualitätssteigerung, zur gesetzlichen Absicherung der
+außerschulischen Lernorte, zur Einführung einer Notfallsanitäterzulage
+sowie zur Gewährung von Anwärtersonderzuschlägen vom 9. Mai 2016
+
+25 Gesetz zur Ausführung des Bundesmeldegesetzes und zur Änderung
+weiterer Vorschriften vom 7. Juli 2016
+
+26 Gesetz zur Umsetzung der Geschäftsverteilung des Senats vom 19.
+Dezember 2017
+
+27 Gesetz zur Anpassung der Formanforderungen im Berliner Landesrecht
+(FormAnpassG) vom 2. Februar 2018
+
+28 Haushaltsumsetzungsgesetz vom 9. April 2018 vom 9. April 2018
+
+29 Gesetz zur Änderung des Schulgesetzes und weiterer Rechtsvorschriften
+vom 18. Dezember 2018
+
+30 Gesetz zum Mittagessen an Schulen vom 9. April 2019
+
+31 SARS CoV 2 Pandemie Abschlussverfahren Anpassungsgesetz vom 11. Juni
+2020
+
+32 Gesetz zur Anpassung datenschutzrechtlicher Bestimmungen in Berliner
+Gesetzen an die Verordnung (EU) 2016/679 (Berliner
+Datenschutz-Anpassungsgesetz EU – BlnDSAnpG-EU) vom 12. Oktober 2020
+
+33 Gesetz zur Anpassung schulrechtlicher Regelungen im Rahmen der
+SARS-CoV-2-Pandemie im Schuljahr 2020/2021 vom 4. März 2021
+
+34 Gesetz über die Erwachsenenbildung im Land Berlin vom 07.Juni.2021
+
+35 Gesetz zur Neuregelung der Partizipation im Land Berlin vom
+05.Juli.2021
+
+36 Viertes Gesetz zur Änderung des Schulgesetzes vom 27. September 2021
+
+37 Gesetz zur Anpassung schulrechtlicher Regelungen im Rahmen der
+SARS-CoV-2-Pandemie im Schuljahr 2021/2022 vom 31. März 2022
+
+38 Gesetz zur Wiederherstellung der Parität in der Schulkonferenz vom 5.
+Juli 2022
+
+39 Gesetz zur Anpassung schulrechtlicher Regelungen im Rahmen der SARS
+CoV 2 Pandemie im Schuljahr 2022 2023 vom 25. November 2022
+
+40 Gesetz zur Bindung der Lehrkräfte an das Land Berlin
+(Lehrkräftebindungsgesetz - LBindG) vom 10. Februar 2023
+
+41 Gesetz über die Kostenbeteiligungsfreiheit für die Jahrgangsstufe 3
+in der ergänzenden Förderung und Betreuung vom 12. Juni 2023
+
+42 Gesetz über die Abschaffung der Prüfungen zum mittleren
+Schulabschluss am Gymnasium vom 4. Oktober 2023
+
+43 Zweites Gesetz zur Änderung des Schulgesetzes und weiterer
+Rechtsvorschriften vom 10. Juli 2024
+
+44 Gesetz zur Änderung des Kindertagesförderungsgesetzes und weiterer
+Rechtsvorschriften vom 11. Dezember 2025
