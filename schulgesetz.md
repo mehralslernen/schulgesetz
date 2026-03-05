@@ -786,8 +786,7 @@ spätestens nach jeweils zehn Jahren, zu überarbeiten.
 werden, in gemeinsamen Rahmenlehrplan-Kommissionen einheitliche
 Rahmenlehrpläne für diese Länder zu entwickeln.
 
-# <par id="P12">§ 12</par> Unterrichtsfächer, Lernbereiche und Querschnittsaufgaben,
-Lernfelder, Ethik
+# <par id="P12">§ 12</par> Unterrichtsfächer, Lernbereiche und Querschnittsaufgaben, Lernfelder, Ethik
 
 <abs id="P12A1">(1)</abs> In den Unterrichtsfächern sind die für jedes Fach geltenden
 spezifischen Didaktiken und Methoden sowie die das Fach kennzeichnenden
@@ -1619,8 +1618,8 @@ Erziehungsberechtigten vorzeitig aufrücken.
 
 Schülerinnen und Schüler, die am Ende der Schulanfangsphase die Lern-
 und Entwicklungsziele noch nicht erreicht haben, können auf Beschluss
-der Klassenkonferenz (§ 59 Absatz 6) oder auf Antrag der
-Erziehungsberechtigten (§ 59 Absatz 4) ein zusätzliches Schuljahr in der
+der Klassenkonferenz (<a href="#P59A6">§ 59 Absatz 6</a>) oder auf Antrag der
+Erziehungsberechtigten (<a href="#P59A4">§ 59 Absatz 4</a>) ein zusätzliches Schuljahr in der
 Schulanfangsphase verbleiben, ohne dass dieses Schuljahr auf die
 Erfüllung der allgemeinen Schulpflicht angerechnet wird.
 
@@ -1733,20 +1732,20 @@ beruflichen Bildungsgängen fortzusetzen.
 Jahrgangsstufen 7 bis 10 (Sekundarstufe I) und führt im Anschluss zur
 allgemeinen Hochschulreife (Abitur).
 
-# <par id="P17">§ 17</par> Absatz 3 bleibt unberührt.
+<a href="#P17A3">§ 17 Absatz 3</a> bleibt unberührt.
 
 Die Integrierte Sekundarschule bietet eine gymnasiale Oberstufe nach
 Maßgabe des <a href="#P28A4">§ 28 Absatz 4</a> und 5 an.
 
 Sie kooperiert insbesondere mit benachbarten Grundschulen und
-beruflichen Schulen; § 20 Absatz 7 gilt sinngemäß.
+beruflichen Schulen; <a href="#P20A7">§ 20 Absatz 7</a> gilt sinngemäß.
 
-<abs id="P17A3">(3)</abs> Die Integrierte Sekundarschule führt zu allen Abschlüssen gemäß <a href="#P21A1">§ 21 Absatz 1</a> und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1.
+<abs id="P22A3">(3)</abs> Die Integrierte Sekundarschule führt zu allen Abschlüssen gemäß <a href="#P21A1">§ 21 Absatz 1</a> und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1.
 
 Der mittlere Schulabschluss berechtigt bei entsprechender Qualifikation
 zum Übergang in die gymnasiale Oberstufe.
 
-<abs id="P17A4">(4)</abs> In der Integrierten Sekundarschule kann der Unterricht in
+<abs id="P22A4">(4)</abs> In der Integrierten Sekundarschule kann der Unterricht in
 gemeinsamen Lerngruppen, in Kursen der äußeren
 Fachleistungsdifferenzierung sowie in Wahlpflicht- und Wahlgruppen
 stattfinden.
@@ -1757,7 +1756,7 @@ Schule im Rahmen ihres Schulprogramms.
 Eine Verpflichtung zur äußeren Fachleistungsdifferenzierung besteht
 nicht.
 
-<abs id="P17A5">(5)</abs> Die Integrierte Sekundarschule bietet insbesondere in Kooperation
+<abs id="P22A5">(5)</abs> Die Integrierte Sekundarschule bietet insbesondere in Kooperation
 mit Betrieben und Trägern der Berufsvorbereitung und Berufsausbildung
 praxisbezogenes und berufsorientiertes Lernen an (Duales Lernen).
 
@@ -1795,7 +1794,7 @@ Primarstufe § 20 entsprechend, mit Ausnahme von dessen Absatz 5 Satz 1
 und Absatz 7, soweit letzterer sich auf die Zusammenarbeit mit
 weiterführenden allgemein bildenden Schulen bezieht.
 
-Für die Ausgestaltung der Sekundarstufe I gilt § 22 Absatz 4 und 5
+Für die Ausgestaltung der Sekundarstufe I gilt <a href="#P22A4">§ 22 Absatz 4</a> und 5
 entsprechend.
 
 <abs id="P23A5">(5)</abs> Die Fachleistungsdifferenzierung findet in der Gemeinschaftsschule
@@ -1818,11 +1817,11 @@ beruflichen Bildungsgängen fortzusetzen.
 Sekundarstufe I und die gymnasiale Oberstufe und führt zur allgemeinen
 Hochschulreife (Abitur).
 
-# <par id="P17">§ 17</par> Absatz 3 bleibt unberührt.
+<a href="#P17A3">§ 17 Absatz 3</a> bleibt unberührt.
 
-Das Kooperationsgebot nach § 20 Absatz 7 gilt sinngemäß.
+Das Kooperationsgebot nach <a href="#P20A7">§ 20 Absatz 7</a> gilt sinngemäß.
 
-<abs id="P17A3">(3)</abs> In der Sekundarstufe I werden die Abschlüsse gemäß <a href="#P21A1">§ 21 Absatz 1</a>
+<abs id="P26A3">(3)</abs> In der Sekundarstufe I werden die Abschlüsse gemäß <a href="#P21A1">§ 21 Absatz 1</a>
 und <a href="#P36A6">§ 36 Absatz 6</a> Satz 1 vergeben.
 
 Der Übergang in die Qualifikationsphase der gymnasialen Oberstufe
@@ -1851,7 +1850,7 @@ jahrgangsstufenübergreifendem Unterricht,
 die Voraussetzungen und die Durchführung von bilingualem Unterricht,
 
 5\.
-die Anforderungen und das Verfahren für die nach § 22 Absatz 5 Satz 3 zu
+die Anforderungen und das Verfahren für die nach <a href="#P22A5">§ 22 Absatz 5</a> Satz 3 zu
 treffende Entscheidung,
 
 6\.
@@ -1948,11 +1947,11 @@ teilnehmenden Schulen einvernehmlich zu treffen.
 
 Können Entscheidungen durch die Schulen nicht einvernehmlich getroffen
 werden, entscheidet die Schulaufsichtsbehörde oder, soweit Aufgaben nach
-# <par id="P109">§ 109</par> betroffen sind, die zuständige Schulbehörde oder bei einem
+§ 109 betroffen sind, die zuständige Schulbehörde oder bei einem
 zuständigkeitsübergreifenden Verbund die zuständigen Schulbehörden
 gemeinsam.
 
-<abs id="P109A6">(6)</abs> In Oberstufenzentren soll eine gymnasiale Oberstufe mit einem
+<abs id="P28A6">(6)</abs> In Oberstufenzentren soll eine gymnasiale Oberstufe mit einem
 beruflich orientierten Bildungsangebot eingerichtet werden (berufliches
 Gymnasium).
 
@@ -1965,7 +1964,7 @@ allgemeinen Hochschulreife zu ermöglichen.
 Schülerinnen und Schüler kooperierender Integrierter Sekundarschulen und
 Gemeinschaftsschulen haben einen Anspruch auf Aufnahme.
 
-<abs id="P109A7">(7)</abs> Die gymnasiale Oberstufe schließt mit der Abiturprüfung ab.
+<abs id="P28A7">(7)</abs> Die gymnasiale Oberstufe schließt mit der Abiturprüfung ab.
 
 Die allgemeine Hochschulreife wird durch eine Gesamtqualifikation aus
 anrechenbaren Kursen und der Abiturprüfung erworben.
@@ -1974,7 +1973,7 @@ Nach erfolgreicher Teilnahme an mindestens zwei aufeinanderfolgenden
 Halbjahren der Qualifikationsphase kann der schulische Teil der
 Fachhochschulreife erworben werden.
 
-<abs id="P109A8">(8)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P28A8">(8)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere zur Ausgestaltung der gymnasialen Oberstufe durch
 Rechtsverordnung zu regeln, insbesondere
 
@@ -2196,12 +2195,12 @@ Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
 Gesetzes vom 30. Juni 2017 (BGBl. I S. 2143) geändert worden ist, in der
 jeweils geltenden Fassung abschließt.
 
-# <par id="P29">§ 29</par> Absatz 3 gilt entsprechend.
+<a href="#P29A3">§ 29 Absatz 3</a> gilt entsprechend.
 
 Die Berufsfachschule ermöglicht zusätzlich den Erwerb schulischer
 Abschlüsse.
 
-<abs id="P29A2">(2)</abs> Die Aufnahme in die Berufsfachschule nach Absatz 1 setzt
+<abs id="P30A2">(2)</abs> Die Aufnahme in die Berufsfachschule nach Absatz 1 setzt
 vorbehaltlich des Satzes 2 bei einem mindestens zweijährigen
 Bildungsgang mindestens die Berufsbildungsreife oder eine gleichwertige
 Schulbildung voraus.
@@ -2214,7 +2213,7 @@ Bei Bildungsgängen, die besondere Fähigkeiten und Fertigkeiten
 voraussetzen, kann die Aufnahme zusätzlich vom Ergebnis einer
 entsprechenden Eignungsfeststellung abhängig gemacht werden.
 
-<abs id="P29A3">(3)</abs> In der Berufsfachschule wird ein einjähriger teilqualifizierender
+<abs id="P30A3">(3)</abs> In der Berufsfachschule wird ein einjähriger teilqualifizierender
 Bildungsgang in dualisierter Form eingerichtet (Berliner
 Ausbildungsmodell).
 
@@ -2236,7 +2235,7 @@ Schulpflicht voraus und kann von einer Eignungsfeststellung abhängig
 gemacht werden; der Nachweis eines Schulabschlusses ist nicht
 erforderlich.
 
-<abs id="P29A4">(4)</abs> In den Berufsfachschulen für Altenpflege wird den Schülerinnen und
+<abs id="P30A4">(4)</abs> In den Berufsfachschulen für Altenpflege wird den Schülerinnen und
 Schülern, die in einem Ausbildungsverhältnis nach dem Altenpflegegesetz
 in der Fassung der Bekanntmachung vom 25. August 2003 (BGBl. I S. 1690),
 geändert durch Artikel 11 des Gesetzes vom 27. Dezember 2003 (BGBl. I.
@@ -2268,7 +2267,7 @@ staatlichen Prüfung nach der Altenpflege-Ausbildungs- und
 Prüfungsverordnung vom 26. November 2002 (BGBl. I S. 4418) in der
 jeweils geltenden Fassung.
 
-<abs id="P29A5">(5)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P30A5">(5)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere über die Bildungsgänge der Berufsfachschule durch
 Rechtsverordnung zu regeln, insbesondere
 
@@ -2653,7 +2652,7 @@ auf.
 
 Für Schülerinnen und Schüler mit dem sonderpädagogischen
 Förderschwerpunkt „Lernen“ darf eine Wiederholung einer Jahrgangsstufe
-abweichend von § 59 Absatz 4 Satz 1 nur angeordnet werden, wenn zu
+abweichend von <a href="#P59A4">§ 59 Absatz 4</a> Satz 1 nur angeordnet werden, wenn zu
 erwarten ist, dass sie dadurch einen oder einen höherwertigen
 schulischen Abschluss erreichen.
 
@@ -2823,8 +2822,7 @@ die Ausgestaltung der Auftragsschulen für Autismus.
 
 Abschnitt VI Weitere Bildungsgänge
 
-# <par id="P40">§ 40</par> Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb
-allgemein bildender und beruflicher Abschlüsse
+# <par id="P40">§ 40</par> Einrichtungen des Zweiten Bildungswegs zum nachträglichen Erwerb allgemein bildender und beruflicher Abschlüsse
 
 <abs id="P40A1">(1)</abs> Geeigneten Erwachsenen ist Gelegenheit zu geben, die
 Berufsbildungsreife, die erweiterte Berufsbildungsreife, den mittleren
@@ -2844,7 +2842,7 @@ Der Bildungsgang an den Kollegs und Abendgymnasien gliedert sich in eine
 einjährige Einführungsphase und eine sich anschließende zweijährige
 Qualifikationsphase.
 
-# <par id="P28">§ 28</par> Absatz 7 und 8 gilt entsprechend mit der Maßgabe, dass
+<a href="#P28A7">§ 28 Absatz 7</a> und 8 gilt entsprechend mit der Maßgabe, dass
 
 1\.
 in der Einführungsphase auch der unterschiedliche Stand der Kenntnisse
@@ -2865,7 +2863,7 @@ vorzusehen sind.
 Wer in die Qualifikationsphase versetzt wird, erwirbt einen dem
 mittleren Schulabschluss gleichwertigen Abschluss.
 
-<abs id="P28A3">(3)</abs> In ein Kolleg kann aufgenommen werden, wer mindestens die
+<abs id="P40A3">(3)</abs> In ein Kolleg kann aufgenommen werden, wer mindestens die
 Berufsbildungsreife oder eine gleichwertige Schulbildung besitzt, im
 Schuljahr der Anmeldung mindestens das 18. Lebensjahr vollendet und bei
 Eintritt in die Einführungsphase
@@ -2882,7 +2880,7 @@ entfallen, die eine Eignungsprüfung bestanden haben oder den mittleren
 Schulabschluss besitzen; für die Eignungsprüfung gilt <a href="#P60A4">§ 60 Absatz 4</a>
 entsprechend.
 
-<abs id="P28A4">(4)</abs> In ein Abendgymnasium kann aufgenommen werden, wer im Schuljahr
+<abs id="P40A4">(4)</abs> In ein Abendgymnasium kann aufgenommen werden, wer im Schuljahr
 der Anmeldung mindestens das 18. Lebensjahr vollendet und bei Eintritt
 in die Einführungsphase
 
@@ -2898,7 +2896,7 @@ entfallen, die eine Eignungsprüfung bestanden haben oder den mittleren
 Schulabschluss besitzen; für die Eignungsprüfung gilt <a href="#P60A4">§ 60 Absatz 4</a>
 entsprechend.
 
-<abs id="P28A5">(5)</abs> In Einrichtungen nach Absatz 2 dürfen nur Lehrkräfte eingesetzt
+<abs id="P40A5">(5)</abs> In Einrichtungen nach Absatz 2 dürfen nur Lehrkräfte eingesetzt
 werden, die die Laufbahnbefähigung als Studienrat mit wissenschaftlichen
 oder künstlerischen Fächern mit Ausnahme einer beruflichen Fachrichtung
 besitzen.
@@ -2908,7 +2906,7 @@ Schulaufsichtsbehörde als Lehrkraft auch eingesetzt werden, wer
 Erfahrungen in Berufen außerhalb des Schulwesens oder in der
 Erwachsenenbildung besitzt.
 
-<abs id="P28A6">(6)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P40A6">(6)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere für die Lehrgänge und Einrichtungen des Zweiten
 Bildungswegs durch Rechtsverordnung zu regeln, insbesondere
 
@@ -2983,7 +2981,7 @@ beruflichen Abschluss führen, der außerhalb Berlins nicht erworben
 werden kann, entscheidet die Schulaufsichtsbehörde.
 
 <abs id="P41A5">(5)</abs> Wohnung im Sinne dieses Gesetzes ist die Wohnung einer Person nach
-# <par id="P20">§ 20</par> des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), das
+§ 20 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), das
 zuletzt durch Artikel 9 des Gesetzes vom 2. Februar 2016 (BGBl. I S.
 130) geändert worden ist, in der jeweils geltenden Fassung; bei mehreren
 Wohnungen die Hauptwohnung nach § 22 des Bundesmeldegesetzes.
@@ -3047,12 +3045,12 @@ muss bis zum Ende des Berufsausbildungsverhältnisses die Berufsschule
 besuchen.
 
 <abs id="P43A3">(3)</abs> Schulpflichtig ist auch, wer an einem berufsvorbereitenden
-Lehrgang nach § 29 Absatz 5 teilnimmt und das 20. Lebensjahr noch nicht
+Lehrgang nach <a href="#P29A5">§ 29 Absatz 5</a> teilnimmt und das 20. Lebensjahr noch nicht
 vollendet hat.
 
 <abs id="P43A4">(4)</abs> Jugendliche, die nach Erfüllung der allgemeinen Schulpflicht weder
 in ein Berufsausbildungsverhältnis eintreten noch einen
-berufsvorbereitenden Lehrgang nach § 29 Absatz 5 besuchen, sind
+berufsvorbereitenden Lehrgang nach <a href="#P29A5">§ 29 Absatz 5</a> besuchen, sind
 unabhängig von dem besuchten Bildungsgang mindestens für ein weiteres
 Schulbesuchsjahr schulpflichtig.
 
@@ -3280,14 +3278,13 @@ Abschluss der besuchten Schule erreicht hat; sie erfolgt in der Regel,
 wenn sie oder er die für den jeweiligen Bildungsgang geltende
 Höchstdauer des Schulbesuchs erreicht hat.
 
-# <par id="P63">§ 63</par> Abs. 2 Satz 1 Nr. 5 bleibt unberührt.
+§ 63 Abs. 2 Satz 1 Nr. 5 bleibt unberührt.
 
-<abs id="P63A7">(7)</abs> Die Höchstdauer des Schulbesuchs ergibt sich aus den Festlegungen
+<abs id="P46A7">(7)</abs> Die Höchstdauer des Schulbesuchs ergibt sich aus den Festlegungen
 dieses Gesetzes für die einzelnen Schularten und den auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen.
 
-# <par id="P47">§ 47</par> Informationsrechte der Schülerinnen und Schüler und der
-Erziehungsberechtigten
+# <par id="P47">§ 47</par> Informationsrechte der Schülerinnen und Schüler und der Erziehungsberechtigten
 
 <abs id="P47A1">(1)</abs> Die Schülerinnen und Schüler sowie deren Erziehungsberechtigte
 haben das Recht, in allen grundsätzlichen und wichtigen
@@ -3383,8 +3380,7 @@ In diesen Fällen ist die volljährige Schülerin oder der volljährige
 Schüler über die Information der früheren Erziehungsberechtigten
 schriftlich zu unterrichten.
 
-# <par id="P48">§ 48</par> Veröffentlichungen, Meinungsfreiheit der Schülerinnen und Schüler,
-Werbung zu politischen Zwecken
+# <par id="P48">§ 48</par> Veröffentlichungen, Meinungsfreiheit der Schülerinnen und Schüler, Werbung zu politischen Zwecken
 
 <abs id="P48A1">(1)</abs> Die Schülerinnen und Schüler haben im Rahmen der durch das
 Grundgesetz garantierten Meinungs- und Pressefreiheit auch in der Schule
@@ -3846,8 +3842,7 @@ Schüler auch in der bisherigen Grundschule verbleiben.
 
 <abs id="P55aA8">(8)</abs> Die Absätze 1 bis 7 finden auf die Aufnahme in die Primarstufe der
 Gemeinschaftsschule entsprechende Anwendung mit der Maßgabe, dass Plätze
-für außerhalb des Einschulungsbereichs wohnende Kinder gemäß § 54 Absatz
-5 bereitgestellt werden.
+für außerhalb des Einschulungsbereichs wohnende Kinder gemäß <a href="#P54A5">§ 54 Absatz 5</a> bereitgestellt werden.
 
 Geschwisterkinder gemäß Absatz 2 Satz 2 Nummer 1 sind unabhängig von der
 besuchten Schulstufe der Gemeinschaftsschule zu berücksichtigen.
@@ -3987,7 +3982,7 @@ dem Bezirk wohnen (<a href="#P41A5">§ 41 Absatz 5</a>), in dem die Schule liegt
 
 Kann die Schülerin oder der Schüler auch an dieser Schule nicht
 aufgenommen werden oder nehmen die Erziehungsberechtigten dieses Angebot
-nicht wahr, so wird die Schülerin oder der Schüler gemäß § 54 Absatz 3
+nicht wahr, so wird die Schülerin oder der Schüler gemäß <a href="#P54A3">§ 54 Absatz 3</a>
 unter Berücksichtigung der möglichen Kapazitäten einer Schule der
 gewünschten Schulart zugewiesen.
 
@@ -4065,10 +4060,9 @@ Jahrgangsstufe 8 in Integrierten Sekundarschulen und
 Gemeinschaftsschulen eine Höchstgrenze von Schülerinnen und Schülern pro
 Lerngruppe festzulegen.
 
-# <par id="P57">§ 57</par> Aufnahme in die beruflichen Schulen und die Einrichtungen des
-Zweiten Bildungswegs
+# <par id="P57">§ 57</par> Aufnahme in die beruflichen Schulen und die Einrichtungen des Zweiten Bildungswegs
 
-<abs id="P57A1">(1)</abs> Für die Aufnahme in Schularten gemäß § 17 Absatz 2 Satz 1 Nummer 3
+<abs id="P57A1">(1)</abs> Für die Aufnahme in Schularten gemäß <a href="#P17A2">§ 17 Absatz 2</a> Satz 1 Nummer 3
 Buchstabe b bis f und Nummer 6 ist neben dem Wunsch der
 Erziehungsberechtigten oder der volljährigen Schülerin oder des
 volljährigen Schülers die Eignung der Schülerin oder des Schülers
@@ -4090,9 +4084,7 @@ konnten.
 
 Über die Rangfolge entscheidet die Dauer der Wartezeit.
 
-<abs id="P57A3">(3)</abs> Abweichend von Absatz 2 werden in den Schularten gemäß § 17 Absatz
-2 Satz 1 Nummer 3 Buchstabe b und e sowie in den Bildungsgängen gemäß §
-29 Absatz 3 und <a href="#P31A3">§ 31 Absatz 3</a> Nummer 2 die Plätze bei gleicher Eignung
+<abs id="P57A3">(3)</abs> Abweichend von Absatz 2 werden in den Schularten gemäß <a href="#P17A2">§ 17 Absatz 2</a> Satz 1 Nummer 3 Buchstabe b und e sowie in den Bildungsgängen gemäß <a href="#P29A3">§ 29 Absatz 3</a> und <a href="#P31A3">§ 31 Absatz 3</a> Nummer 2 die Plätze bei gleicher Eignung
 vorrangig an schulpflichtige Jugendliche vergeben.
 
 <abs id="P57A4">(4)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
@@ -4330,7 +4322,7 @@ Versetzung zu erreichen.
 <abs id="P59A3">(3)</abs> Bei Nichtversetzung wiederholt eine Schülerin oder ein Schüler die
 bisherige Jahrgangsstufe desselben Bildungsgangs.
 
-# <par id="P56">§ 56</par> Absatz 5 Satz 1 und 2 bleibt unberührt.
+<a href="#P56A5">§ 56 Absatz 5</a> Satz 1 und 2 bleibt unberührt.
 
 Bei zweimaliger Nichtversetzung in der Einführungsphase muss die
 gymnasiale Oberstufe verlassen werden.
@@ -4338,7 +4330,7 @@ gymnasiale Oberstufe verlassen werden.
 Die Schulaufsichtsbehörde kann im Einzelfall aus wichtigen Gründen
 Ausnahmen zulassen.
 
-<abs id="P56A4">(4)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
+<abs id="P59A4">(4)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
 Erziehungsberechtigten die Jahrgangsstufe einmal freiwillig wiederholen
 oder spätestens im Anschluss an die Aushändigung des
 Halbjahreszeugnisses in die vorhergegangene Jahrgangsstufe zurücktreten,
@@ -4347,16 +4339,16 @@ wenn eine erfolgreiche Mitarbeit nicht mehr gewährleistet ist.
 Wer in der Sekundarstufe II das Ziel des Bildungsgangs nicht mehr
 erreichen kann, muss zurücktreten oder den Bildungsgang verlassen.
 
-<abs id="P56A5">(5)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
+<abs id="P59A5">(5)</abs> Eine Schülerin oder ein Schüler kann auf Antrag der
 Erziehungsberechtigten eine Jahrgangsstufe überspringen und vorversetzt
 werden, wenn eine bessere Förderung ihrer oder seiner Lern-, Leistungs-
 und Kompetenzentwicklung und eine erfolgreiche Mitarbeit in der höheren
 Jahrgangsstufe zu erwarten sind.
 
-<abs id="P56A6">(6)</abs> Über die Versetzung, eine Wiederholung, einen Rücktritt und ein
+<abs id="P59A6">(6)</abs> Über die Versetzung, eine Wiederholung, einen Rücktritt und ein
 Überspringen sowie eine Kurseinstufung entscheidet die Klassenkonferenz.
 
-<abs id="P56A7">(7)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
+<abs id="P59A7">(7)</abs> Die für das Schulwesen zuständige Senatsverwaltung wird
 ermächtigt, das Nähere zu den Voraussetzungen und dem Verfahren der
 Versetzung, der Wiederholung, des Rücktritts, des Aufrückens, des
 Überspringens und der Kurseinstufung sowie für den Wechsel von einer
@@ -4370,8 +4362,7 @@ Versetzung gerechtfertigt ist (Nachprüfung).
 Eine Nachprüfung kann auch zum Erreichen eines Abschlusses oder der
 Berechtigung zum Übergang in die gymnasiale Oberstufe vorgesehen werden.
 
-# <par id="P60">§ 60</par> Abschlussprüfungen und Abschlussverfahren, Prüfungen für
-Nichtschülerinnen und Nichtschüler
+# <par id="P60">§ 60</par> Abschlussprüfungen und Abschlussverfahren, Prüfungen für Nichtschülerinnen und Nichtschüler
 
 <abs id="P60A1">(1)</abs> Der erfolgreiche Abschluss eines Bildungsgangs wird durch eine
 Prüfung oder ein Abschlussverfahren festgestellt, wenn dies durch dieses
@@ -4453,8 +4444,7 @@ nachträglichen Erwerb von beruflichen Abschlüssen.
 Für Nichtschülerinnen und Nichtschüler kann für die Zulassung zur
 Prüfung auch ein Mindestalter vorgeschrieben werden.
 
-# <par id="P61">§ 61</par> Anerkennung von Studienbefähigungen und anderen schulischen
-Leistungen
+# <par id="P61">§ 61</par> Anerkennung von Studienbefähigungen und anderen schulischen Leistungen
 
 <abs id="P61A1">(1)</abs> Allgemein bildende deutsche schulische Abschlüsse sowie außerhalb
 Berlins erworbene ausländische schulische Abschlüsse oder
@@ -4994,14 +4984,14 @@ verarbeiteten personenbezogenen Daten, einschließlich besonderer
 Kategorien personenbezogener Daten, zugreifen, um sie statistisch
 aufzubereiten.
 
-# <par id="P65">§ 65</par> Absatz 4 Satz 2 gilt entsprechend.
+<a href="#P65A4">§ 65 Absatz 4</a> Satz 2 gilt entsprechend.
 
 Sie ist zur Wahrung des Statistikgeheimnisses im Sinne von § 16 des
 Landesstatistikgesetzes vom 9. Dezember 1992 (GVBl. S. 365), das zuletzt
 durch Artikel 25 des Gesetzes vom 2. Februar 2018 (GVBl. S. 160)
 geändert worden ist, in der jeweils geltenden Fassung verpflichtet.
 
-<abs id="P65A8">(8)</abs> Den Schulbehörden dürfen zur Durchführung der Aufnahme- und
+<abs id="P64aA8">(8)</abs> Den Schulbehörden dürfen zur Durchführung der Aufnahme- und
 Übergangsverfahren befristet Zugriffsrechte auf die bei der
 Schulanmeldung von den Schulen ihres jeweiligen örtlichen
 Zuständigkeitsbereiches erhobenen und automatisiert verarbeiteten
@@ -5014,14 +5004,14 @@ werden.
 Die automatisierte Übermittlung von Schulversäumnisanzeigen an die
 Schulbehörde ist zulässig.
 
-<abs id="P65A9">(9)</abs> Gegenüber dem jeweils zuständigen Schulpsychologischen und
+<abs id="P64aA9">(9)</abs> Gegenüber dem jeweils zuständigen Schulpsychologischen und
 Inklusionspädagogischen Beratungs- und Unterstützungszentrum sind die
 für die Feststellung des Förderbedarfs erforderlichen personenbezogenen
 Daten, einschließlich besonderer Kategorien personenbezogener Daten,
 derjenigen Schülerinnen und Schüler offen zu legen, hinsichtlich derer
 das Bestehen sonderpädagogischen Förderbedarfs geprüft werden soll.
 
-<abs id="P65A10">(10)</abs> Die Bereitstellung der nach Absatz 1 gespeicherten
+<abs id="P64aA10">(10)</abs> Die Bereitstellung der nach Absatz 1 gespeicherten
 personenbezogenen Daten der Schülerinnen und Schüler, Schulpflichtigen
 nach <a href="#P41A3">§ 41 Absatz 3</a> und § 43, Erziehungsberechtigten, Lehrkräfte und
 anderen schulischen Mitarbeiterinnen und Mitarbeitern, insbesondere der
@@ -5161,8 +5151,7 @@ Die Übermittlung von personenbezogenen Daten vom Fachverfahren nach
 Absatz 1 an die Fachverfahren nach § 64a und § 64c ist zulässig, soweit
 dies nach Satz 1 erforderlich ist.
 
-# <par id="P65">§ 65</par> Evaluation, wissenschaftliche Untersuchungen in Schulen,
-statistische Erhebungen
+# <par id="P65">§ 65</par> Evaluation, wissenschaftliche Untersuchungen in Schulen, statistische Erhebungen
 
 <abs id="P65A1">(1)</abs> Vor der Durchführung einer Evaluation nach § 9 Abs. 1 muss die
 durchführende Stelle
@@ -5308,7 +5297,7 @@ Art und Umfang der Daten, die nach <a href="#P64A8">§ 64 Absatz 8</a> verarbeit
 
 12\.
 Art und Umfang der Zugriffsrechte der Schulbehörden während der
-Aufnahme- und Übergangsverfahren nach § 64a Absatz 8,
+Aufnahme- und Übergangsverfahren nach <a href="#P64aA8">§ 64a Absatz 8</a>,
 
 13\.
 Art und Umfang der Daten sowie spezifische technische und
@@ -5403,8 +5392,7 @@ Regel Beamtinnen und Beamte, wenn sie die für ihre Laufbahn
 erforderliche Befähigung besitzen und die sonstigen beamtenrechtlichen
 Voraussetzungen erfüllen.
 
-# <par id="P68">§ 68</par> Schulische Mitarbeiterinnen und Mitarbeiter, Mitwirkung anderer
-Personen
+# <par id="P68">§ 68</par> Schulische Mitarbeiterinnen und Mitarbeiter, Mitwirkung anderer Personen
 
 <abs id="P68A1">(1)</abs> Schulische Mitarbeiterinnen und Mitarbeiter sind Personen, die
 nicht selbständig Unterricht erteilen (pädagogische Mitarbeiterinnen und
@@ -5433,14 +5421,14 @@ sorgt für die Einhaltung der Rechts- und Verwaltungsvorschriften und
 nimmt das Hausrecht wahr,
 
 3\.
-entscheidet nach Maßgabe von § 76 Absatz 1 Nummer 1 über die Verteilung
+entscheidet nach Maßgabe von <a href="#P76A1">§ 76 Absatz 1</a> Nummer 1 über die Verteilung
 und Verwendung der der Schule zur eigenen Bewirtschaftung zugewiesenen
 Personal- und Sachmittel (<a href="#P7A3">§ 7 Absatz 3</a>, 5 und 6),
 
 4\.
 schließt im Rahmen der Eigenverantwortung der Schule Rechtsgeschäfte für
 das Land Berlin ab und entscheidet über die Stellung eines Antrags nach
-# <par id="P7">§ 7</par> Abs. 3 Satz 4,
+§ 7 Abs. 3 Satz 4,
 
 5\.
 wirkt im Rahmen von § 7 Abs. 3 Satz 1 und 2 bei der Einstellung und
@@ -5454,7 +5442,7 @@ pädagogischen Personals und
 vertritt die Schule im Rahmen der Beschlüsse der schulischen Gremien
 nach außen.
 
-<abs id="P7A2">(2)</abs> Aufgabe der Schulleiterin oder des Schulleiters ist es,
+<abs id="P69A2">(2)</abs> Aufgabe der Schulleiterin oder des Schulleiters ist es,
 insbesondere
 
 1\.
@@ -5485,14 +5473,14 @@ Schülerinnen und Schüler und der Schule betreffen, zusammenzuarbeiten
 und die Öffnung der Schule zu ihrem sozialen und kulturellen Umfeld zu
 fördern.
 
-<abs id="P7A3">(3)</abs> Die Schulleiterin oder der Schulleiter nimmt im Auftrag der
+<abs id="P69A3">(3)</abs> Die Schulleiterin oder der Schulleiter nimmt im Auftrag der
 zuständigen Schulbehörde die Schülerinnen und Schüler in die Schule auf.
 
 Sie oder er verwaltet die Schulanlagen im Auftrag der zuständigen
 Schulbehörde und bewirtschaftet die der Schule zugewiesenen
 Haushaltsmittel.
 
-<abs id="P7A4">(4)</abs> Die Schulleiterin oder der Schulleiter ist im Rahmen der
+<abs id="P69A4">(4)</abs> Die Schulleiterin oder der Schulleiter ist im Rahmen der
 Verwaltungsaufgaben gegenüber den an der Schule tätigen Lehrkräften und
 den schulischen Mitarbeiterinnen und Mitarbeitern weisungsbefugt.
 
@@ -5520,7 +5508,7 @@ der Qualität der pädagogischen Arbeit einzugreifen und
 auf eine partizipative, diskriminierungsfreie und demokratische
 Schulkultur hinzuwirken.
 
-<abs id="P7A5">(5)</abs> Die Schulleiterin oder der Schulleiter wirkt auf die Fortbildung
+<abs id="P69A5">(5)</abs> Die Schulleiterin oder der Schulleiter wirkt auf die Fortbildung
 der Lehrkräfte und der sonstigen schulischen Mitarbeiterinnen und
 Mitarbeiter hin und überprüft die Einhaltung der
 Fortbildungsverpflichtung.
@@ -5529,7 +5517,7 @@ Sie oder er fördert die schulische Ausbildung der Lehramtsanwärterinnen
 und Lehramtsanwärter und informiert sich regelmäßig über die Qualität
 der Ausbildung.
 
-<abs id="P7A6">(6)</abs> Die Schulleiterin oder der Schulleiter nimmt im Rahmen der
+<abs id="P69A6">(6)</abs> Die Schulleiterin oder der Schulleiter nimmt im Rahmen der
 Selbstgestaltung und Eigenverantwortung der Schule folgende Aufgaben der
 oder des Dienstvorgesetzten wahr:
 
@@ -5837,8 +5825,7 @@ einer anderen Schulart, auf Einrichtung einer gymnasialen Oberstufe im
 Verbund oder einer Inklusiven Schwerpunktschule,
 
 14\.
-die Erweiterung der Schulanfangsphase um die Jahrgangsstufe 3 (§ 20
-Absatz 1),
+die Erweiterung der Schulanfangsphase um die Jahrgangsstufe 3 (<a href="#P20A1">§ 20 Absatz 1</a>),
 
 15\.
 die Durchführung von Klassenräten gemäß § 84a Satz 2,
@@ -6121,7 +6108,7 @@ Die Anzahl der Mitglieder nach Satz 1 Nr. 4 soll so bemessen sein, dass
 die an der Schule überwiegend vertretenen Berufssparten berücksichtigt
 werden.
 
-# <par id="P77">§ 77</par> Abs. 2 Satz 2 gilt entsprechend; die Benennung erfolgt für vier
+§ 77 Abs. 2 Satz 2 gilt entsprechend; die Benennung erfolgt für vier
 Jahre.
 
 Die oder der Vorsitzende wird jeweils für zwei Jahre abwechselnd aus dem
@@ -6143,9 +6130,9 @@ Sie berät und beschließt über alle wichtigen Angelegenheiten der Schule,
 insbesondere über die pädagogische und fachliche Gestaltung der
 Bildungs- und Erziehungsarbeit sowie die kontinuierliche Entwicklung und
 Sicherung der schulischen Qualität, soweit nicht die Schulkonferenz nach
-# <par id="P76">§ 76</par> Abs. 1 und 2 entscheidet.
+§ 76 Abs. 1 und 2 entscheidet.
 
-<abs id="P76A2">(2)</abs> Die Gesamtkonferenz fördert die Zusammenarbeit der Lehrkräfte und
+<abs id="P79A2">(2)</abs> Die Gesamtkonferenz fördert die Zusammenarbeit der Lehrkräfte und
 pädagogischen Mitarbeiterinnen und Mitarbeiter sowie die pädagogische
 und fachliche Kooperation mit anderen, insbesondere den benachbarten
 Schulen.
@@ -6174,7 +6161,7 @@ An Schulen, an denen nach <a href="#P80A2">§ 80 Absatz 2</a> Abteilungskonferen
 werden, tritt die Gesamtkonferenz mindestens zweimal im Jahr auf
 Einladung der Schulleiterin oder des Schulleiters zusammen.
 
-<abs id="P76A3">(3)</abs> Die Gesamtkonferenz entscheidet im Rahmen der Rechts- und
+<abs id="P79A3">(3)</abs> Die Gesamtkonferenz entscheidet im Rahmen der Rechts- und
 Verwaltungsvorschriften mit der Mehrheit von zwei Dritteln ihrer
 stimmberechtigten Mitglieder über die Einrichtung einer erweiterten
 Schulleitung (§ 74 Abs. 1) und mit einfacher Mehrheit insbesondere über
@@ -6232,7 +6219,7 @@ Haushaltsmittel,
 12\.
 Ordnungsmaßnahmen nach § 63 Abs. 2 Satz 1 Nr. 3.
 
-<abs id="P76A4">(4)</abs> Die Gesamtkonferenz kann Ausschüsse bilden und ihnen Aufgaben zur
+<abs id="P79A4">(4)</abs> Die Gesamtkonferenz kann Ausschüsse bilden und ihnen Aufgaben zur
 Beratung und Entscheidung übertragen.
 
 Die Ausschüsse wählen eine Vorsitzende oder einen Vorsitzenden.
@@ -6308,7 +6295,7 @@ die Versetzung, Zeugnisse und Abschlüsse sowie das Arbeits- und
 Sozialverhalten,
 
 2\.
-die Förderprognose (§ 56 Absatz 2),
+die Förderprognose (<a href="#P56A2">§ 56 Absatz 2</a>),
 
 3\.
 Umfang und Verteilung der Hausaufgaben und der Lernerfolgskontrolle,
@@ -6465,7 +6452,7 @@ nach § 73 oder die Klassenlehrerin oder den Klassenlehrer übertragen.
 
 Die Vertreterinnen und Vertreter der Schülerinnen und Schüler sowie der
 Erziehungsberechtigten nehmen an den Beratungen und Entscheidungen nach
-# <par id="P81">§ 81</par> Abs. 1 Satz 3 Nr. 1 und 2 nicht teil; an den Beratungen und
+§ 81 Abs. 1 Satz 3 Nr. 1 und 2 nicht teil; an den Beratungen und
 Entscheidungen nach § 81 Abs. 1 Satz 3 Nr. 8 und 9 nehmen sie nur teil,
 wenn die betroffene Schülerin oder der betroffene Schüler und ihre oder
 seine Erziehungsberechtigten dies wünschen.
@@ -6732,7 +6719,7 @@ anderer beruflicher Schulen, so sind die Studierendensprecherinnen oder
 Studierendensprecher der Semestergruppen Mitglieder der
 Abteilungsschülervertretung.
 
-# <par id="P86">§ 86</par> Absatz 1 Satz 4 gilt mit der Maßgabe, dass die
+<a href="#P86A1">§ 86 Absatz 1</a> Satz 4 gilt mit der Maßgabe, dass die
 Abteilungsschülervertretung eine Studierendensprecherin oder einen
 Studierendensprecher und eine Schülersprecherin oder einen
 Schülersprecher als Vertreterin oder Vertreter wählt, die an den
@@ -6783,8 +6770,7 @@ wahrnehmen, denen die Erziehung des Kindes mit Einverständnis der
 Sorgeberechtigten anvertraut oder mit anvertraut ist; das Einverständnis
 ist der Schule auf Verlangen schriftlich nachzuweisen.
 
-# <par id="P89">§ 89</par> Elternversammlungen, Sprecherinnen und Sprecher der
-Erziehungsberechtigten
+# <par id="P89">§ 89</par> Elternversammlungen, Sprecherinnen und Sprecher der Erziehungsberechtigten
 
 <abs id="P89A1">(1)</abs> Die Erziehungsberechtigten der Schülerinnen und Schüler jeder
 Klasse, die zu Beginn des Schuljahres in der Mehrzahl minderjährige
@@ -6945,8 +6931,7 @@ Schulen, die verschiedenen Abteilungen angehören sollen.
 
 Abschnitt VI Ergänzende Vorschriften
 
-# <par id="P92">§ 92</par> Schulen mit sonderpädagogischem Förderschwerpunkt und berufliche
-Schulen
+# <par id="P92">§ 92</par> Schulen mit sonderpädagogischem Förderschwerpunkt und berufliche Schulen
 
 An Schulen mit sonderpädagogischem Förderschwerpunkt und an beruflichen
 Schulen kann die Schulaufsichtsbehörde auf Antrag von zwei Dritteln der
@@ -7680,8 +7665,7 @@ Den Schulen soll Gelegenheit gegeben werden, die von ihnen getroffenen
 Maßnahmen vor der Entscheidung der Schulaufsichtsbehörde noch einmal zu
 überprüfen.
 
-# <par id="P107">§ 107</par> Schulpsychologische und inklusionspädagogische Beratung und
-Unterstützung
+# <par id="P107">§ 107</par> Schulpsychologische und inklusionspädagogische Beratung und Unterstützung
 
 <abs id="P107A1">(1)</abs> Die Schulpsychologischen und Inklusionspädagogischen Beratungs-
 und Unterstützungszentren (SIBUZ) sind Einrichtungen der
@@ -7920,7 +7904,7 @@ Vertreterinnen und Vertretern sowie einer Vertreterin oder einem
 Vertreter des bezirklichen Jugendhilfeausschusses, die oder der von
 diesem benannt wird.
 
-Des Weiteren gehören ihm je zwei der in § 110 Absatz 2 Satz 2 genannten
+Des Weiteren gehören ihm je zwei der in <a href="#P110A2">§ 110 Absatz 2</a> Satz 2 genannten
 Vertreterinnen und Vertreter sowie eine Vertreterin oder ein Vertreter
 des Ausschusses für Partizipation und Integration der
 Bezirksverordnetenversammlung mit beratender Stimme an.
@@ -8011,9 +7995,9 @@ je zwei Vertreterinnen oder Vertreter für den Landesschülerausschuss,
 den Landesausschuss des pädagogischen Personals und den
 Landeselternausschuss.
 
-# <par id="P110">§ 110</par> Abs. 3 Satz 3 gilt entsprechend.
+§ 110 Abs. 3 Satz 3 gilt entsprechend.
 
-<abs id="P110A4">(4)</abs> Die jeweils erste Sitzung der Ausschüsse Berufliche Schulen wird
+<abs id="P112A4">(4)</abs> Die jeweils erste Sitzung der Ausschüsse Berufliche Schulen wird
 von einer Vertreterin oder einem Vertreter der Schulaufsichtsbehörde
 einberufen; in dieser Sitzung werden die oder der Vorsitzende des
 jeweiligen Ausschusses Berufliche Schulen und die Stellvertreterin oder
@@ -8043,7 +8027,7 @@ Vertreter des Landesbeirats für Partizipation mit beratender Stimme an.
 
 <abs id="P113A3">(3)</abs> Die Vertreterinnen und Vertreter der Arbeitgeber und der
 Arbeitnehmer werden aus der Mitte aller Vertreterinnen und Vertreter der
-Arbeitgeber und der Arbeitnehmer in den Schulkonferenzen (§ 77 Absatz 2
+Arbeitgeber und der Arbeitnehmer in den Schulkonferenzen (<a href="#P77A2">§ 77 Absatz 2</a>
 Satz 1 Nummer 6) gewählt.
 
 Diese bilden jeweils Versammlungen, die einmal im Schulhalbjahr
@@ -8067,7 +8051,7 @@ und
 jeweils eine Vertreterin oder einen Vertreter aus der Gruppe der
 Arbeitgeber und Arbeitnehmer.
 
-# <par id="P110">§ 110</par> Abs. 3 Satz 3 und # <par id="P112">§ 112</par> Abs. 4 gelten entsprechend.
+§ 110 Abs. 3 Satz 3 und § 112 Abs. 4 gelten entsprechend.
 
 # <par id="P114">§ 114</par> Landesausschüsse
 
@@ -8795,8 +8779,7 @@ bildende Ersatzschulen gemäß §§ 98, 100 genehmigt oder anerkannt sind
 und die in Integrierte Sekundarschulen umgewandelt werden, gelten die
 Genehmigung oder Anerkennung fort.
 
-Sie erhalten bei Fortbestehen der Voraussetzungen die Zuschüsse nach §
-101 Absatz 2.
+Sie erhalten bei Fortbestehen der Voraussetzungen die Zuschüsse nach <a href="#P101A2">§ 101 Absatz 2</a>.
 
 Die Erfüllung der Anforderungen des <a href="#P98A3">§ 98 Absatz 3</a> an eine Integrierte
 Sekundarschule in freier Trägerschaft ist innerhalb eines Jahres nach
@@ -8820,21 +8803,21 @@ weiter Anwendung mit der Maßgabe, dass diese Ersatzschule, für die die
 Bezuschussung beantragt wird, spätestens mit Beginn des Schuljahres
 2014/2015 eröffnet.
 
-# <par id="P101">§ 101</par> Absatz 7 Satz 4 findet auf Ersatzschulen eines bewährten
+<a href="#P101A7">§ 101 Absatz 7</a> Satz 4 findet auf Ersatzschulen eines bewährten
 Schulträgers Anwendung, die nach dem in Satz 1 genannten Zeitpunkt
 genehmigt worden sind.
 
-<abs id="P101A5">(5)</abs> Bei der Aufnahme zum Schuljahr 2014/2015 ist § 56 Absatz 3 in der
+<abs id="P129A5">(5)</abs> Bei der Aufnahme zum Schuljahr 2014/2015 ist <a href="#P56A3">§ 56 Absatz 3</a> in der
 bis zum Inkrafttreten des Gesetzes zur Änderung des Schulgesetzes und
 weiterer Gesetze vom 26. März 2014 (GVBl. S. 78) geltenden Fassung
 anzuwenden.
 
-<abs id="P101A6">(6)</abs> Für Kinder nach <a href="#P55A1">§ 55 Absatz 1</a>, die im Schuljahr 2015/2016
+<abs id="P129A6">(6)</abs> Für Kinder nach <a href="#P55A1">§ 55 Absatz 1</a>, die im Schuljahr 2015/2016
 regelmäßig schulpflichtig werden, ist § 55 in der bis zum Inkrafttreten
 des Gesetzes zur Änderung des Schulgesetzes und weitere Gesetze vom 26.
 März 2014 (GVBl. S. 78) geltenden Fassung anzuwenden.
 
-<abs id="P101A7">(7)</abs> Für den Beginn der regelmäßigen Schulpflicht der Kinder, die
+<abs id="P129A7">(7)</abs> Für den Beginn der regelmäßigen Schulpflicht der Kinder, die
 zwischen dem 1. Oktober und 31. Dezember 2010 geboren sind, gilt <a href="#P42A1">§ 42 Absatz 1</a> in der bis zum Inkrafttreten des Gesetzes zur Änderung des
 Schulgesetzes und des Allgemeinen Zuständigkeitsgesetzes vom 4. Februar
 2016 (GVBl. S. 33) geltenden Fassung.
@@ -8842,9 +8825,9 @@ Schulgesetzes und des Allgemeinen Zuständigkeitsgesetzes vom 4. Februar
 Für die in Satz 1 genannten Kinder erfolgt die Rückstellung von der
 Schulbesuchspflicht für das Schuljahr 2016/2017 abweichend von <a href="#P42A3">§ 42 Absatz 3</a> allein aufgrund des Antrags der Erziehungsberechtigten.
 
-<abs id="P101A8">(8)</abs> Die Einschulungsbereiche für Gemeinschaftsschulen werden beginnend
+<abs id="P129A8">(8)</abs> Die Einschulungsbereiche für Gemeinschaftsschulen werden beginnend
 mit dem Einschulungsverfahren zum Schuljahr 2020/2021 verbindlich gemäß
-# <par id="P54">§ 54</par> Absatz 5 in der ab dem Inkrafttreten von Artikel 1 Nummer 32 des
+<a href="#P54A5">§ 54 Absatz 5</a> in der ab dem Inkrafttreten von Artikel 1 Nummer 32 des
 Gesetzes zur Änderung des Schulgesetzes und weiterer Rechtsvorschriften
 vom 18. Dezember 2018 (GVBl. S. 710) geltenden Fassung festgelegt.
 
@@ -8852,14 +8835,14 @@ Für das Einschulungsverfahren und das Aufnahmeverfahren für das
 Schuljahr 2019/2020 findet § 17a Absatz 5 in der bis zum Inkrafttreten
 von Artikel 1 Nummer 13 des vorgenannten Gesetzes geltenden Fassung
 weiter Anwendung, sofern die zuständige Schulbehörde nicht bereits
-Einschulungsbereiche gemäß § 54 Absatz 5 in der in Satz 1 genannten
+Einschulungsbereiche gemäß <a href="#P54A5">§ 54 Absatz 5</a> in der in Satz 1 genannten
 Fassung gebildet hat.
 
 Für das Übergangs- und Aufnahmeverfahren für das Schuljahr 2019/2020 in
 die Sekundarstufe I der Gemeinschaftsschule findet § 17a Absatz 5 in der
 in Satz 2 genannten Fassung ebenfalls weiter Anwendung.
 
-<abs id="P54A9">(9)</abs> Beschlüsse der Schulkonferenz gemäß § 76 Absatz 1 Nummer 9 und <a href="#P58A4">§ 58 Absatz 4</a> Satz 6 und 7 in der ab dem Inkrafttreten von Artikel 1
+<abs id="P129A9">(9)</abs> Beschlüsse der Schulkonferenz gemäß <a href="#P76A1">§ 76 Absatz 1</a> Nummer 9 und <a href="#P58A4">§ 58 Absatz 4</a> Satz 6 und 7 in der ab dem Inkrafttreten von Artikel 1
 Nummer 44 des Gesetzes zur Änderung des Schulgesetzes und weiterer
 Rechtsvorschriften vom 18. Dezember 2018 (GVBl. S. 710) geltenden
 Fassung können erstmals mit Wirkung für das Schuljahr 2019/2020
@@ -8870,35 +8853,33 @@ in der bis zum Inkrafttreten von Artikel 1 Nummer 13 des in Satz 1
 genannten Gesetzes geltenden Fassung gelten für das Schuljahr 2018/19
 fort.
 
-<abs id="P54A10">(10)</abs> Schulen, die an der Pilotphase der Gemeinschaftsschule gemäß §
+<abs id="P129A10">(10)</abs> Schulen, die an der Pilotphase der Gemeinschaftsschule gemäß §
 17a in der bis zum Inkrafttreten von Artikel 1 Nummer 13 des Gesetzes
 zur Änderung des Schulgesetzes und weiterer Rechtsvorschriften vom 18.
 Dezember 2018 (GVBl. S. 710) geltenden Fassung teilgenommen haben, sind
 ab dem Zeitpunkt des Inkrafttretens von Artikel 1 Nummer 17 des
 vorgenannten Gesetzes Gemeinschaftsschulen im Sinne dieses Gesetzes.
 
-<abs id="P54A11">(11)</abs> Schülerinnen und Schüler, die zum Zeitpunkt des Inkrafttretens
+<abs id="P129A11">(11)</abs> Schülerinnen und Schüler, die zum Zeitpunkt des Inkrafttretens
 von Artikel 1 Nummer 21 und 22 des Gesetzes zur Änderung des
 Schulgesetzes und weiterer Rechtsvorschriften vom 18. Dezember 2018
-(GVBl. S. 710) Lehrgänge nach § 29 Absatz 3 und 4 oder einjährige
-Bildungsgänge nach § 30 Absatz 1 in der bis zu diesem Zeitpunkt
+(GVBl. S. 710) Lehrgänge nach <a href="#P29A3">§ 29 Absatz 3</a> und 4 oder einjährige
+Bildungsgänge nach <a href="#P30A1">§ 30 Absatz 1</a> in der bis zu diesem Zeitpunkt
 geltenden Fassung besuchen, beenden diese Lehrgänge nach den bis zu
 diesem Zeitpunkt geltenden Bestimmungen.
 
-<abs id="P54A12">(12)</abs> Die nach <a href="#P8A2">§ 8 Absatz 2</a> Nummer 5, 6, 9, 12 und 13 erforderlichen
+<abs id="P129A12">(12)</abs> Die nach <a href="#P8A2">§ 8 Absatz 2</a> Nummer 5, 6, 9, 12 und 13 erforderlichen
 Konzepte sind von der Schule erstmalig zum Schuljahr 2022/2023
 vorzuhalten oder anzupassen.
 
-<abs id="P54A13">(13)</abs> <a href="#P5A3">§ 5 Absatz 3</a>, <a href="#P7A2">§ 7 Absatz 2</a>a Satz 2, § 15, <a href="#P19A6">§ 19 Absatz 6</a>, § 22
-Absatz 3, <a href="#P23A3">§ 23 Absatz 3</a>, § 26 Absatz 3, § 39 Nummer 3, <a href="#P41A3">§ 41 Absatz 3</a>a, <a href="#P52A2">§ 52 Absatz 2</a>a, <a href="#P55A3">§ 55 Absatz 3</a>, <a href="#P69A1">§ 69 Absatz 1</a>, <a href="#P74A3">§ 74 Absatz 3</a>, § 76 Absatz
-1, § 77 Absatz 1, <a href="#P82A1">§ 82 Absatz 1</a> und 2, <a href="#P84A1">§ 84 Absatz 1</a> und 3, § 84a, <a href="#P85A1">§ 85 Absatz 1</a>, <a href="#P95A4">§ 95 Absatz 4</a>, <a href="#P115A4">§ 115 Absatz 4</a> und 4a sowie <a href="#P116A1">§ 116 Absatz 1</a>, 7
+<abs id="P129A13">(13)</abs> <a href="#P5A3">§ 5 Absatz 3</a>, <a href="#P7A2">§ 7 Absatz 2</a>a Satz 2, § 15, <a href="#P19A6">§ 19 Absatz 6</a>, <a href="#P22A3">§ 22 Absatz 3</a>, <a href="#P23A3">§ 23 Absatz 3</a>, <a href="#P26A3">§ 26 Absatz 3</a>, § 39 Nummer 3, <a href="#P41A3">§ 41 Absatz 3</a>a, <a href="#P52A2">§ 52 Absatz 2</a>a, <a href="#P55A3">§ 55 Absatz 3</a>, <a href="#P69A1">§ 69 Absatz 1</a>, <a href="#P74A3">§ 74 Absatz 3</a>, <a href="#P76A1">§ 76 Absatz 1</a>, <a href="#P77A1">§ 77 Absatz 1</a>, <a href="#P82A1">§ 82 Absatz 1</a> und 2, <a href="#P84A1">§ 84 Absatz 1</a> und 3, § 84a, <a href="#P85A1">§ 85 Absatz 1</a>, <a href="#P95A4">§ 95 Absatz 4</a>, <a href="#P115A4">§ 115 Absatz 4</a> und 4a sowie <a href="#P116A1">§ 116 Absatz 1</a>, 7
 und 8 in der ab dem Inkrafttreten des Vierten Gesetzes zur Änderung des
 Schulgesetzes vom 27. September 2021 (GVBl. S. 1125) geltenden Fassung
 treten zu Beginn des Schuljahres 2022/2023 in Kraft.
 
-<abs id="P54A14">(14)</abs> Für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in
+<abs id="P129A14">(14)</abs> Für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in
 der Jahrgangsstufe 6 der Primarstufe befinden, wird die
-Durchschnittsnote der Förderprognose abweichend von § 56 Absatz 3 aus
+Durchschnittsnote der Förderprognose abweichend von <a href="#P56A3">§ 56 Absatz 3</a> aus
 den am Ende der Jahrgangsstufe 5 und den im ersten Schulhalbjahr der
 Jahrgangsstufe 6 erteilten Zeugnisnoten gebildet, wobei die Fächer
 Deutsch, Mathematik, Fremdsprache, Gesellschaftswissenschaften und
@@ -8912,49 +8893,48 @@ Durchschnittsnote von 2,2 überschreitet, nur dann an einem Gymnasium
 anmelden, wenn die Eignung für den Besuch des Gymnasiums nachgewiesen
 wird.
 
-<abs id="P54A15">(15)</abs> <a href="#P56A5">§ 56 Absatz 5</a> in der Fassung des Zweiten Gesetzes zur Änderung
+<abs id="P129A15">(15)</abs> <a href="#P56A5">§ 56 Absatz 5</a> in der Fassung des Zweiten Gesetzes zur Änderung
 des Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024
 (GVBl. S. 465) findet erstmalig auf die Schülerinnen und Schüler
 Anwendung, die sich im Schuljahr 2025/2026 in der Jahrgangsstufe 7
 befinden.
 
-<abs id="P54A16">(16)</abs> Auf Schülerinnen und Schüler in der dualen Ausbildung, die zum
+<abs id="P129A16">(16)</abs> Auf Schülerinnen und Schüler in der dualen Ausbildung, die zum
 Zeitpunkt des Inkrafttretens von Artikel 1 Nummer 13 Buchstabe a des
 Zweiten Gesetzes zur Änderung des Schulgesetzes und weiterer
 Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) die Berufsschule
-besuchen, findet § 29 Absatz 2 Satz 1 in der bis zu diesem Zeitpunkt
+besuchen, findet <a href="#P29A2">§ 29 Absatz 2</a> Satz 1 in der bis zu diesem Zeitpunkt
 geltenden Fassung Anwendung.
 
-# <par id="P29">§ 29</par> Absatz 3 in der Fassung des Zweiten Gesetzes zur Änderung des
+<a href="#P29A3">§ 29 Absatz 3</a> in der Fassung des Zweiten Gesetzes zur Änderung des
 Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024 (GVBl.
 S. 465) findet erstmalig auf die Schülerinnen und Schüler Anwendung, die
 im Schuljahr 2025/2026 den Bildungsgang „Integrierte
 Berufsausbildungsvorbereitung“ aufnehmen.
 
-<abs id="P29A17">(17)</abs> <a href="#P43A1">§ 43 Absatz 1</a> und 4, <a href="#P43aA3">§ 43a Absatz 3</a> und 4 sowie <a href="#P43bA2">§ 43b Absatz 2</a>
+<abs id="P129A17">(17)</abs> <a href="#P43A1">§ 43 Absatz 1</a> und 4, <a href="#P43aA3">§ 43a Absatz 3</a> und 4 sowie <a href="#P43bA2">§ 43b Absatz 2</a>
 und 3 in der Fassung des Zweiten Gesetzes zur Änderung des Schulgesetzes
 und weiterer Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) finden
 erstmalig auf die Schülerinnen und Schüler Anwendung, die sich im
 Schuljahr 2024/2025 im zehnten Schulbesuchsjahr gemäß <a href="#P42A4">§ 42 Absatz 4</a>
 befinden.
 
-<abs id="P29A18">(18)</abs> <a href="#P57A3">§ 57 Absatz 3</a> in der Fassung des Zweiten Gesetzes zur Änderung
+<abs id="P129A18">(18)</abs> <a href="#P57A3">§ 57 Absatz 3</a> in der Fassung des Zweiten Gesetzes zur Änderung
 des Schulgesetzes und weiterer Rechtsvorschriften vom 10. Juli 2024
 (GVBl. S. 465) findet erstmalig im Aufnahmeverfahren für das Schuljahr
 2025/2026 Anwendung.
 
-<abs id="P29A19">(19)</abs> <a href="#P59A1">§ 59 Absatz 1</a> Satz 4 und Absatz 3 Satz 3 in der Fassung des
+<abs id="P129A19">(19)</abs> <a href="#P59A1">§ 59 Absatz 1</a> Satz 4 und Absatz 3 Satz 3 in der Fassung des
 Zweiten Gesetzes zur Änderung des Schulgesetzes und weiterer
 Rechtsvorschriften vom 10. Juli 2024 (GVBl. S. 465) findet erstmalig auf
 die Schülerinnen und Schüler Anwendung, die im Schuljahr 2025/2026 einen
 Bildungsgang der Fachoberschule aufnehmen.
 
-# <par id="P129a">§ 129a</par> Sonderregelungen auf Grund der Ausbreitung des Coronavirus SARS
-CoV 2
+# <par id="P129a">§ 129a</par> Sonderregelungen auf Grund der Ausbreitung des Coronavirus SARS CoV 2
 
 <abs id="P129aA1">(1)</abs> Bestehen Schülerinnen und Schüler die im Schuljahr 2022/2023
 durchgeführte Abiturprüfung nicht, können sie diese wiederholen, ohne
-dass diese Wiederholung auf die Höchstverweildauer gemäß § 28 Absatz 1
+dass diese Wiederholung auf die Höchstverweildauer gemäß <a href="#P28A1">§ 28 Absatz 1</a>
 Satz 3 und 4 und auf die Anzahl von zulässigen Wiederholungen gemäß <a href="#P60A2">§ 60 Absatz 2</a> Satz 3 und 4 angerechnet wird.
 
 Satz 1 gilt für Nichtschülerinnen und Nichtschüler entsprechend.
@@ -8993,7 +8973,7 @@ oder Rücktritt gemäß <a href="#P129aA2">§ 129a Absatz 2</a> in der bis zum 3
 geltenden Fassung in Anspruch genommen haben.
 
 Der durch den Rücktritt verlängerte Besuch der gymnasialen Oberstufe
-wird nicht auf die zulässige Höchstverweildauer gemäß § 28 Absatz 1 Satz
+wird nicht auf die zulässige Höchstverweildauer gemäß <a href="#P28A1">§ 28 Absatz 1</a> Satz
 3 und 4 sowie gemäß § 2 Absatz 5 der Verordnung über die gymnasiale
 Oberstufe vom 18. April 2007 (GVBl. S. 156), die zuletzt durch Artikel 2
 der Verordnung vom 17. Dezember 2021 (GVBl. S. 1390) geändert worden
@@ -9003,14 +8983,14 @@ ist, in der jeweils geltenden Fassung, und § 2 Absatz 5 der Verordnung
 Verordnung vom 17. Dezember 2021 (GVBl. S. 1390) geändert worden ist, in
 der jeweils geltenden Fassung, angerechnet und ergänzt das
 Rücktrittsrecht gemäß § 27 Absatz 1 und <a href="#P35A1">§ 35 Absatz 1</a> und 2 der
-Verordnung über die gymnasiale Oberstufe und gemäß § 28 Absatz 2 bis 4,
-# <par id="P30">§ 30</par> Absatz 3, # <par id="P36">§ 36</par> Absatz 1 und # <par id="P37">§ 37</par> Absatz 2 der Verordnung über die
+Verordnung über die gymnasiale Oberstufe und gemäß <a href="#P28A2">§ 28 Absatz 2</a> bis 4,
+<a href="#P30A3">§ 30 Absatz 3</a>, <a href="#P36A1">§ 36 Absatz 1</a> und <a href="#P37A2">§ 37 Absatz 2</a> der Verordnung über die
 staatlichen Kollegs und Abendgymnasien, das unberührt bleibt.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P30A3">(3)</abs> Bestehen Schülerinnen und Schüler sowie Studierende die im
+<abs id="P129aA3">(3)</abs> Bestehen Schülerinnen und Schüler sowie Studierende die im
 Schuljahr 2022/2023 durchgeführte Abschlussprüfung der Fachschulen, der
 Berufsfachschulen in Bildungsgängen mit schulischer Abschlussprüfung,
 der Fachoberschulen oder der Berufsoberschulen oder die Zusatzprüfung
@@ -9032,19 +9012,18 @@ geändert worden ist, oder im Schuljahr 2021/2022 das Recht auf
 Zurückstellung von der Prüfung gemäß § 5a der
 Berufliche-Schulen-COVID-19-Verordnung 2021/2022 vom 10. November 2021
 (GVBl. S. 1245), die zuletzt durch Artikel 2 der Verordnung vom 19.
-April 2022 (GVBl. S. 166) geändert worden ist, oder Wiederholung gemäß §
-129a Absatz 3 in der bis zum 31. Juli 2022 geltenden Fassung in Anspruch
+April 2022 (GVBl. S. 166) geändert worden ist, oder Wiederholung gemäß <a href="#P129aA3">§ 129a Absatz 3</a> in der bis zum 31. Juli 2022 geltenden Fassung in Anspruch
 genommen haben.
 
 Für Nichtschülerinnen und Nichtschüler, die im Schuljahr 2021/2022 das
-Recht auf Wiederholung gemäß § 129a Absatz 3 in der bis zum 31. Juli
+Recht auf Wiederholung gemäß <a href="#P129aA3">§ 129a Absatz 3</a> in der bis zum 31. Juli
 2022 geltenden Fassung in Anspruch genommen haben, ist eine Wiederholung
 nach Satz 2 in Verbindung mit Satz 1 ausgeschlossen.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P30A4">(4)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2022/2023 im
+<abs id="P129aA4">(4)</abs> Schülerinnen und Schüler, die sich im Schuljahr 2022/2023 im
 zweiten Jahr eines dreijährigen Bildungsgangs einer beruflichen Schule
 oder im dritten Jahr eines vierjährigen Bildungsgangs einer beruflichen
 Schule befinden, können im Schuljahr 2022/2023 auf Antrag der
@@ -9055,8 +9034,7 @@ Satz 1 gilt für Studierende der Fachschulen entsprechend mit der
 Maßgabe, dass diese in das folgende Semester zurücktreten.
 
 Der durch den Rücktritt verlängerte Besuch des Bildungsgangs wird nicht
-auf die Anzahl von zulässigen Wiederholungen oder Rücktritten gemäß § 59
-Absatz 4 sowie gemäß <a href="#P12A4">§ 12 Absatz 4</a> der Berufsfachschulverordnung vom 14.
+auf die Anzahl von zulässigen Wiederholungen oder Rücktritten gemäß <a href="#P59A4">§ 59 Absatz 4</a> sowie gemäß <a href="#P12A4">§ 12 Absatz 4</a> der Berufsfachschulverordnung vom 14.
 Juli 2009 (GVBl. S. 327), die zuletzt durch Artikel 6 der Verordnung vom
 28. Dezember 2021 (GVBl. 2022 S. 2) geändert worden ist, in der jeweils
 geltenden Fassung, <a href="#P11A4">§ 11 Absatz 4</a> der Sozialpädagogikverordnung vom 13.
@@ -9079,13 +9057,13 @@ Ausbildung befinden.
 
 Ein Rücktritt gemäß Satz 1 oder Satz 2 in Verbindung mit Satz 1 ist für
 Schülerinnen und Schüler sowie Studierende ausgeschlossen, die im
-Schuljahr 2021/2022 das Recht auf Rücktritt gemäß § 129a Absatz 4 in der
+Schuljahr 2021/2022 das Recht auf Rücktritt gemäß <a href="#P129aA4">§ 129a Absatz 4</a> in der
 bis zum 31. Juli 2022 geltenden Fassung in Anspruch genommen haben.
 
 Der Antrag ist schriftlich bei der Schulleiterin oder dem Schulleiter zu
 stellen.
 
-<abs id="P30A5">(5)</abs> Soweit es auf Grund der Ausbreitung des Coronavirus SARS-CoV-2
+<abs id="P129aA5">(5)</abs> Soweit es auf Grund der Ausbreitung des Coronavirus SARS-CoV-2
 erforderlich ist, können Gremien in den Schuljahren 2019/2020,
 2020/2021, 2021/2022 und 2022/2023 ihre Sitzungen als Videokonferenz
 durchführen.

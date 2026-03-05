@@ -4,7 +4,7 @@ import pypandoc
 from textnorm import normalize_space
 import re
 
-r = requests.get("https://www.schulgesetz-berlin.de/berlin/schulgesetz/gesamtes-schulgesetz-anzeigen.php")
+r = requests.get("https://schulgesetz-berlin.de/schulgesetz-berlin/gesamtansicht.php")
 if r.ok:
 	r.encoding = r.apparent_encoding
 	fullhtml = r.text
@@ -28,6 +28,12 @@ for match in content.find_all("p", ["druckfooter", "druckleerzeile"]):
 for match in content.find_all("a"):
     match.unwrap()
 
+# New format doesn't use h1 tags, so we insert them so pandoc handles the headings correctly
+for match in content.find_all("p", class_="output_paragraph"):
+    h1tag = soup.new_tag("h1")
+    h1tag.string = match.get_text()
+    match.replace_with(h1tag)
+
 htmlcontent = str(content)
 
 rawmd = pypandoc.convert_text(htmlcontent, 'markdown_strict', format='html')
@@ -44,10 +50,10 @@ currentpar = 0
 padict = {}
 
 for line in cleanmd.splitlines():
-	par = re.match(r'§ (\d+[abcdef]?)', line)
+	par = re.match(r'# § (\d+[abcdef]?)', line)
 	if par:
 		print('\n§', par.group(1))
-		line = re.sub(r'§ (\d+[abcdef]?)', r'# <par id="P\1">§ \1</par>', line)
+		line = re.sub(r'§ (\d+[abcdef]?)', r'<par id="P\1">§ \1</par>', line)
 		currentpar = par.group(1)
 		padict[currentpar] = set()
 	abs = re.match(r'^\\\((\d+)\\\)', line)
