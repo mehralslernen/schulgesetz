@@ -24,6 +24,21 @@
 				color: #851830;
 				display: block;
 			}
+			par, abs {
+				position: relative;
+			}
+			par:hover, abs:hover {
+				cursor: pointer;
+			}
+			par:hover::before, abs:hover::before {
+				content: "🔗";
+				position: absolute;
+				left: -1.2em;
+				cursor: pointer;
+			}
+			par.copied:hover::before, abs.copied:hover::before {
+				content: "📋";
+			}
 			@media (max-width:500px) {
 				h1, h2 { font-size: 1.2em; }
 				body { width: 90% }
@@ -48,6 +63,20 @@
 			{{ content }}
 		</main>
 	</body>
+	<script>
+		let anchors = document.querySelectorAll("par, abs")
+		for (anchor of anchors) {
+			anchor.addEventListener("click", (e) => {
+				url = window.location.origin + "/#" + e.target.id
+				history.pushState({}, '', url);
+				navigator.clipboard.writeText(url);
+				let c = document.querySelector(".copied")
+				if (c) c.classList.remove('copied')
+				e.target.classList.add('copied')
+				console.log('copied anchor #' + e.target.id)
+			})
+		}
+	</script>
 	{% if jekyll.environment == "development" %}
 		<script src="http://127.0.0.1:35729/livereload.js"></script>
 	{% endif %}
