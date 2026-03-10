@@ -4,6 +4,25 @@ import pypandoc
 from textnorm import normalize_space
 import re
 
+"""
+TODO:
+A way better approach would be to not scrape this website, but get the data from the source
+Which is here: https://gesetze.berlin.de/bsbe/document/jlr-SchulGBErahmen
+We can fetch an XML version (in a zip file) there:
+https://gesetze.berlin.de/jportal/bsbeAizDownload/SchulG_BE.zip?doc.id=jlr-SchulGBErahmen&doc.part=X&_=%2FSchulG_BE.zip
+Then either parse directly or use XSLT to convert to Markdown or HTML
+
+Syntax for XSLT ref in XML:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="class.xsl"?>
+
+or use e.g. xsltproc
+
+The latter makes more sense, this is the kind of static content
+that should be rendered once on the server and then never again
+"""
+
 r = requests.get("https://schulgesetz-berlin.de/schulgesetz-berlin/gesamtansicht.php")
 if r.ok:
 	r.encoding = r.apparent_encoding
